@@ -1,6 +1,6 @@
-<dir><title>[COLOR white]Live TV[/COLOR]</title><link>https://archive.org/download/JudgementMedia/Media/livetv.xml</link></dir>
+<dir><title>[COLOR white]Live TV[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/livetv.xml</link></dir>
 <dir><title>[COLOR white]Movies[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies.xml</link></dir>
-<dir><title>[COLOR white]TV Shows[/COLOR]</title><link>https://archive.org/download/JudgementMedia/Media/tvshows.xml</link></dir>
-<dir><title>[COLOR white]Kids[/COLOR]</title><link>https://archive.org/download/JudgementMedia/Media/kids.xml</link></dir>
-<dir><title>[COLOR white]Music[/COLOR]</title><link>https://archive.org/download/JudgementMedia/Media/music.xml</link></dir>
+<dir><title>[COLOR white]TV Shows[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshows.xml</link></dir>
+<dir><title>[COLOR white]Kids[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/kids.xml</link></dir>
+<dir><title>[COLOR white]Music[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/music.xml</link></dir>
 <dir><title>[COLOR white]Search[/COLOR]</title><tmdb>search</tmdb></dir>
