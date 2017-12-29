@@ -1,0 +1,975 @@
+#EXTM3U
+
+#EXTINF:-1,***** Judgement IPTV! (Test List) *****
+http://1
+
+#EXTINF:-1,***** Last Updated: 27/12/2017 *****
+http://2
+
+#EXTINF:-1,***** Some Links May Need A Few Clicks! *****
+http://3
+
+#EXTINF:-1,***** Hope You Enjoy! *****
+http://4
+
+#EXTINF:-1,***** Twitter: @JudgementWiz *****
+http://5
+
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK HD :  LIFETIME HD" tvg-logo="" group-title="UK",UK HD :  LIFETIME HD
+http://xports.ddns.net:25461/live/beast/beast/501.m3u8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK HD :  MORE 4 HD" tvg-logo="" group-title="UK",UK HD :  MORE 4 HD
+http://xports.ddns.net:25461/live/beast/beast/500.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK HD :  SKY ARTS HD" tvg-logo="" group-title="UK",UK HD :  SKY ARTS HD
+http://xports.ddns.net:25461/live/beast/beast/499.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK HD :  SKY SPORTS FHD GOLF (THE OPEN)" tvg-logo="" group-title="SPORTS",UK HD :  SKY SPORTS FHD GOLF (THE OPEN)
+http://xports.ddns.net:25461/live/beast/beast/498.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK HD :  SKY SPORTS FHD PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",UK HD :  SKY SPORTS FHD PREMIER LEAGUE
+http://xports.ddns.net:25461/live/beast/beast/497.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK HD :  SKY SPORTS HD GOLF (THE OPEN)" tvg-logo="" group-title="SPORTS",UK HD :  SKY SPORTS HD GOLF (THE OPEN)
+http://xports.ddns.net:25461/live/beast/beast/496.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK HD :  SKY SPORTS HD PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",UK HD :  SKY SPORTS HD PREMIER LEAGUE
+http://xports.ddns.net:25461/live/beast/beast/495.m3u8
+#EXTINF:-1 tvg-id="&TV.uk" tvg-name="UK HD : & TV HD" tvg-logo="" group-title="UK",UK HD : & TV HD
+http://xports.ddns.net:25461/live/beast/beast/494.m3u8
+#EXTINF:-1 tvg-id="3e.uk" tvg-name="UK HD : 3e HD" tvg-logo="" group-title="UK",UK HD : 3e HD
+http://xports.ddns.net:25461/live/beast/beast/493.m3u8
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK HD : ALIBI HD" tvg-logo="" group-title="UK",UK HD : ALIBI HD
+http://xports.ddns.net:25461/live/beast/beast/492.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK HD : ANIMAL PLANET HD" tvg-logo="" group-title="UK",UK HD : ANIMAL PLANET HD
+http://xports.ddns.net:25461/live/beast/beast/491.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK HD : BBC CBBC HD" tvg-logo="" group-title="UK",UK HD : BBC CBBC HD
+http://xports.ddns.net:25461/live/beast/beast/490.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK HD : BBC HD 1" tvg-logo="" group-title="UK",UK HD : BBC HD 1
+http://xports.ddns.net:25461/live/beast/beast/489.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK HD : BBC HD 2" tvg-logo="" group-title="UK",UK HD : BBC HD 2
+http://xports.ddns.net:25461/live/beast/beast/488.m3u8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK HD : BBC HD 4 / CBEEBIES HD" tvg-logo="" group-title="UK",UK HD : BBC HD 4 / CBEEBIES HD
+http://xports.ddns.net:25461/live/beast/beast/487.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK HD : BBC NEWS HD" tvg-logo="" group-title="UK",UK HD : BBC NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/486.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="UK HD : Bloomberg HD" tvg-logo="" group-title="UK",UK HD : Bloomberg HD
+http://xports.ddns.net:25461/live/beast/beast/485.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK HD : BOX NATION HD" tvg-logo="" group-title="UK",UK HD : BOX NATION HD
+http://xports.ddns.net:25461/live/beast/beast/484.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK HD : BT ESPN HD" tvg-logo="" group-title="UK",UK HD : BT ESPN HD
+http://xports.ddns.net:25461/live/beast/beast/483.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK HD : BT FHD 1" tvg-logo="" group-title="UK",UK HD : BT FHD 1
+http://xports.ddns.net:25461/live/beast/beast/482.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK HD : BT FHD 2" tvg-logo="" group-title="UK",UK HD : BT FHD 2
+http://xports.ddns.net:25461/live/beast/beast/481.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK HD : BT FHD 3" tvg-logo="" group-title="UK",UK HD : BT FHD 3
+http://xports.ddns.net:25461/live/beast/beast/480.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK HD : BT HD1" tvg-logo="" group-title="UK",UK HD : BT HD1
+http://xports.ddns.net:25461/live/beast/beast/479.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK HD : BT HD2" tvg-logo="" group-title="UK",UK HD : BT HD2
+http://xports.ddns.net:25461/live/beast/beast/478.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK HD : BT HD3" tvg-logo="" group-title="UK",UK HD : BT HD3
+http://xports.ddns.net:25461/live/beast/beast/477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : BT SPORTS EXTRA" tvg-logo="" group-title="SPORTS",UK HD : BT SPORTS EXTRA
+http://xports.ddns.net:25461/live/beast/beast/476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : BT SPORTS EXTRA 2" tvg-logo="" group-title="SPORTS",UK HD : BT SPORTS EXTRA 2
+http://xports.ddns.net:25461/live/beast/beast/475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : BT SPORTS EXTRA 3" tvg-logo="" group-title="SPORTS",UK HD : BT SPORTS EXTRA 3
+http://xports.ddns.net:25461/live/beast/beast/474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : BT SPORTS EXTRA 4" tvg-logo="" group-title="SPORTS",UK HD : BT SPORTS EXTRA 4
+http://xports.ddns.net:25461/live/beast/beast/473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : BT SPORTS EXTRA 5" tvg-logo="" group-title="SPORTS",UK HD : BT SPORTS EXTRA 5
+http://xports.ddns.net:25461/live/beast/beast/472.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK HD : CARTOON NETWORK HD" tvg-logo="" group-title="UK",UK HD : CARTOON NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/471.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK HD : CHANNEL 4 HD" tvg-logo="" group-title="UK",UK HD : CHANNEL 4 HD
+http://xports.ddns.net:25461/live/beast/beast/470.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK HD : CHANNEL 5 HD" tvg-logo="" group-title="UK",UK HD : CHANNEL 5 HD
+http://xports.ddns.net:25461/live/beast/beast/469.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="UK HD : CHELSEA TV HD" tvg-logo="" group-title="UK",UK HD : CHELSEA TV HD
+http://xports.ddns.net:25461/live/beast/beast/468.m3u8
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="UK HD : CI HD (crime and investigation)" tvg-logo="" group-title="UK",UK HD : CI HD (crime and investigation)
+http://xports.ddns.net:25461/live/beast/beast/467.m3u8
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK HD : CNN HD" tvg-logo="" group-title="UK",UK HD : CNN HD
+http://xports.ddns.net:25461/live/beast/beast/466.m3u8
+#EXTINF:-1 tvg-id="COLORS.uk" tvg-name="UK HD : COLORS HD" tvg-logo="" group-title="UK",UK HD : COLORS HD
+http://xports.ddns.net:25461/live/beast/beast/465.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK HD : COMEDY CENTRAL HD" tvg-logo="" group-title="UK",UK HD : COMEDY CENTRAL HD
+http://xports.ddns.net:25461/live/beast/beast/464.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK HD : DAVE HD" tvg-logo="" group-title="UK",UK HD : DAVE HD
+http://xports.ddns.net:25461/live/beast/beast/463.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="UK HD : DISCOVERY HD" tvg-logo="" group-title="UK",UK HD : DISCOVERY HD
+http://xports.ddns.net:25461/live/beast/beast/462.m3u8
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK HD : DISNEY CHANNEL HD" tvg-logo="" group-title="UK",UK HD : DISNEY CHANNEL HD
+http://xports.ddns.net:25461/live/beast/beast/461.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="UK HD : DISNEY JUNIOR HD" tvg-logo="" group-title="UK",UK HD : DISNEY JUNIOR HD
+http://xports.ddns.net:25461/live/beast/beast/460.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="UK HD : DISNEY XD HD" tvg-logo="" group-title="UK",UK HD : DISNEY XD HD
+http://xports.ddns.net:25461/live/beast/beast/459.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK HD : E4 HD" tvg-logo="" group-title="UK",UK HD : E4 HD
+http://xports.ddns.net:25461/live/beast/beast/458.m3u8
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK HD : EDEN HD" tvg-logo="" group-title="UK",UK HD : EDEN HD
+http://xports.ddns.net:25461/live/beast/beast/457.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK HD : EUROSPORTS HD" tvg-logo="" group-title="SPORTS",UK HD : EUROSPORTS HD
+http://xports.ddns.net:25461/live/beast/beast/456.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK HD : EUROSPORTS HD 2" tvg-logo="" group-title="SPORTS",UK HD : EUROSPORTS HD 2
+http://xports.ddns.net:25461/live/beast/beast/455.m3u8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK HD : FILM 4 HD" tvg-logo="" group-title="UK",UK HD : FILM 4 HD
+http://xports.ddns.net:25461/live/beast/beast/454.m3u8
+#EXTINF:-1 tvg-id="Fox.uk" tvg-name="UK HD : FOX HD" tvg-logo="" group-title="UK",UK HD : FOX HD
+http://xports.ddns.net:25461/live/beast/beast/453.m3u8
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK HD : GOOD FOOD HD" tvg-logo="" group-title="UK",UK HD : GOOD FOOD HD
+http://xports.ddns.net:25461/live/beast/beast/452.m3u8
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK HD : HISTORY 2 HD" tvg-logo="" group-title="UK",UK HD : HISTORY 2 HD
+http://xports.ddns.net:25461/live/beast/beast/451.m3u8
+#EXTINF:-1 tvg-id="HISTORY.uk" tvg-name="UK HD : HISTORY HD" tvg-logo="" group-title="UK",UK HD : HISTORY HD
+http://xports.ddns.net:25461/live/beast/beast/450.m3u8
+#EXTINF:-1 tvg-id="Insight.uk" tvg-name="UK HD : INSIGHT UHD" tvg-logo="" group-title="UK",UK HD : INSIGHT UHD
+http://xports.ddns.net:25461/live/beast/beast/449.m3u8
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK HD : ITV BE HD" tvg-logo="" group-title="UK",UK HD : ITV BE HD
+http://xports.ddns.net:25461/live/beast/beast/448.m3u8
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK HD : ITV HD 1" tvg-logo="" group-title="UK",UK HD : ITV HD 1
+http://xports.ddns.net:25461/live/beast/beast/447.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK HD : ITV HD 2" tvg-logo="" group-title="UK",UK HD : ITV HD 2
+http://xports.ddns.net:25461/live/beast/beast/446.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK HD : ITV HD 3" tvg-logo="" group-title="UK",UK HD : ITV HD 3
+http://xports.ddns.net:25461/live/beast/beast/445.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK HD : ITV HD 4" tvg-logo="" group-title="UK",UK HD : ITV HD 4
+http://xports.ddns.net:25461/live/beast/beast/444.m3u8
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK HD : LFC HD" tvg-logo="" group-title="UK",UK HD : LFC HD
+http://xports.ddns.net:25461/live/beast/beast/443.m3u8
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK HD : MTV HD" tvg-logo="http://my.tvguide.co.uk/channel_logos/187.png" group-title="UK",UK HD : MTV HD
+http://xports.ddns.net:25461/live/beast/beast/442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : MTV LIVE HD" tvg-logo="" group-title="UK",UK HD : MTV LIVE HD
+http://xports.ddns.net:25461/live/beast/beast/441.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK HD : MUTV HD" tvg-logo="http://my.tvguide.co.uk/channel_logos/204.png" group-title="UK",UK HD : MUTV HD
+http://xports.ddns.net:25461/live/beast/beast/440.m3u8
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK HD : NAT GEO HD" tvg-logo="http://my.tvguide.co.uk/channel_logos/205.png" group-title="UK",UK HD : NAT GEO HD
+http://xports.ddns.net:25461/live/beast/beast/439.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK HD : NAT GEO WILD HD" tvg-logo="" group-title="UK",UK HD : NAT GEO WILD HD
+http://xports.ddns.net:25461/live/beast/beast/438.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK HD : NICK HD" tvg-logo="" group-title="UK",UK HD : NICK HD
+http://xports.ddns.net:25461/live/beast/beast/437.m3u8
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="UK HD : PREMIER SPORTS HD" tvg-logo="" group-title="SPORTS",UK HD : PREMIER SPORTS HD
+http://xports.ddns.net:25461/live/beast/beast/436.m3u8
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK HD : RACING UK HD" tvg-logo="" group-title="UK",UK HD : RACING UK HD
+http://xports.ddns.net:25461/live/beast/beast/435.m3u8
+#EXTINF:-1 tvg-id="RT.usa" tvg-name="UK HD : RT AMERICA HD" tvg-logo="" group-title="UK",UK HD : RT AMERICA HD
+http://xports.ddns.net:25461/live/beast/beast/434.m3u8
+#EXTINF:-1 tvg-id="RT.usa" tvg-name="UK HD : RT DOCUMENTRY HD" tvg-logo="" group-title="UK",UK HD : RT DOCUMENTRY HD
+http://xports.ddns.net:25461/live/beast/beast/433.m3u8
+#EXTINF:-1 tvg-id="RTENewsNow.uk" tvg-name="UK HD : RT NEWS HD" tvg-logo="" group-title="UK",UK HD : RT NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/432.m3u8
+#EXTINF:-1 tvg-id="RT.uk" tvg-name="UK HD : RT UK HD" tvg-logo="" group-title="UK",UK HD : RT UK HD
+http://xports.ddns.net:25461/live/beast/beast/431.m3u8
+#EXTINF:-1 tvg-id="RTEOne.uk" tvg-name="UK HD : RTE ONE HD" tvg-logo="" group-title="UK",UK HD : RTE ONE HD
+http://xports.ddns.net:25461/live/beast/beast/430.m3u8
+#EXTINF:-1 tvg-id="RTETwo.uk" tvg-name="UK HD : RTE TWO  HD" tvg-logo="" group-title="UK",UK HD : RTE TWO  HD
+http://xports.ddns.net:25461/live/beast/beast/429.m3u8
+#EXTINF:-1 tvg-id="S4C" tvg-name="UK HD : S4C HD" tvg-logo="" group-title="UK",UK HD : S4C HD
+http://xports.ddns.net:25461/live/beast/beast/428.m3u8
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK HD : SKY LIVING HD" tvg-logo="" group-title="UK",UK HD : SKY LIVING HD
+http://xports.ddns.net:25461/live/beast/beast/427.m3u8
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK HD : SKY MOVIES ACTION HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES ACTION HD
+http://xports.ddns.net:25461/live/beast/beast/426.m3u8
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK HD : SKY MOVIES COMEDY HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES COMEDY HD
+http://xports.ddns.net:25461/live/beast/beast/425.m3u8
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="UK HD : SKY MOVIES DISNEY HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES DISNEY HD
+http://xports.ddns.net:25461/live/beast/beast/424.m3u8
+#EXTINF:-1 tvg-id="SkyDramaRom.uk" tvg-name="UK HD : SKY MOVIES DRAMA&ROMANCE HD  / CHRISTMAS" tvg-logo="" group-title="UK",UK HD : SKY MOVIES DRAMA&ROMANCE HD  / CHRISTMAS
+http://xports.ddns.net:25461/live/beast/beast/423.m3u8
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="UK HD : SKY MOVIES FAMILY HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES FAMILY HD
+http://xports.ddns.net:25461/live/beast/beast/422.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK HD : SKY MOVIES GREATS HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES GREATS HD
+http://xports.ddns.net:25461/live/beast/beast/421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : SKY MOVIES HITS HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES HITS HD
+http://xports.ddns.net:25461/live/beast/beast/420.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="UK HD : SKY MOVIES PREMIER HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES PREMIER HD
+http://xports.ddns.net:25461/live/beast/beast/419.m3u8
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK HD : SKY MOVIES SCI-FI/HORROR HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES SCI-FI/HORROR HD
+http://xports.ddns.net:25461/live/beast/beast/418.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesSelect.uk" tvg-name="UK HD : SKY MOVIES SELECT HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES SELECT HD
+http://xports.ddns.net:25461/live/beast/beast/417.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesCrimeaThriller.uk" tvg-name="UK HD : SKY MOVIES THRILLER HD" tvg-logo="" group-title="UK",UK HD : SKY MOVIES THRILLER HD
+http://xports.ddns.net:25461/live/beast/beast/416.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK HD : SKY NEWS FHD" tvg-logo="" group-title="UK",UK HD : SKY NEWS FHD
+http://xports.ddns.net:25461/live/beast/beast/415.m3u8
+#EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="UK HD : SKY One HD" tvg-logo="" group-title="UK",UK HD : SKY One HD
+http://xports.ddns.net:25461/live/beast/beast/414.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK HD : SKY SPORTS  F1 HD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS  F1 HD
+http://xports.ddns.net:25461/live/beast/beast/413.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK HD : SKY SPORTS ACTION FHD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS ACTION FHD
+http://xports.ddns.net:25461/live/beast/beast/412.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK HD : SKY SPORTS ACTION HD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS ACTION HD
+http://xports.ddns.net:25461/live/beast/beast/411.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK HD : SKY SPORTS ARENA FHD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS ARENA FHD
+http://xports.ddns.net:25461/live/beast/beast/410.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK HD : SKY SPORTS FHD CRICKET" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS FHD CRICKET
+http://xports.ddns.net:25461/live/beast/beast/409.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK HD : SKY SPORTS FHD F1" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS FHD F1
+http://xports.ddns.net:25461/live/beast/beast/408.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK HD : SKY SPORTS FHD MAIN EVENT" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS FHD MAIN EVENT
+http://xports.ddns.net:25461/live/beast/beast/407.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK HD : SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS FOOTBALL FHD
+http://xports.ddns.net:25461/live/beast/beast/406.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK HD : SKY SPORTS HD CRICKET" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS HD CRICKET
+http://xports.ddns.net:25461/live/beast/beast/405.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK HD : SKY SPORTS HD MAIN EVENT" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS HD MAIN EVENT
+http://xports.ddns.net:25461/live/beast/beast/404.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK HD : SKY SPORTS NEWS HD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/403.m3u8
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK HD : STV HD" tvg-logo="" group-title="UK",UK HD : STV HD
+http://xports.ddns.net:25461/live/beast/beast/402.m3u8
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK HD : SYFY HD" tvg-logo="" group-title="UK",UK HD : SYFY HD
+http://xports.ddns.net:25461/live/beast/beast/401.m3u8
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK HD : TCM HD" tvg-logo="" group-title="UK",UK HD : TCM HD
+http://xports.ddns.net:25461/live/beast/beast/400.m3u8
+#EXTINF:-1 tvg-id="TG4.uk" tvg-name="UK HD : TG 4 HD" tvg-logo="" group-title="UK",UK HD : TG 4 HD
+http://xports.ddns.net:25461/live/beast/beast/399.m3u8
+#EXTINF:-1 tvg-id="TV3.uk" tvg-name="UK HD : TV 3 HD" tvg-logo="" group-title="UK",UK HD : TV 3 HD
+http://xports.ddns.net:25461/live/beast/beast/398.m3u8
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK HD : UNIVERSAL HD" tvg-logo="" group-title="UK",UK HD : UNIVERSAL HD
+http://xports.ddns.net:25461/live/beast/beast/397.m3u8
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK HD : UTV HD" tvg-logo="" group-title="UK",UK HD : UTV HD
+http://xports.ddns.net:25461/live/beast/beast/396.m3u8
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK HD : W HD" tvg-logo="" group-title="UK",UK HD : W HD
+http://xports.ddns.net:25461/live/beast/beast/395.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.usa" tvg-name="USA  : ANIMAL PLANET HD" tvg-logo="" group-title="USA",USA  : ANIMAL PLANET HD
+http://xports.ddns.net:25461/live/beast/beast/156.m3u8
+#EXTINF:-1 tvg-id="A&E.usa" tvg-name="USA : A&E HD" tvg-logo="" group-title="USA",USA : A&E HD
+http://xports.ddns.net:25461/live/beast/beast/97.m3u8
+#EXTINF:-1 tvg-id="ABCNews.usa" tvg-name="USA : ABC NEWS HD" tvg-logo="" group-title="USA",USA : ABC NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/155.m3u8
+#EXTINF:-1 tvg-id="beINSports.usa" tvg-name="USA : BEIN SPORTS HD" tvg-logo="" group-title="SPORTS",USA : BEIN SPORTS HD
+http://xports.ddns.net:25461/live/beast/beast/139.m3u8
+#EXTINF:-1 tvg-id="Bravo.usa" tvg-name="USA : BRAVO HD (NL)" tvg-logo="" group-title="USA",USA : BRAVO HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/112.m3u8
+#EXTINF:-1 tvg-id="BTN.usa" tvg-name="USA : BTN HD 1" tvg-logo="" group-title="USA",USA : BTN HD 1
+http://xports.ddns.net:25461/live/beast/beast/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : BTN HD 2" tvg-logo="" group-title="USA",USA : BTN HD 2
+http://xports.ddns.net:25461/live/beast/beast/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : BTN HD 3" tvg-logo="" group-title="USA",USA : BTN HD 3
+http://xports.ddns.net:25461/live/beast/beast/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : BTN HD 4" tvg-logo="" group-title="USA",USA : BTN HD 4
+http://xports.ddns.net:25461/live/beast/beast/87.m3u8
+#EXTINF:-1 tvg-id="CSPAN.usa" tvg-name="USA : C-SPAN 1 HD" tvg-logo="" group-title="USA",USA : C-SPAN 1 HD
+http://xports.ddns.net:25461/live/beast/beast/161.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.usa" tvg-name="USA : C-SPAN 2 HD" tvg-logo="" group-title="USA",USA : C-SPAN 2 HD
+http://xports.ddns.net:25461/live/beast/beast/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : C-SPAN 3 HD" tvg-logo="" group-title="USA",USA : C-SPAN 3 HD
+http://xports.ddns.net:25461/live/beast/beast/159.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.usa" tvg-name="USA : CARTOON NETWORK HD" tvg-logo="" group-title="USA",USA : CARTOON NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/122.m3u8
+#EXTINF:-1 tvg-id="CNBC.usa" tvg-name="USA : CBN HD" tvg-logo="" group-title="USA",USA : CBN HD
+http://xports.ddns.net:25461/live/beast/beast/138.m3u8
+#EXTINF:-1 tvg-id="CBNNews.usa" tvg-name="USA : CBN NEWS HD" tvg-logo="" group-title="USA",USA : CBN NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/133.m3u8
+#EXTINF:-1 tvg-id="CBS.usa" tvg-name="USA : CBS SN HD" tvg-logo="" group-title="USA",USA : CBS SN HD
+http://xports.ddns.net:25461/live/beast/beast/145.m3u8
+#EXTINF:-1 tvg-id="CBNNews.usa" tvg-name="USA : CBSN HD (NL)" tvg-logo="" group-title="USA",USA : CBSN HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/157.m3u8
+#EXTINF:-1 tvg-id="ActionMax.usa" tvg-name="USA : Cinemax Action Max HD (NL)" tvg-logo="" group-title="USA",USA : Cinemax Action Max HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/107.m3u8
+#EXTINF:-1 tvg-id="Cinemax.usa" tvg-name="USA : CINEMAX HD (NL)" tvg-logo="" group-title="USA",USA : CINEMAX HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/140.m3u8
+#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="USA : Cinemax Thriller Max HD (NL)" tvg-logo="" group-title="USA",USA : Cinemax Thriller Max HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/146.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.usa" tvg-name="USA : COMEDY CENTRAL HD (NL)" tvg-logo="" group-title="USA",USA : COMEDY CENTRAL HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/114.m3u8
+#EXTINF:-1 tvg-id="CW.usa" tvg-name="USA : CW HD" tvg-logo="" group-title="USA",USA : CW HD
+http://xports.ddns.net:25461/live/beast/beast/125.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.usa" tvg-name="USA : Destination America HD" tvg-logo="" group-title="USA",USA : Destination America HD
+http://xports.ddns.net:25461/live/beast/beast/168.m3u8
+#EXTINF:-1 tvg-id="Discovery.usa" tvg-name="USA : DISCOVERY HD" tvg-logo="" group-title="USA",USA : DISCOVERY HD
+http://xports.ddns.net:25461/live/beast/beast/98.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.usa" tvg-name="USA : DISCOVERY SCIENCE HD" tvg-logo="" group-title="USA",USA : DISCOVERY SCIENCE HD
+http://xports.ddns.net:25461/live/beast/beast/147.m3u8
+#EXTINF:-1 tvg-id="DiscoveryVelocity.usa" tvg-name="USA : DISCOVERY VELOCITY HD" tvg-logo="" group-title="USA",USA : DISCOVERY VELOCITY HD
+http://xports.ddns.net:25461/live/beast/beast/143.m3u8
+#EXTINF:-1 tvg-id="Disney.usa" tvg-name="USA : Disney HD" tvg-logo="" group-title="USA",USA : Disney HD
+http://xports.ddns.net:25461/live/beast/beast/169.m3u8
+#EXTINF:-1 tvg-id="ElevenSports.usa" tvg-name="USA : ELEVEN SPORTS HD" tvg-logo="" group-title="SPORTS",USA : ELEVEN SPORTS HD
+http://xports.ddns.net:25461/live/beast/beast/85.m3u8
+#EXTINF:-1 tvg-id="ESPN.usa" tvg-name="USA : ESPN HD  (NL)" tvg-logo="" group-title="USA",USA : ESPN HD  (NL)
+http://xports.ddns.net:25461/live/beast/beast/99.m3u8
+#EXTINF:-1 tvg-id="ESPNews.usa" tvg-name="USA : ESPN NEWS HD (NL)" tvg-logo="" group-title="USA",USA : ESPN NEWS HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/166.m3u8
+#EXTINF:-1 tvg-id="ESPNU.usa" tvg-name="USA : ESPN U HD (NL)" tvg-logo="" group-title="USA",USA : ESPN U HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/129.m3u8
+#EXTINF:-1 tvg-id="ESPN2.usa" tvg-name="USA : ESPN2 HD" tvg-logo="" group-title="USA",USA : ESPN2 HD
+http://xports.ddns.net:25461/live/beast/beast/132.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.usa" tvg-name="USA : FOX BUSINESS NETWORK HD" tvg-logo="" group-title="USA",USA : FOX BUSINESS NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/126.m3u8
+#EXTINF:-1 tvg-id="Fox.usa" tvg-name="USA : FOX HD" tvg-logo="" group-title="USA",USA : FOX HD
+http://xports.ddns.net:25461/live/beast/beast/149.m3u8
+#EXTINF:-1 tvg-id="FoxNews.usa" tvg-name="USA : FOX NEWS HD" tvg-logo="" group-title="USA",USA : FOX NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/123.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.usa" tvg-name="USA : Fox Sports 1 HD" tvg-logo="" group-title="SPORTS",USA : Fox Sports 1 HD
+http://xports.ddns.net:25461/live/beast/beast/100.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.usa" tvg-name="USA : Fox Sports 2 HD" tvg-logo="" group-title="SPORTS",USA : Fox Sports 2 HD
+http://xports.ddns.net:25461/live/beast/beast/101.m3u8
+#EXTINF:-1 tvg-id="Freeform.usa" tvg-name="USA : FREEFORM HD" tvg-logo="" group-title="USA",USA : FREEFORM HD
+http://xports.ddns.net:25461/live/beast/beast/103.m3u8
+#EXTINF:-1 tvg-id="Fusion.usa" tvg-name="USA : FUSION HD" tvg-logo="" group-title="USA",USA : FUSION HD
+http://xports.ddns.net:25461/live/beast/beast/84.m3u8
+#EXTINF:-1 tvg-id="Golf.usa" tvg-name="USA : GOLF HD" tvg-logo="" group-title="USA",USA : GOLF HD
+http://xports.ddns.net:25461/live/beast/beast/102.m3u8
+#EXTINF:-1 tvg-id="H2.usa" tvg-name="USA : H2 (NL)" tvg-logo="" group-title="USA",USA : H2 (NL)
+http://xports.ddns.net:25461/live/beast/beast/158.m3u8
+#EXTINF:-1 tvg-id="Hallmark.usa" tvg-name="USA : HALLMARK HD" tvg-logo="" group-title="USA",USA : HALLMARK HD
+http://xports.ddns.net:25461/live/beast/beast/141.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.usa" tvg-name="USA : HBO FAMILY HD (NL)" tvg-logo="" group-title="USA",USA : HBO FAMILY HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/160.m3u8
+#EXTINF:-1 tvg-id="HBO.usa" tvg-name="USA : HBO HD NL" tvg-logo="" group-title="USA",USA : HBO HD NL
+http://xports.ddns.net:25461/live/beast/beast/135.m3u8
+#EXTINF:-1 tvg-id="HBOZone.usa" tvg-name="USA : HBO Zone HD (NL)" tvg-logo="" group-title="USA",USA : HBO Zone HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/154.m3u8
+#EXTINF:-1 tvg-id="HGTV.usa" tvg-name="USA : HGTV HD" tvg-logo="" group-title="USA",USA : HGTV HD
+http://xports.ddns.net:25461/live/beast/beast/124.m3u8
+#EXTINF:-1 tvg-id="IFC.usa" tvg-name="USA : IFC HD" tvg-logo="" group-title="USA",USA : IFC HD
+http://xports.ddns.net:25461/live/beast/beast/90.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.usa" tvg-name="USA : INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="USA",USA : INVESTIGATION DISCOVERY HD
+http://xports.ddns.net:25461/live/beast/beast/150.m3u8
+#EXTINF:-1 tvg-id="MGM.usa" tvg-name="USA : MGM HD" tvg-logo="" group-title="USA",USA : MGM HD
+http://xports.ddns.net:25461/live/beast/beast/82.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.usa" tvg-name="USA : MLB NETWORK HD" tvg-logo="" group-title="USA",USA : MLB NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/113.m3u8
+#EXTINF:-1 tvg-id="MTV.usa" tvg-name="USA : MTV HD" tvg-logo="" group-title="USA",USA : MTV HD
+http://xports.ddns.net:25461/live/beast/beast/171.m3u8
+#EXTINF:-1 tvg-id="NBC.usa" tvg-name="USA : NBC HD (NL)" tvg-logo="" group-title="USA",USA : NBC HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/152.m3u8
+#EXTINF:-1 tvg-id="NBCSN.usa" tvg-name="USA : NBCSN HD" tvg-logo="" group-title="USA",USA : NBCSN HD
+http://xports.ddns.net:25461/live/beast/beast/148.m3u8
+#EXTINF:-1 tvg-id="NESN.usa" tvg-name="USA : NESN HD 1" tvg-logo="" group-title="USA",USA : NESN HD 1
+http://xports.ddns.net:25461/live/beast/beast/92.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.usa" tvg-name="USA : NFL NETWORK HD" tvg-logo="" group-title="USA",USA : NFL NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/136.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.usa" tvg-name="USA : NFL NOW HD" tvg-logo="" group-title="USA",USA : NFL NOW HD
+http://xports.ddns.net:25461/live/beast/beast/109.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.usa" tvg-name="USA : NHL NETWORK HD" tvg-logo="" group-title="USA",USA : NHL NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/119.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.usa" tvg-name="USA : NICK HD (NL)" tvg-logo="" group-title="USA",USA : NICK HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/104.m3u8
+#EXTINF:-1 tvg-id="NickJr.usa" tvg-name="USA : Nick Jr. HD (NL)" tvg-logo="" group-title="USA",USA : Nick Jr. HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/162.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.usa" tvg-name="USA : Nicktoons HD (NL)" tvg-logo="" group-title="USA",USA : Nicktoons HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/163.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.usa" tvg-name="USA : OUTSIDE HD" tvg-logo="" group-title="USA",USA : OUTSIDE HD
+http://xports.ddns.net:25461/live/beast/beast/83.m3u8
+#EXTINF:-1 tvg-id="Oxygen.usa" tvg-name="USA : OXYGEN HD" tvg-logo="" group-title="USA",USA : OXYGEN HD
+http://xports.ddns.net:25461/live/beast/beast/86.m3u8
+#EXTINF:-1 tvg-id="PBS.usa" tvg-name="USA : PBS HD  (NL)" tvg-logo="" group-title="USA",USA : PBS HD  (NL)
+http://xports.ddns.net:25461/live/beast/beast/164.m3u8
+#EXTINF:-1 tvg-id="Reelz.usa" tvg-name="USA : Reelz HD" tvg-logo="" group-title="USA",USA : Reelz HD
+http://xports.ddns.net:25461/live/beast/beast/170.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.usa" tvg-name="USA : SEC NETWORK" tvg-logo="" group-title="USA",USA : SEC NETWORK
+http://xports.ddns.net:25461/live/beast/beast/167.m3u8
+#EXTINF:-1 tvg-id="Showtime.usa" tvg-name="USA : SHOWTIME HD (NL)" tvg-logo="" group-title="USA",USA : SHOWTIME HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : SN CENTRAL HD" tvg-logo="" group-title="USA",USA : SN CENTRAL HD
+http://xports.ddns.net:25461/live/beast/beast/106.m3u8
+#EXTINF:-1 tvg-id="Spike.usa" tvg-name="USA : SPIKE HD (NL)" tvg-logo="" group-title="USA",USA : SPIKE HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/111.m3u8
+#EXTINF:-1 tvg-id="STARZEdge.usa" tvg-name="USA : Starz Edge HD (NL)" tvg-logo="" group-title="USA",USA : Starz Edge HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/153.m3u8
+#EXTINF:-1 tvg-id="STARZ.usa" tvg-name="USA : Starz HD (NL)" tvg-logo="" group-title="USA",USA : Starz HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/137.m3u8
+#EXTINF:-1 tvg-id="STARZKidsFamily.usa" tvg-name="USA : Starz Kids & Family (NL)" tvg-logo="" group-title="USA",USA : Starz Kids & Family (NL)
+http://xports.ddns.net:25461/live/beast/beast/165.m3u8
+#EXTINF:-1 tvg-id="Syfy.usa" tvg-name="USA : SYFY HD (NL)" tvg-logo="" group-title="USA",USA : SYFY HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/128.m3u8
+#EXTINF:-1 tvg-id="TBS.usa" tvg-name="USA : TBS HD" tvg-logo="" group-title="USA",USA : TBS HD
+http://xports.ddns.net:25461/live/beast/beast/115.m3u8
+#EXTINF:-1 tvg-id="Tennis.usa" tvg-name="USA : TENNIS HD" tvg-logo="" group-title="USA",USA : TENNIS HD
+http://xports.ddns.net:25461/live/beast/beast/121.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.usa" tvg-name="USA : THE WEATHER CHANNEL HD" tvg-logo="" group-title="USA",USA : THE WEATHER CHANNEL HD
+http://xports.ddns.net:25461/live/beast/beast/134.m3u8
+#EXTINF:-1 tvg-id="TNT.usa" tvg-name="USA : TNT HD (NL)" tvg-logo="" group-title="USA",USA : TNT HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/116.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.usa" tvg-name="USA : TRAVEL CHANNEL HD" tvg-logo="" group-title="USA",USA : TRAVEL CHANNEL HD
+http://xports.ddns.net:25461/live/beast/beast/91.m3u8
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="USA : TRU TV HD" tvg-logo="" group-title="USA",USA : TRU TV HD
+http://xports.ddns.net:25461/live/beast/beast/120.m3u8
+#EXTINF:-1 tvg-id="TVLand.usa" tvg-name="USA : TV LAND HD" tvg-logo="" group-title="USA",USA : TV LAND HD
+http://xports.ddns.net:25461/live/beast/beast/131.m3u8
+#EXTINF:-1 tvg-id="Universal.usa" tvg-name="USA : UNIVERSAL HD (NL)" tvg-logo="" group-title="USA",USA : UNIVERSAL HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/144.m3u8
+#EXTINF:-1 tvg-id="UnivisionDep.usa" tvg-name="USA : UNIVISION DEP HD (NL)" tvg-logo="" group-title="USA",USA : UNIVISION DEP HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/127.m3u8
+#EXTINF:-1 tvg-id="USANetwork.usa" tvg-name="USA : USA NETWORK HD (NL)" tvg-logo="" group-title="USA",USA : USA NETWORK HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/105.m3u8
+#EXTINF:-1 tvg-id="VH1.usa" tvg-name="USA : VH1 HD" tvg-logo="" group-title="USA",USA : VH1 HD
+http://xports.ddns.net:25461/live/beast/beast/130.m3u8
+#EXTINF:-1 tvg-id="Viceland.usa" tvg-name="USA : VICELAND HD" tvg-logo="" group-title="USA",USA : VICELAND HD
+http://xports.ddns.net:25461/live/beast/beast/93.m3u8
+#EXTINF:-1 tvg-id="WFOX.usa" tvg-name="USA : WFOX HD (NL)" tvg-logo="" group-title="USA",USA : WFOX HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/142.m3u8
+#EXTINF:-1 tvg-id="WGN.usa" tvg-name="USA : WGN HD" tvg-logo="" group-title="USA",USA : WGN HD
+http://xports.ddns.net:25461/live/beast/beast/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : WILLOW CRICKET HD (NL)" tvg-logo="" group-title="USA",USA : WILLOW CRICKET HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/117.m3u8
+#EXTINF:-1 tvg-id="wwe-tv" tvg-name="USA : WWE Network HD" tvg-logo="" group-title="USA",USA : WWE Network HD
+http://xports.ddns.net:25461/live/beast/beast/118.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK  : Cartoonito  ( NOT 24H )" tvg-logo="" group-title="UK",UK  : Cartoonito  ( NOT 24H )
+http://xports.ddns.net:25461/live/beast/beast/369.m3u8
+#EXTINF:-1 tvg-id="3e.uk" tvg-name="UK : 3E" tvg-logo="" group-title="UK",UK : 3E
+http://xports.ddns.net:25461/live/beast/beast/389.m3u8
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK : 4 MUSIC" tvg-logo="" group-title="UK",UK : 4 MUSIC
+http://xports.ddns.net:25461/live/beast/beast/185.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK : 4 SEVEN*" tvg-logo="" group-title="UK",UK : 4 SEVEN*
+http://xports.ddns.net:25461/live/beast/beast/387.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK : 5 Star" tvg-logo="" group-title="UK",UK : 5 Star
+http://xports.ddns.net:25461/live/beast/beast/388.m3u8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK : 5 USA" tvg-logo="" group-title="UK",UK : 5 USA
+http://xports.ddns.net:25461/live/beast/beast/213.m3u8
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-name="UK : AAJ TAK" tvg-logo="" group-title="UK",UK : AAJ TAK
+http://xports.ddns.net:25461/live/beast/beast/390.m3u8
+#EXTINF:-1 tvg-id="ABP News" tvg-name="UK : ABP NEWS" tvg-logo="" group-title="UK",UK : ABP NEWS
+http://xports.ddns.net:25461/live/beast/beast/386.m3u8
+#EXTINF:-1 tvg-id="AIT.uk" tvg-name="UK : AIT" tvg-logo="" group-title="UK",UK : AIT
+http://xports.ddns.net:25461/live/beast/beast/173.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="UK : AL JAZEERA" tvg-logo="" group-title="UK",UK : AL JAZEERA
+http://xports.ddns.net:25461/live/beast/beast/391.m3u8
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK : ALIBI" tvg-logo="" group-title="UK",UK : ALIBI
+http://xports.ddns.net:25461/live/beast/beast/392.m3u8
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="UK : AMC" tvg-logo="" group-title="UK",UK : AMC
+http://xports.ddns.net:25461/live/beast/beast/394.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK : ANIMAL PLANET" tvg-logo="" group-title="UK",UK : ANIMAL PLANET
+http://xports.ddns.net:25461/live/beast/beast/393.m3u8
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="UK : AT THE RACES" tvg-logo="" group-title="UK",UK : AT THE RACES
+http://xports.ddns.net:25461/live/beast/beast/383.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="UK : B4U MOVIES" tvg-logo="" group-title="UK",UK : B4U MOVIES
+http://xports.ddns.net:25461/live/beast/beast/197.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.uk" tvg-name="UK : B4U MUSIC" tvg-logo="" group-title="UK",UK : B4U MUSIC
+http://xports.ddns.net:25461/live/beast/beast/382.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="UK : BABY TV" tvg-logo="" group-title="UK",UK : BABY TV
+http://xports.ddns.net:25461/live/beast/beast/210.m3u8
+#EXTINF:-1 tvg-id="BBCALBA.uk" tvg-name="UK : BBC ALBA" tvg-logo="" group-title="UK",UK : BBC ALBA
+http://xports.ddns.net:25461/live/beast/beast/211.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK : BBC News" tvg-logo="" group-title="UK",UK : BBC News
+http://xports.ddns.net:25461/live/beast/beast/212.m3u8
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="UK : BBC ONE SCOTLAND" tvg-logo="" group-title="UK",UK : BBC ONE SCOTLAND
+http://xports.ddns.net:25461/live/beast/beast/214.m3u8
+#EXTINF:-1 tvg-id="BBCREDBUTTON.uk" tvg-name="UK : BBC RED BUTTON" tvg-logo="" group-title="UK",UK : BBC RED BUTTON
+http://xports.ddns.net:25461/live/beast/beast/308.m3u8
+#EXTINF:-1 tvg-id="BBC2Scotland.uk" tvg-name="UK : BBC TWO SCOTLAND" tvg-logo="" group-title="UK",UK : BBC TWO SCOTLAND
+http://xports.ddns.net:25461/live/beast/beast/377.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="UK : BBC WORLD NEWS" tvg-logo="" group-title="UK",UK : BBC WORLD NEWS
+http://xports.ddns.net:25461/live/beast/beast/179.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK : BBC1" tvg-logo="" group-title="UK",UK : BBC1
+http://xports.ddns.net:25461/live/beast/beast/381.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK : BBC2" tvg-logo="" group-title="UK",UK : BBC2
+http://xports.ddns.net:25461/live/beast/beast/380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : BBC3" tvg-logo="" group-title="UK",UK : BBC3
+http://xports.ddns.net:25461/live/beast/beast/379.m3u8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK : BBC4" tvg-logo="" group-title="UK",UK : BBC4
+http://xports.ddns.net:25461/live/beast/beast/378.m3u8
+#EXTINF:-1 tvg-id="BET.uk" tvg-name="UK : BET" tvg-logo="" group-title="UK",UK : BET
+http://xports.ddns.net:25461/live/beast/beast/376.m3u8
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="UK : BLAZE" tvg-logo="" group-title="UK",UK : BLAZE
+http://xports.ddns.net:25461/live/beast/beast/296.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="UK : Bloomberg" tvg-logo="" group-title="UK",UK : Bloomberg
+http://xports.ddns.net:25461/live/beast/beast/375.m3u8
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK : BOOMERANG" tvg-logo="" group-title="UK",UK : BOOMERANG
+http://xports.ddns.net:25461/live/beast/beast/220.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK : BOXNATION" tvg-logo="" group-title="UK",UK : BOXNATION
+http://xports.ddns.net:25461/live/beast/beast/374.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK : BT Sport ESPN" tvg-logo="" group-title="UK",UK : BT Sport ESPN
+http://xports.ddns.net:25461/live/beast/beast/338.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK : BT SPORTS 1" tvg-logo="" group-title="SPORTS",UK : BT SPORTS 1
+http://xports.ddns.net:25461/live/beast/beast/373.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK : BT SPORTS 2" tvg-logo="" group-title="SPORTS",UK : BT SPORTS 2
+http://xports.ddns.net:25461/live/beast/beast/372.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK : BT SPORTS 3" tvg-logo="" group-title="SPORTS",UK : BT SPORTS 3
+http://xports.ddns.net:25461/live/beast/beast/371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORTS MOSAIC" tvg-logo="" group-title="SPORTS",UK : BT SPORTS MOSAIC
+http://xports.ddns.net:25461/live/beast/beast/370.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK : CARTOON NETWORK" tvg-logo="" group-title="UK",UK : CARTOON NETWORK
+http://xports.ddns.net:25461/live/beast/beast/368.m3u8
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK : CBS Action" tvg-logo="" group-title="UK",UK : CBS Action
+http://xports.ddns.net:25461/live/beast/beast/367.m3u8
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK : CBS DRAMA" tvg-logo="" group-title="UK",UK : CBS DRAMA
+http://xports.ddns.net:25461/live/beast/beast/366.m3u8
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK : CBS Reality" tvg-logo="" group-title="UK",UK : CBS Reality
+http://xports.ddns.net:25461/live/beast/beast/365.m3u8
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK : CHALLENGE" tvg-logo="" group-title="UK",UK : CHALLENGE
+http://xports.ddns.net:25461/live/beast/beast/364.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK : CHANNEL 4" tvg-logo="" group-title="UK",UK : CHANNEL 4
+http://xports.ddns.net:25461/live/beast/beast/363.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK : Channel 5" tvg-logo="" group-title="UK",UK : Channel 5
+http://xports.ddns.net:25461/live/beast/beast/362.m3u8
+#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="UK : CHART SHOW DANCE" tvg-logo="" group-title="UK",UK : CHART SHOW DANCE
+http://xports.ddns.net:25461/live/beast/beast/361.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="UK : CHELSEA TV" tvg-logo="" group-title="UK",UK : CHELSEA TV
+http://xports.ddns.net:25461/live/beast/beast/360.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK : CNBC" tvg-logo="" group-title="UK",UK : CNBC
+http://xports.ddns.net:25461/live/beast/beast/359.m3u8
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK : CNN" tvg-logo="" group-title="UK",UK : CNN
+http://xports.ddns.net:25461/live/beast/beast/358.m3u8
+#EXTINF:-1 tvg-id="COLORS.uk" tvg-name="UK : COLORS" tvg-logo="" group-title="UK",UK : COLORS
+http://xports.ddns.net:25461/live/beast/beast/203.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK : COMEDY CENTRAL" tvg-logo="" group-title="UK",UK : COMEDY CENTRAL
+http://xports.ddns.net:25461/live/beast/beast/357.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK : COMEDY CENTRAL EXTRA" tvg-logo="" group-title="UK",UK : COMEDY CENTRAL EXTRA
+http://xports.ddns.net:25461/live/beast/beast/356.m3u8
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="UK : CRIME & INVESTIGATION" tvg-logo="" group-title="UK",UK : CRIME & INVESTIGATION
+http://xports.ddns.net:25461/live/beast/beast/354.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK : DAVE" tvg-logo="" group-title="UK",UK : DAVE
+http://xports.ddns.net:25461/live/beast/beast/353.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="UK : DISCOVERY" tvg-logo="" group-title="UK",UK : DISCOVERY
+http://xports.ddns.net:25461/live/beast/beast/351.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK : DISCOVERY HISTORY" tvg-logo="" group-title="UK",UK : DISCOVERY HISTORY
+http://xports.ddns.net:25461/live/beast/beast/350.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.uk" tvg-name="UK : DISCOVERY HOME & HEALTH" tvg-logo="" group-title="UK",UK : DISCOVERY HOME & HEALTH
+http://xports.ddns.net:25461/live/beast/beast/349.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK : DISCOVERY SCIENCE" tvg-logo="" group-title="UK",UK : DISCOVERY SCIENCE
+http://xports.ddns.net:25461/live/beast/beast/348.m3u8
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="UK : DISCOVERY SHED" tvg-logo="" group-title="UK",UK : DISCOVERY SHED
+http://xports.ddns.net:25461/live/beast/beast/347.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK : DISCOVERY TURBO" tvg-logo="" group-title="UK",UK : DISCOVERY TURBO
+http://xports.ddns.net:25461/live/beast/beast/346.m3u8
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK : DISNEY CHANNEL" tvg-logo="" group-title="UK",UK : DISNEY CHANNEL
+http://xports.ddns.net:25461/live/beast/beast/345.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="UK : DISNEY JUNIOR" tvg-logo="" group-title="UK",UK : DISNEY JUNIOR
+http://xports.ddns.net:25461/live/beast/beast/344.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="UK : DISNEY XD" tvg-logo="" group-title="UK",UK : DISNEY XD
+http://xports.ddns.net:25461/live/beast/beast/343.m3u8
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="UK : DMAX" tvg-logo="" group-title="UK",UK : DMAX
+http://xports.ddns.net:25461/live/beast/beast/342.m3u8
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="UK : DRAMA" tvg-logo="" group-title="UK",UK : DRAMA
+http://xports.ddns.net:25461/live/beast/beast/341.m3u8
+#EXTINF:-1 tvg-id="E.uk" tvg-name="UK : E! ENTERTAINMENT" tvg-logo="" group-title="UK",UK : E! ENTERTAINMENT
+http://xports.ddns.net:25461/live/beast/beast/218.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK : E4" tvg-logo="" group-title="UK",UK : E4
+http://xports.ddns.net:25461/live/beast/beast/340.m3u8
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK : EDEN" tvg-logo="" group-title="UK",UK : EDEN
+http://xports.ddns.net:25461/live/beast/beast/339.m3u8
+#EXTINF:-1 tvg-id="eirSport1.uk" tvg-name="UK : EIR SPORTS 1 ( NEW )" tvg-logo="" group-title="SPORTS",UK : EIR SPORTS 1 ( NEW )
+http://xports.ddns.net:25461/live/beast/beast/279.m3u8
+#EXTINF:-1 tvg-id="eirSport2.uk" tvg-name="UK : EIR SPORTS 2 ( NEW )" tvg-logo="" group-title="SPORTS",UK : EIR SPORTS 2 ( NEW )
+http://xports.ddns.net:25461/live/beast/beast/281.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK : EUROSPORT 1" tvg-logo="" group-title="UK",UK : EUROSPORT 1
+http://xports.ddns.net:25461/live/beast/beast/337.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK : EUROSPORT 2" tvg-logo="" group-title="UK",UK : EUROSPORT 2
+http://xports.ddns.net:25461/live/beast/beast/336.m3u8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK : Film 4" tvg-logo="" group-title="UK",UK : Film 4
+http://xports.ddns.net:25461/live/beast/beast/335.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK : FOOD NETWORK" tvg-logo="" group-title="UK",UK : FOOD NETWORK
+http://xports.ddns.net:25461/live/beast/beast/352.m3u8
+#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-name="UK : FORCES TV" tvg-logo="" group-title="UK",UK : FORCES TV
+http://xports.ddns.net:25461/live/beast/beast/333.m3u8
+#EXTINF:-1 tvg-id="Fox.uk" tvg-name="UK : FOX" tvg-logo="" group-title="UK",UK : FOX
+http://xports.ddns.net:25461/live/beast/beast/332.m3u8
+#EXTINF:-1 tvg-id="FoxNews.usa" tvg-name="UK : FOX NEWS" tvg-logo="" group-title="UK",UK : FOX NEWS
+http://xports.ddns.net:25461/live/beast/beast/331.m3u8
+#EXTINF:-1 tvg-id="FRANCE24.uk" tvg-name="UK : FRANCE 24 ( ENGLISH )" tvg-logo="" group-title="UK",UK : FRANCE 24 ( ENGLISH )
+http://xports.ddns.net:25461/live/beast/beast/215.m3u8
+#EXTINF:-1 tvg-id="FrontRunner.uk" tvg-name="UK : FRONT RUNNER" tvg-logo="" group-title="UK",UK : FRONT RUNNER
+http://xports.ddns.net:25461/live/beast/beast/195.m3u8
+#EXTINF:-1 tvg-id="GEONews.uk" tvg-name="UK : GEO NEWS INTERNATIONAL" tvg-logo="" group-title="UK",UK : GEO NEWS INTERNATIONAL
+http://xports.ddns.net:25461/live/beast/beast/200.m3u8
+#EXTINF:-1 tvg-id="GEOTV.uk" tvg-name="UK : GEO TV" tvg-logo="" group-title="UK",UK : GEO TV
+http://xports.ddns.net:25461/live/beast/beast/207.m3u8
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK : GOLD" tvg-logo="" group-title="UK",UK : GOLD
+http://xports.ddns.net:25461/live/beast/beast/330.m3u8
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK : GOOD FOOD" tvg-logo="" group-title="UK",UK : GOOD FOOD
+http://xports.ddns.net:25461/live/beast/beast/329.m3u8
+#EXTINF:-1 tvg-id="HISTORY.uk" tvg-name="UK : HISTORY" tvg-logo="" group-title="UK",UK : HISTORY
+http://xports.ddns.net:25461/live/beast/beast/328.m3u8
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK : HISTORY 2 ( H2 )" tvg-logo="" group-title="UK",UK : HISTORY 2 ( H2 )
+http://xports.ddns.net:25461/live/beast/beast/327.m3u8
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="UK : HOME" tvg-logo="" group-title="UK",UK : HOME
+http://xports.ddns.net:25461/live/beast/beast/326.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK : HORROR CHANNEL" tvg-logo="" group-title="UK",UK : HORROR CHANNEL
+http://xports.ddns.net:25461/live/beast/beast/325.m3u8
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="UK : INVESTIGATION DISCOVERY (ID)" tvg-logo="" group-title="UK",UK : INVESTIGATION DISCOVERY (ID)
+http://xports.ddns.net:25461/live/beast/beast/324.m3u8
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK : ITV BE" tvg-logo="" group-title="UK",UK : ITV BE
+http://xports.ddns.net:25461/live/beast/beast/323.m3u8
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="UK : ITV1" tvg-logo="" group-title="UK",UK : ITV1
+http://xports.ddns.net:25461/live/beast/beast/322.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK : ITV2" tvg-logo="" group-title="UK",UK : ITV2
+http://xports.ddns.net:25461/live/beast/beast/321.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK : ITV3" tvg-logo="" group-title="UK",UK : ITV3
+http://xports.ddns.net:25461/live/beast/beast/320.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK : ITV4" tvg-logo="" group-title="UK",UK : ITV4
+http://xports.ddns.net:25461/live/beast/beast/319.m3u8
+#EXTINF:-1 tvg-id="Kix.uk" tvg-name="UK : KIX" tvg-logo="" group-title="UK",UK : KIX
+http://xports.ddns.net:25461/live/beast/beast/318.m3u8
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK : LFC" tvg-logo="" group-title="UK",UK : LFC
+http://xports.ddns.net:25461/live/beast/beast/317.m3u8
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK : LIFETIME" tvg-logo="" group-title="UK",UK : LIFETIME
+http://xports.ddns.net:25461/live/beast/beast/316.m3u8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK : More4" tvg-logo="" group-title="UK",UK : More4
+http://xports.ddns.net:25461/live/beast/beast/314.m3u8
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="UK : MOTORS TV" tvg-logo="" group-title="UK",UK : MOTORS TV
+http://xports.ddns.net:25461/live/beast/beast/280.m3u8
+#EXTINF:-1 tvg-id="MoviesTwentyFour.uk" tvg-name="UK : MOVIES 24" tvg-logo="" group-title="UK",UK : MOVIES 24
+http://xports.ddns.net:25461/live/beast/beast/253.m3u8
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="UK : MOVIES 4 MEN" tvg-logo="" group-title="UK",UK : MOVIES 4 MEN
+http://xports.ddns.net:25461/live/beast/beast/313.m3u8
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK : MTV BASE" tvg-logo="" group-title="UK",UK : MTV BASE
+http://xports.ddns.net:25461/live/beast/beast/312.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK : MTV CLASSIC" tvg-logo="" group-title="UK",UK : MTV CLASSIC
+http://xports.ddns.net:25461/live/beast/beast/305.m3u8
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="UK : MTV DANCE" tvg-logo="" group-title="UK",UK : MTV DANCE
+http://xports.ddns.net:25461/live/beast/beast/311.m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK : MTV HITS" tvg-logo="" group-title="UK",UK : MTV HITS
+http://xports.ddns.net:25461/live/beast/beast/310.m3u8
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK : MTV MUSIC UK" tvg-logo="" group-title="UK",UK : MTV MUSIC UK
+http://xports.ddns.net:25461/live/beast/beast/309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : MTV ONE" tvg-logo="" group-title="UK",UK : MTV ONE
+http://xports.ddns.net:25461/live/beast/beast/307.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK : MTV ROCKS" tvg-logo="" group-title="UK",UK : MTV ROCKS
+http://xports.ddns.net:25461/live/beast/beast/306.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK : MUTV" tvg-logo="" group-title="UK",UK : MUTV
+http://xports.ddns.net:25461/live/beast/beast/315.m3u8
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK : NAT GEO" tvg-logo="" group-title="UK",UK : NAT GEO
+http://xports.ddns.net:25461/live/beast/beast/304.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK : NAT GEO WILD" tvg-logo="" group-title="UK",UK : NAT GEO WILD
+http://xports.ddns.net:25461/live/beast/beast/303.m3u8
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="UK : NICK JR TOO" tvg-logo="" group-title="UK",UK : NICK JR TOO
+http://xports.ddns.net:25461/live/beast/beast/302.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK : Nick Jr." tvg-logo="" group-title="UK",UK : Nick Jr.
+http://xports.ddns.net:25461/live/beast/beast/301.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK : Nickelodeon" tvg-logo="" group-title="UK",UK : Nickelodeon
+http://xports.ddns.net:25461/live/beast/beast/299.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK : Nicktoons" tvg-logo="" group-title="UK",UK : Nicktoons
+http://xports.ddns.net:25461/live/beast/beast/300.m3u8
+#EXTINF:-1 tvg-id="PBS.uk" tvg-name="UK : PBS America" tvg-logo="" group-title="UK",UK : PBS America
+http://xports.ddns.net:25461/live/beast/beast/298.m3u8
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK : PICK TV" tvg-logo="" group-title="UK",UK : PICK TV
+http://xports.ddns.net:25461/live/beast/beast/297.m3u8
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="UK : POP" tvg-logo="" group-title="UK",UK : POP
+http://xports.ddns.net:25461/live/beast/beast/295.m3u8
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="UK : PREMIER SPORTS" tvg-logo="" group-title="SPORTS",UK : PREMIER SPORTS
+http://xports.ddns.net:25461/live/beast/beast/293.m3u8
+#EXTINF:-1 tvg-id="PTV.uk" tvg-name="UK : PTV" tvg-logo="" group-title="UK",UK : PTV
+http://xports.ddns.net:25461/live/beast/beast/294.m3u8
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK : QUEST" tvg-logo="" group-title="UK",UK : QUEST
+http://xports.ddns.net:25461/live/beast/beast/290.m3u8
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK : RACING UK" tvg-logo="" group-title="UK",UK : RACING UK
+http://xports.ddns.net:25461/live/beast/beast/289.m3u8
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="UK : REAL LIVES" tvg-logo="" group-title="UK",UK : REAL LIVES
+http://xports.ddns.net:25461/live/beast/beast/263.m3u8
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK : REALLY" tvg-logo="" group-title="UK",UK : REALLY
+http://xports.ddns.net:25461/live/beast/beast/288.m3u8
+#EXTINF:-1 tvg-id="Rishtey.uk" tvg-name="UK : RISHTEY CINEPLEX" tvg-logo="" group-title="UK",UK : RISHTEY CINEPLEX
+http://xports.ddns.net:25461/live/beast/beast/202.m3u8
+#EXTINF:-1 tvg-id="Rishtey.uk" tvg-name="UK : RISHTEY TV" tvg-logo="" group-title="UK",UK : RISHTEY TV
+http://xports.ddns.net:25461/live/beast/beast/287.m3u8
+#EXTINF:-1 tvg-id="RT.uk" tvg-name="UK : RT News HD" tvg-logo="" group-title="UK",UK : RT News HD
+http://xports.ddns.net:25461/live/beast/beast/206.m3u8
+#EXTINF:-1 tvg-id="RTEJr.uk" tvg-name="UK : RTE JUNIOR" tvg-logo="" group-title="UK",UK : RTE JUNIOR
+http://xports.ddns.net:25461/live/beast/beast/286.m3u8
+#EXTINF:-1 tvg-id="RTENewsNow.uk" tvg-name="UK : RTE NEWS" tvg-logo="" group-title="UK",UK : RTE NEWS
+http://xports.ddns.net:25461/live/beast/beast/291.m3u8
+#EXTINF:-1 tvg-id="RTEOne.uk" tvg-name="UK : RTE ONE" tvg-logo="" group-title="UK",UK : RTE ONE
+http://xports.ddns.net:25461/live/beast/beast/285.m3u8
+#EXTINF:-1 tvg-id="RTETwo.uk" tvg-name="UK : RTE TWO" tvg-logo="" group-title="UK",UK : RTE TWO
+http://xports.ddns.net:25461/live/beast/beast/284.m3u8
+#EXTINF:-1 tvg-id="S4C" tvg-name="UK : S4C DIGIDOL" tvg-logo="" group-title="UK",UK : S4C DIGIDOL
+http://xports.ddns.net:25461/live/beast/beast/283.m3u8
+#EXTINF:-1 tvg-id="Scuzz.uk" tvg-name="UK : SCUZZ" tvg-logo="" group-title="UK",UK : SCUZZ
+http://xports.ddns.net:25461/live/beast/beast/282.m3u8
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="UK : SHOWCASE" tvg-logo="" group-title="UK",UK : SHOWCASE
+http://xports.ddns.net:25461/live/beast/beast/261.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK : SKY  NEWS IRELAND" tvg-logo="" group-title="UK",UK : SKY  NEWS IRELAND
+http://xports.ddns.net:25461/live/beast/beast/216.m3u8
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK : SKY ACTION" tvg-logo="" group-title="UK",UK : SKY ACTION
+http://xports.ddns.net:25461/live/beast/beast/278.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK : SKY ARTS" tvg-logo="" group-title="UK",UK : SKY ARTS
+http://xports.ddns.net:25461/live/beast/beast/277.m3u8
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK : SKY COMEDY" tvg-logo="" group-title="UK",UK : SKY COMEDY
+http://xports.ddns.net:25461/live/beast/beast/272.m3u8
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="UK : SKY DISNEY" tvg-logo="" group-title="UK",UK : SKY DISNEY
+http://xports.ddns.net:25461/live/beast/beast/271.m3u8
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="UK : SKY FAMILY" tvg-logo="" group-title="UK",UK : SKY FAMILY
+http://xports.ddns.net:25461/live/beast/beast/270.m3u8
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK : SKY LIVING" tvg-logo="" group-title="UK",UK : SKY LIVING
+http://xports.ddns.net:25461/live/beast/beast/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY MODERN GREATS" tvg-logo="" group-title="UK",UK : SKY MODERN GREATS
+http://xports.ddns.net:25461/live/beast/beast/268.m3u8
+#EXTINF:-1 tvg-id="SkyDramaRom.uk" tvg-name="UK : SKY MOVIES DRAMA / CHRISTMAS" tvg-logo="" group-title="UK",UK : SKY MOVIES DRAMA / CHRISTMAS
+http://xports.ddns.net:25461/live/beast/beast/292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY MOVIES HITS" tvg-logo="" group-title="UK",UK : SKY MOVIES HITS
+http://xports.ddns.net:25461/live/beast/beast/186.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="UK : SKY MOVIES PREMIER" tvg-logo="" group-title="UK",UK : SKY MOVIES PREMIER
+http://xports.ddns.net:25461/live/beast/beast/266.m3u8
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK : SKY MOVIES SCI-FI/HORROR" tvg-logo="" group-title="UK",UK : SKY MOVIES SCI-FI/HORROR
+http://xports.ddns.net:25461/live/beast/beast/217.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK : SKY NEWS" tvg-logo="" group-title="UK",UK : SKY NEWS
+http://xports.ddns.net:25461/live/beast/beast/265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY NEWS IRELAND" tvg-logo="" group-title="UK",UK : SKY NEWS IRELAND
+http://xports.ddns.net:25461/live/beast/beast/181.m3u8
+#EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="UK : SKY ONE" tvg-logo="" group-title="UK",UK : SKY ONE
+http://xports.ddns.net:25461/live/beast/beast/264.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesSelect.uk" tvg-name="UK : SKY SELECT" tvg-logo="" group-title="UK",UK : SKY SELECT
+http://xports.ddns.net:25461/live/beast/beast/262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTION" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTION
+http://xports.ddns.net:25461/live/beast/beast/258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 1" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 1
+http://xports.ddns.net:25461/live/beast/beast/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 2" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 2
+http://xports.ddns.net:25461/live/beast/beast/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 3" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 3
+http://xports.ddns.net:25461/live/beast/beast/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 4" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 4
+http://xports.ddns.net:25461/live/beast/beast/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 5" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 5
+http://xports.ddns.net:25461/live/beast/beast/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 6" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 6
+http://xports.ddns.net:25461/live/beast/beast/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 7" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 7
+http://xports.ddns.net:25461/live/beast/beast/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ACTIVE 8" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ACTIVE 8
+http://xports.ddns.net:25461/live/beast/beast/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS ARENA" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS ARENA
+http://xports.ddns.net:25461/live/beast/beast/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS BOX OFFICE PPV" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS BOX OFFICE PPV
+http://xports.ddns.net:25461/live/beast/beast/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS CRICKET" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS CRICKET
+http://xports.ddns.net:25461/live/beast/beast/259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS F1" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS F1
+http://xports.ddns.net:25461/live/beast/beast/255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS FOOTBALL" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS FOOTBALL
+http://xports.ddns.net:25461/live/beast/beast/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS GOLF (THE OPEN)" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS GOLF (THE OPEN)
+http://xports.ddns.net:25461/live/beast/beast/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS MAIN EVENT" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS MAIN EVENT
+http://xports.ddns.net:25461/live/beast/beast/260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK : SKY SPORTS NEWS" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS NEWS
+http://xports.ddns.net:25461/live/beast/beast/254.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK : SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS",UK : SKY SPORTS PREMIER LEAGUE
+http://xports.ddns.net:25461/live/beast/beast/256.m3u8
+#EXTINF:-1 tvg-id="SkyMoviesCrimeaThriller.uk" tvg-name="UK : SKY THRILLER" tvg-logo="" group-title="UK",UK : SKY THRILLER
+http://xports.ddns.net:25461/live/beast/beast/252.m3u8
+#EXTINF:-1 tvg-id="SkyTwo.uk" tvg-name="UK : SKY TWO" tvg-logo="" group-title="UK",UK : SKY TWO
+http://xports.ddns.net:25461/live/beast/beast/251.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="UK : SONY MOVIES" tvg-logo="" group-title="UK",UK : SONY MOVIES
+http://xports.ddns.net:25461/live/beast/beast/250.m3u8
+#EXTINF:-1 tvg-id="Sony.uk" tvg-name="UK : SONY TV" tvg-logo="" group-title="UK",UK : SONY TV
+http://xports.ddns.net:25461/live/beast/beast/248.m3u8
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK : SPIKE UK" tvg-logo="" group-title="UK",UK : SPIKE UK
+http://xports.ddns.net:25461/live/beast/beast/355.m3u8
+#EXTINF:-1 tvg-id="StarGOLD.uk" tvg-name="UK : STAR GOLD" tvg-logo="" group-title="UK",UK : STAR GOLD
+http://xports.ddns.net:25461/live/beast/beast/247.m3u8
+#EXTINF:-1 tvg-id="StarLifeOK.uk" tvg-name="UK : STAR LIFE OK" tvg-logo="" group-title="UK",UK : STAR LIFE OK
+http://xports.ddns.net:25461/live/beast/beast/245.m3u8
+#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="UK : STAR PLUS" tvg-logo="" group-title="UK",UK : STAR PLUS
+http://xports.ddns.net:25461/live/beast/beast/244.m3u8
+#EXTINF:-1 tvg-id="StarzTV.uk" tvg-name="UK : STARZ TV" tvg-logo="" group-title="UK",UK : STARZ TV
+http://xports.ddns.net:25461/live/beast/beast/243.m3u8
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="UK : SYFY" tvg-logo="" group-title="UK",UK : SYFY
+http://xports.ddns.net:25461/live/beast/beast/242.m3u8
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK : TCM" tvg-logo="" group-title="UK",UK : TCM
+http://xports.ddns.net:25461/live/beast/beast/241.m3u8
+#EXTINF:-1 tvg-id="TG4.uk" tvg-name="UK : TG4" tvg-logo="" group-title="UK",UK : TG4
+http://xports.ddns.net:25461/live/beast/beast/240.m3u8
+#EXTINF:-1 tvg-id="TheVault.uk" tvg-name="UK : THE VAULT" tvg-logo="" group-title="UK",UK : THE VAULT
+http://xports.ddns.net:25461/live/beast/beast/239.m3u8
+#EXTINF:-1 tvg-id="TimesNow.uk" tvg-name="UK : TIMES NOW" tvg-logo="" group-title="UK",UK : TIMES NOW
+http://xports.ddns.net:25461/live/beast/beast/204.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="UK : TINY POP" tvg-logo="" group-title="UK",UK : TINY POP
+http://xports.ddns.net:25461/live/beast/beast/238.m3u8
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK : TLC" tvg-logo="" group-title="UK",UK : TLC
+http://xports.ddns.net:25461/live/beast/beast/237.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK : TRAVEL CHANNEL" tvg-logo="" group-title="UK",UK : TRAVEL CHANNEL
+http://xports.ddns.net:25461/live/beast/beast/236.m3u8
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="UK : TRU TV" tvg-logo="" group-title="UK",UK : TRU TV
+http://xports.ddns.net:25461/live/beast/beast/267.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="UK : TRUE CRIME" tvg-logo="" group-title="UK",UK : TRUE CRIME
+http://xports.ddns.net:25461/live/beast/beast/199.m3u8
+#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="UK : TRUE ENTERTAINMENT" tvg-logo="" group-title="UK",UK : TRUE ENTERTAINMENT
+http://xports.ddns.net:25461/live/beast/beast/234.m3u8
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK : TRUE MOVIES" tvg-logo="" group-title="UK",UK : TRUE MOVIES
+http://xports.ddns.net:25461/live/beast/beast/233.m3u8
+#EXTINF:-1 tvg-id="TrueMovies2.uk" tvg-name="UK : TRUE MOVIES 2" tvg-logo="" group-title="UK",UK : TRUE MOVIES 2
+http://xports.ddns.net:25461/live/beast/beast/232.m3u8
+#EXTINF:-1 tvg-id="TV3.uk" tvg-name="UK : TV 3" tvg-logo="" group-title="UK",UK : TV 3
+http://xports.ddns.net:25461/live/beast/beast/231.m3u8
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK : Universal Channel" tvg-logo="" group-title="UK",UK : Universal Channel
+http://xports.ddns.net:25461/live/beast/beast/230.m3u8
+#EXTINF:-1 tvg-id="VH1UK.uk" tvg-name="UK : VH1" tvg-logo="" group-title="UK",UK : VH1
+http://xports.ddns.net:25461/live/beast/beast/229.m3u8
+#EXTINF:-1 tvg-id="Viceland.uk" tvg-name="UK : VICE LAND" tvg-logo="" group-title="UK",UK : VICE LAND
+http://xports.ddns.net:25461/live/beast/beast/198.m3u8
+#EXTINF:-1 tvg-id="VintageTV.uk" tvg-name="UK : VINTAGE TV" tvg-logo="" group-title="UK",UK : VINTAGE TV
+http://xports.ddns.net:25461/live/beast/beast/228.m3u8
+#EXTINF:-1 tvg-id="Viva.uk" tvg-name="UK : VIVA UK" tvg-logo="" group-title="UK",UK : VIVA UK
+http://xports.ddns.net:25461/live/beast/beast/227.m3u8
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK : WATCH" tvg-logo="" group-title="UK",UK : WATCH
+http://xports.ddns.net:25461/live/beast/beast/226.m3u8
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK : YESTERDAY" tvg-logo="" group-title="UK",UK : YESTERDAY
+http://xports.ddns.net:25461/live/beast/beast/225.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="UK : ZEE CINEMA" tvg-logo="" group-title="UK",UK : ZEE CINEMA
+http://xports.ddns.net:25461/live/beast/beast/222.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.uk" tvg-name="UK : ZEE TV" tvg-logo="" group-title="UK",UK : ZEE TV
+http://xports.ddns.net:25461/live/beast/beast/223.m3u8
+#EXTINF:-1 tvg-id="Zing.uk" tvg-name="UK : ZING" tvg-logo="" group-title="UK",UK : ZING
+http://xports.ddns.net:25461/live/beast/beast/221.m3u8
+#EXTINF:-1 tvg-id="ITV Encore" tvg-name="UK HD :  ITV ENCORE HD" tvg-logo="" group-title="UK",UK HD :  ITV ENCORE HD
+http://xports.ddns.net:25461/live/beast/beast/180.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK HD :  SKY SPORTS MIX HD" tvg-logo="" group-title="SPORTS",UK HD :  SKY SPORTS MIX HD
+http://xports.ddns.net:25461/live/beast/beast/174.m3u8
+#EXTINF:-1 tvg-id="be3.uk" tvg-name="UK HD : BE3 HD" tvg-logo="" group-title="UK",UK HD : BE3 HD
+http://xports.ddns.net:25461/live/beast/beast/219.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK HD : SKY ATLANTIC HD" tvg-logo="" group-title="UK",UK HD : SKY ATLANTIC HD
+http://xports.ddns.net:25461/live/beast/beast/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK HD : SKY SPORTS BOX OFFICE HD" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS BOX OFFICE HD
+http://xports.ddns.net:25461/live/beast/beast/274.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK HD : SKY SPORTS HD ARENA" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS HD ARENA
+http://xports.ddns.net:25461/live/beast/beast/177.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK HD : SKY SPORTS HD FOOTBALL" tvg-logo="" group-title="SPORTS",UK HD : SKY SPORTS HD FOOTBALL
+http://xports.ddns.net:25461/live/beast/beast/176.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="UK: True Crime" tvg-logo="" group-title="UK",UK: True Crime
+http://xports.ddns.net:25461/live/beast/beast/235.m3u8
+#EXTINF:-1 tvg-id="OLN.ca" tvg-name="CA :  OLN HD" tvg-logo="" group-title="CAN",CA :  OLN HD
+http://xports.ddns.net:25461/live/beast/beast/42.m3u8
+#EXTINF:-1 tvg-id="ABC.ca" tvg-name="CA : ABC HD" tvg-logo="" group-title="CAN",CA : ABC HD
+http://xports.ddns.net:25461/live/beast/beast/41.m3u8
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="CA : ABC SPARK" tvg-logo="" group-title="CAN",CA : ABC SPARK
+http://xports.ddns.net:25461/live/beast/beast/40.m3u8
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA : AMC HD" tvg-logo="" group-title="CAN",CA : AMC HD
+http://xports.ddns.net:25461/live/beast/beast/39.m3u8
+#EXTINF:-1 tvg-id="BNN.ca" tvg-name="CA : BNN HD" tvg-logo="" group-title="CAN",CA : BNN HD
+http://xports.ddns.net:25461/live/beast/beast/79.m3u8
+#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA : BRAVO HD" tvg-logo="" group-title="CAN",CA : BRAVO HD
+http://xports.ddns.net:25461/live/beast/beast/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : CBC ATLANTIC HD" tvg-logo="" group-title="CAN",CA : CBC ATLANTIC HD
+http://xports.ddns.net:25461/live/beast/beast/73.m3u8
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="CA : CBC HD" tvg-logo="" group-title="CAN",CA : CBC HD
+http://xports.ddns.net:25461/live/beast/beast/44.m3u8
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CA : CBC NEWS HD" tvg-logo="" group-title="CAN",CA : CBC NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : CBS FHD" tvg-logo="" group-title="CAN",CA : CBS FHD
+http://xports.ddns.net:25461/live/beast/beast/64.m3u8
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="CA : CHCH HD" tvg-logo="" group-title="CAN",CA : CHCH HD
+http://xports.ddns.net:25461/live/beast/beast/43.m3u8
+#EXTINF:-1 tvg-id="CITY.ca" tvg-name="CA : CITY FHD" tvg-logo="" group-title="CAN",CA : CITY FHD
+http://xports.ddns.net:25461/live/beast/beast/45.m3u8
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA : CNN HD" tvg-logo="" group-title="CAN",CA : CNN HD
+http://xports.ddns.net:25461/live/beast/beast/38.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.usa" tvg-name="CA : COMEDY HD" tvg-logo="" group-title="CAN",CA : COMEDY HD
+http://xports.ddns.net:25461/live/beast/beast/37.m3u8
+#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CA : CP 24 HD" tvg-logo="" group-title="CAN",CA : CP 24 HD
+http://xports.ddns.net:25461/live/beast/beast/48.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CA : CPAC HD" tvg-logo="" group-title="CAN",CA : CPAC HD
+http://xports.ddns.net:25461/live/beast/beast/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : CREATE HD" tvg-logo="" group-title="CAN",CA : CREATE HD
+http://xports.ddns.net:25461/live/beast/beast/50.m3u8
+#EXTINF:-1 tvg-id="CTV.ca" tvg-name="CA : CTV ATLANTIC" tvg-logo="" group-title="CAN",CA : CTV ATLANTIC
+http://xports.ddns.net:25461/live/beast/beast/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : CTV FHD" tvg-logo="" group-title="CAN",CA : CTV FHD
+http://xports.ddns.net:25461/live/beast/beast/51.m3u8
+#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CA : CTV NEWS HD" tvg-logo="" group-title="CAN",CA : CTV NEWS HD
+http://xports.ddns.net:25461/live/beast/beast/74.m3u8
+#EXTINF:-1 tvg-id="CW.ca" tvg-name="CA : CW HD" tvg-logo="" group-title="CAN",CA : CW HD
+http://xports.ddns.net:25461/live/beast/beast/52.m3u8
+#EXTINF:-1 tvg-id="Disney.usa" tvg-name="CA : DISNEY HD" tvg-logo="" group-title="CAN",CA : DISNEY HD
+http://xports.ddns.net:25461/live/beast/beast/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : DISNEY JR HD" tvg-logo="" group-title="CAN",CA : DISNEY JR HD
+http://xports.ddns.net:25461/live/beast/beast/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : DISNEY XD HD" tvg-logo="" group-title="CAN",CA : DISNEY XD HD
+http://xports.ddns.net:25461/live/beast/beast/33.m3u8
+#EXTINF:-1 tvg-id="DIY.ca" tvg-name="CA : DIY NETWORK HD" tvg-logo="" group-title="CAN",CA : DIY NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/32.m3u8
+#EXTINF:-1 tvg-id="E!.ca" tvg-name="CA : E! HD" tvg-logo="" group-title="CAN",CA : E! HD
+http://xports.ddns.net:25461/live/beast/beast/75.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA : Food Network HD" tvg-logo="" group-title="CAN",CA : Food Network HD
+http://xports.ddns.net:25461/live/beast/beast/31.m3u8
+#EXTINF:-1 tvg-id="FOX.ca" tvg-name="CA : FOX HD" tvg-logo="" group-title="CAN",CA : FOX HD
+http://xports.ddns.net:25461/live/beast/beast/20.m3u8
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA : FX HD" tvg-logo="" group-title="CAN",CA : FX HD
+http://xports.ddns.net:25461/live/beast/beast/30.m3u8
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA : FXX HD" tvg-logo="" group-title="CAN",CA : FXX HD
+http://xports.ddns.net:25461/live/beast/beast/29.m3u8
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="CA : GLOBAL FHD" tvg-logo="" group-title="CAN",CA : GLOBAL FHD
+http://xports.ddns.net:25461/live/beast/beast/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : GSN HD" tvg-logo="" group-title="CAN",CA : GSN HD
+http://xports.ddns.net:25461/live/beast/beast/66.m3u8
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA : HBO 2 HD" tvg-logo="" group-title="CAN",CA : HBO 2 HD
+http://xports.ddns.net:25461/live/beast/beast/76.m3u8
+#EXTINF:-1 tvg-id="HBO.ca" tvg-name="CA : HBO HD" tvg-logo="" group-title="CAN",CA : HBO HD
+http://xports.ddns.net:25461/live/beast/beast/55.m3u8
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA : HGTV HD" tvg-logo="" group-title="CAN",CA : HGTV HD
+http://xports.ddns.net:25461/live/beast/beast/19.m3u8
+#EXTINF:-1 tvg-id="History.ca" tvg-name="CA : HISTORY HD" tvg-logo="" group-title="CAN",CA : HISTORY HD
+http://xports.ddns.net:25461/live/beast/beast/28.m3u8
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA : HLN HD" tvg-logo="" group-title="CAN",CA : HLN HD
+http://xports.ddns.net:25461/live/beast/beast/77.m3u8
+#EXTINF:-1 tvg-id="Lifetime.ca" tvg-name="CA : Lifetime HD" tvg-logo="" group-title="CAN",CA : Lifetime HD
+http://xports.ddns.net:25461/live/beast/beast/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : ME TV HD" tvg-logo="" group-title="CAN",CA : ME TV HD
+http://xports.ddns.net:25461/live/beast/beast/56.m3u8
+#EXTINF:-1 tvg-id="MSNBC.ca" tvg-name="CA : MSNBC HD" tvg-logo="" group-title="CAN",CA : MSNBC HD
+http://xports.ddns.net:25461/live/beast/beast/26.m3u8
+#EXTINF:-1 tvg-id="NATGEO.ca" tvg-name="CA : NAT GEO HD" tvg-logo="" group-title="CAN",CA : NAT GEO HD
+http://xports.ddns.net:25461/live/beast/beast/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : NAT GEO WILD HD" tvg-logo="" group-title="CAN",CA : NAT GEO WILD HD
+http://xports.ddns.net:25461/live/beast/beast/24.m3u8
+#EXTINF:-1 tvg-id="NBC.ca" tvg-name="CA : NBC FHD" tvg-logo="" group-title="CAN",CA : NBC FHD
+http://xports.ddns.net:25461/live/beast/beast/58.m3u8
+#EXTINF:-1 tvg-id="OWN.ca" tvg-name="CA : OWN HD" tvg-logo="" group-title="CAN",CA : OWN HD
+http://xports.ddns.net:25461/live/beast/beast/23.m3u8
+#EXTINF:-1 tvg-id="PBS.ca" tvg-name="CA : PBS HD" tvg-logo="" group-title="CAN",CA : PBS HD
+http://xports.ddns.net:25461/live/beast/beast/59.m3u8
+#EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="CA : PEACH TREE HD" tvg-logo="" group-title="CAN",CA : PEACH TREE HD
+http://xports.ddns.net:25461/live/beast/beast/78.m3u8
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA : SHOWCASE HD" tvg-logo="" group-title="CAN",CA : SHOWCASE HD
+http://xports.ddns.net:25461/live/beast/beast/81.m3u8
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="CA : SLICE HD" tvg-logo="" group-title="CAN",CA : SLICE HD
+http://xports.ddns.net:25461/live/beast/beast/47.m3u8
+#EXTINF:-1 tvg-id="Space.ca" tvg-name="CA : SPACE HD" tvg-logo="" group-title="CAN",CA : SPACE HD
+http://xports.ddns.net:25461/live/beast/beast/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET 360 HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET 360 HD
+http://xports.ddns.net:25461/live/beast/beast/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET EAST HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET EAST HD
+http://xports.ddns.net:25461/live/beast/beast/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET ONE HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET ONE HD
+http://xports.ddns.net:25461/live/beast/beast/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET ONTARIO HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET ONTARIO HD
+http://xports.ddns.net:25461/live/beast/beast/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET PACIFIC HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET PACIFIC HD
+http://xports.ddns.net:25461/live/beast/beast/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET WEST HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET WEST HD
+http://xports.ddns.net:25461/live/beast/beast/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : SPORTSNET WORLD HD" tvg-logo="" group-title="SPORTS",CA : SPORTSNET WORLD HD
+http://xports.ddns.net:25461/live/beast/beast/61.m3u8
+#EXTINF:-1 tvg-id="TLC.ca" tvg-name="CA : TLC HD" tvg-logo="" group-title="CAN",CA : TLC HD
+http://xports.ddns.net:25461/live/beast/beast/22.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA : TSN HD 1" tvg-logo="" group-title="CAN",CA : TSN HD 1
+http://xports.ddns.net:25461/live/beast/beast/67.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA : TSN HD 2" tvg-logo="" group-title="CAN",CA : TSN HD 2
+http://xports.ddns.net:25461/live/beast/beast/68.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA : TSN HD 3" tvg-logo="" group-title="CAN",CA : TSN HD 3
+http://xports.ddns.net:25461/live/beast/beast/69.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA : TSN HD 4" tvg-logo="" group-title="CAN",CA : TSN HD 4
+http://xports.ddns.net:25461/live/beast/beast/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : TSN HD 5" tvg-logo="" group-title="CAN",CA : TSN HD 5
+http://xports.ddns.net:25461/live/beast/beast/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA : WORLD HD" tvg-logo="" group-title="CAN",CA : WORLD HD
+http://xports.ddns.net:25461/live/beast/beast/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : DOCU BOX HD" tvg-logo="" group-title="MISC",MY HD : DOCU BOX HD
+http://xports.ddns.net:25461/live/beast/beast/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : FOX ACTION HD" tvg-logo="" group-title="MISC",MY HD : FOX ACTION HD
+http://xports.ddns.net:25461/live/beast/beast/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : FOX FAMILY HD" tvg-logo="" group-title="MISC",MY HD : FOX FAMILY HD
+http://xports.ddns.net:25461/live/beast/beast/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : FX HD" tvg-logo="" group-title="MISC",MY HD : FX HD
+http://xports.ddns.net:25461/live/beast/beast/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC ACTION HD" tvg-logo="" group-title="MISC",MY HD : MBC ACTION HD
+http://xports.ddns.net:25461/live/beast/beast/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC DRAMA   HD" tvg-logo="" group-title="MISC",MY HD : MBC DRAMA   HD
+http://xports.ddns.net:25461/live/beast/beast/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC DRAMA HD" tvg-logo="" group-title="MISC",MY HD : MBC DRAMA HD
+http://xports.ddns.net:25461/live/beast/beast/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC HD 1" tvg-logo="" group-title="MISC",MY HD : MBC HD 1
+http://xports.ddns.net:25461/live/beast/beast/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC HD 2" tvg-logo="" group-title="MISC",MY HD : MBC HD 2
+http://xports.ddns.net:25461/live/beast/beast/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC HD 3" tvg-logo="" group-title="MISC",MY HD : MBC HD 3
+http://xports.ddns.net:25461/live/beast/beast/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC HD 4" tvg-logo="" group-title="MISC",MY HD : MBC HD 4
+http://xports.ddns.net:25461/live/beast/beast/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC MAX HD" tvg-logo="" group-title="MISC",MY HD : MBC MAX HD
+http://xports.ddns.net:25461/live/beast/beast/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MBC VARIETY HD" tvg-logo="" group-title="MISC",MY HD : MBC VARIETY HD
+http://xports.ddns.net:25461/live/beast/beast/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HD : MY FIGHT BOX HD" tvg-logo="" group-title="MISC",MY HD : MY FIGHT BOX HD
+http://xports.ddns.net:25461/live/beast/beast/14.m3u8
