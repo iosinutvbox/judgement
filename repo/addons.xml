@@ -1,5 +1,5 @@
 <addons>
-<addon id="repository.judgement" name="Judgement Repo" version="1.2" provider-name="Judgement">
+<addon id="repository.judgement" name="Judgement Repo" version="1.3" provider-name="Judgement">
 	<extension point="xbmc.addon.repository" name="Judgement">
 		<info compressed="false">https://archive.org/download/JudgementRepo/Repo/addons.xml</info>
 		<checksum>https://archive.org/download/JudgementRepo/Repo/addons.xml.md5</checksum>
@@ -11,7 +11,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.judgement" name="Judgement Wizard" version="1.6" provider-name="Judgement/Aftermath">
+<addon id="plugin.program.judgement" name="Judgement Wizard" version="1.7" provider-name="Judgement/Aftermath">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -26,7 +26,7 @@
 	<news>Special Thanks To Aftermath For Wizard Base And Smash, The Turtle, Klepton For Cache And Internet Tools!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.4" provider-name="Judgement/sClarke">
+<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.5" provider-name="Judgement/sClarke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
@@ -43,7 +43,7 @@
 	<news>Special Thanks To sClarke For LiveHub Addon Base! This Is A Fork Of LiveHub With Some Changes/Fixes! Credit To sClarke!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.2" provider-name="Judgement/Midraal">
+<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.3" provider-name="Judgement/Midraal">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
