@@ -1,3 +1,3 @@
 <dir><title>[COLOR white]Judgement IPTV[/COLOR]</title><link>plugin://plugin.video.judgementiptv</link></dir>
 <dir><title>[COLOR white]Sports Devil[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/sportsdevil.xml</link></dir>
-<dir><title>[COLOR white]test[/COLOR]</title><link>plugin://plugin.video.SportsDevil/?item=url%3dfirstonetv.cfg</link></dir>
+<dir><title>[COLOR white]test[/COLOR]</title><link>plugin://plugin.video.SportsDevil/?item=title%3d%255BCOLOR%253Dcyan%255DUnited%2bKingdom%255B%252FCOLOR%255D%2b%2b%2b%2b%255B82%2bChannels%255D%26url%3dhttps%253A%252F%252Fwww.firstonetv.net%252FLive%252FUnited-Kingdom%26cfg%3dfirstonetv.cfg</link></dir>
