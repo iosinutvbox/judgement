@@ -6,7 +6,6 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsmainevent.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35583/77299/Sky_Sports_1_Live_Stream.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysportsmainevent</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-main-event</sublink>
 </link>
 </plugin>
 
@@ -59,6 +58,7 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/skyf1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsf1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-f1</sublink>
 </link>
 </plugin>
 
@@ -66,5 +66,6 @@
 <title>[COLOR white]Sky Sports Box Office[/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsboxoffice.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-box-office</sublink>
 </link>
 </plugin>
