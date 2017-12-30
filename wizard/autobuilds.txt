@@ -16,7 +16,7 @@ description="Judge"
 
 name="Judge 2"
 version="2.0"
-url="https://www.dropbox.com/s/qoq67g6mmrecdat/Judge.zip?dl=0"
+url="https://www.dropbox.com/s/qoq67g6mmrecdat/Judge.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
