@@ -26,7 +26,7 @@
 	<news>Special Thanks To Aftermath For Wizard Base And Smash, The Turtle, Klepton For Cache And Internet Tools!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.5" provider-name="Judgement/sClarke">
+<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.6" provider-name="Judgement/sClarke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
@@ -43,7 +43,7 @@
 	<news>Special Thanks To sClarke For LiveHub Addon Base! This Is A Fork Of LiveHub With Some Changes/Fixes! Credit To sClarke!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.3" provider-name="Judgement/Midraal">
+<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.4" provider-name="Judgement/Midraal">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
