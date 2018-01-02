@@ -1,0 +1,35 @@
+<item>
+<title>Sports Devil</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+</item>
+
+<item>
+<title>Sports Devil 2</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</link>
+</item>
+
+<dir>
+<title>Sports Devil 3</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</link>
+</dir>
+
+<item>
+<title>Sports Devil 4</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg</jsonrpc>
+</item>
+
+<item>
+<title>Sports Devil 5</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg</link>
+</item>
+
+<dir>
+<title>Sports Devil 6</title>
+<link>plugin://plugin.video.SportsDevil/?item=url=customs.cfg</link>
+</dir>
+
+<dir><title>[COLOR white]Open Sports Devil[/COLOR]</title><link>plugin://plugin.video.SportsDevil</link></dir>
+<dir><title>[COLOR white]BT Sports[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/btsports.xml</link></dir>
+<dir><title>[COLOR white]Sky Sports[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/skysports.xml</link></dir>
