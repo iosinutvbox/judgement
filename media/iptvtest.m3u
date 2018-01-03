@@ -1,0 +1,1747 @@
+#EXTM3U
+
+#EXTINF:-1,***** Judgement IPTV! (Test List) *****
+http://1
+
+#EXTINF:-1,***** Last Updated: 01/01/2018 *****
+http://2
+
+#EXTINF:-1,***** Some Links May Need A Few Clicks! *****
+http://3
+
+#EXTINF:-1,***** Hope You Enjoy! *****
+http://4
+
+#EXTINF:-1,***** Twitter: @JudgementWiz *****
+http://5
+
+#EXTINF:-1 tvg-id="" tvg-name="BA: Music Primera" tvg-logo="" group-title="Bosanski",BA: Music Primera
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/822.m3u8
+#EXTINF:-1 tvg-id="bht1.ba" tvg-name="BA: BHT HD" tvg-logo="" group-title="Bosanski",BA: BHT HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/362.m3u8
+#EXTINF:-1 tvg-id="ftv.ba" tvg-name="BA: Federalna TV" tvg-logo="" group-title="Bosanski",BA: Federalna TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/363.m3u8
+#EXTINF:-1 tvg-id="face-tv.ba" tvg-name="BA: Face TV HD" tvg-logo="" group-title="Bosanski",BA: Face TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/364.m3u8
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="BA: OBN" tvg-logo="" group-title="Bosanski",BA: OBN
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/366.m3u8
+#EXTINF:-1 tvg-id="al-jazeera-balkans.info" tvg-name="BA: Al Jazeera Balkans HD" tvg-logo="" group-title="Bosanski",BA: Al Jazeera Balkans HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/420.m3u8
+#EXTINF:-1 tvg-id="pink-bih.ba" tvg-name="BA: Pink  BH" tvg-logo="" group-title="Bosanski",BA: Pink  BH
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/422.m3u8
+#EXTINF:-1 tvg-id="hayat-tv.ba" tvg-name="BA: Hayat TV" tvg-logo="" group-title="Bosanski",BA: Hayat TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/368.m3u8
+#EXTINF:-1 tvg-id="hayat-plus.ba" tvg-name="BA: Hayat Plus" tvg-logo="" group-title="Bosanski",BA: Hayat Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: N1 HD" tvg-logo="" group-title="Bosanski",BA: N1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Alfa TV" tvg-logo="" group-title="Bosanski",BA: Alfa TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/365.m3u8
+#EXTINF:-1 tvg-id="ntv-ic.ba" tvg-name="BA: NTV IC Kakanj" tvg-logo="" group-title="Bosanski",BA: NTV IC Kakanj
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/499.m3u8
+#EXTINF:-1 tvg-id="tv1.ba" tvg-name="BA: TV 1" tvg-logo="" group-title="Bosanski",BA: TV 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Alternativna" tvg-logo="" group-title="Bosanski",BA: Alternativna
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/495.m3u8
+#EXTINF:-1 tvg-id="tv-sarajevo.ba" tvg-name="BA: TV Sarajevo" tvg-logo="" group-title="Bosanski",BA: TV Sarajevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/451.m3u8
+#EXTINF:-1 tvg-id="rtv-ze.ba" tvg-name="BA: RTV Zenica" tvg-logo="" group-title="Bosanski",BA: RTV Zenica
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/415.m3u8
+#EXTINF:-1 tvg-id="rtvtk.ba" tvg-name="BA: TV TK" tvg-logo="" group-title="Bosanski",BA: TV TK
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/442.m3u8
+#EXTINF:-1 tvg-id="rtv-usk.ba" tvg-name="BA: RTV USK" tvg-logo="" group-title="Bosanski",BA: RTV USK
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Sandzak TV" tvg-logo="" group-title="Bosanski",BA: Sandzak TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: RTV Novi Pazar" tvg-logo="" group-title="Bosanski",BA: RTV Novi Pazar
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/634.m3u8
+#EXTINF:-1 tvg-id="mtv-igman.ba" tvg-name="BA: MTV Igman" tvg-logo="" group-title="Bosanski",BA: MTV Igman
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primera Info" tvg-logo="" group-title="Primera TV",Primera Info
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Exclusive" tvg-logo="" group-title="Primera TV",A1 Exclusive
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Shqiptare" tvg-logo="" group-title="Primera TV",A1 Shqiptare
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Islam" tvg-logo="" group-title="Primera TV",A1 Islam
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 World" tvg-logo="" group-title="Primera TV",A1 World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Espana*" tvg-logo="" group-title="Primera TV",A1 Espana*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Balkan*" tvg-logo="" group-title="Primera TV",A1 Balkan*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Bosnia" tvg-logo="" group-title="Primera TV",A1 Bosnia
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Cinema TV" tvg-logo="" group-title="Primera TV",A1 Cinema TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Kids HD" tvg-logo="" group-title="Primera TV",A1 Kids HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIBERATION TV" tvg-logo="" group-title="Primera TV",LIBERATION TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11 Television" tvg-logo="" group-title="Primera TV",11 Television
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAR TV Catalonia" tvg-logo="" group-title="Primera TV",MAR TV Catalonia
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plus HD TV" tvg-logo="" group-title="Primera TV",Plus HD TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Press TV Iran HD" tvg-logo="" group-title="Primera TV",Press TV Iran HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Primera TV",TV Opoja
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA : NTV 101 Prijedor" tvg-logo="" group-title="Bosanski",BA : NTV 101 Prijedor
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: TV Bugojno" tvg-logo="" group-title="Bosanski",BA: TV Bugojno
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Moje Bugojno" tvg-logo="" group-title="Bosanski",BA: Moje Bugojno
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Kanal 6 HD" tvg-logo="" group-title="Bosanski",BA: Kanal 6 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Nasa TV" tvg-logo="" group-title="Bosanski",BA: Nasa TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/816.m3u8
+#EXTINF:-1 tvg-id="rtv-slon.ba" tvg-name="BA: Slon Extra" tvg-logo="" group-title="Bosanski",BA: Slon Extra
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Smart TV Tešanj" tvg-logo="" group-title="Bosanski",BA: Smart TV Tešanj
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Zivinice TV" tvg-logo="" group-title="Bosanski",BA: Zivinice TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: TV Visoko" tvg-logo="" group-title="Bosanski",BA: TV Visoko
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie" tvg-logo="" group-title="Njemački - AT",DE: TNT Serie
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/750.m3u8
+#EXTINF:-1 tvg-id="tv-kiss.ba" tvg-name="BA: RTV KISS" tvg-logo="" group-title="Bosanski",BA: RTV KISS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Bujrum" tvg-logo="" group-title="Bosanski",BA: Bujrum
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/517.m3u8
+#EXTINF:-1 tvg-id="rtv-hit.ba" tvg-name="BA: RTV HIT" tvg-logo="" group-title="Bosanski",BA: RTV HIT
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Vikom TV" tvg-logo="" group-title="Bosanski",BA: Vikom TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Televizija 5" tvg-logo="" group-title="Bosanski",BA: Televizija 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Maglaj TV" tvg-logo="" group-title="Bosanski",BA: Maglaj TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: MIR TV HD" tvg-logo="" group-title="Bosanski",BA: MIR TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sandžačka TV Mreža" tvg-logo="" group-title="Primera TV",Sandžačka TV Mreža
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 HD" tvg-logo="" group-title="Bosanski",TV 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: BN Televizija - Zemaljski" tvg-logo="" group-title="Bosanski",BA: BN Televizija - Zemaljski
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1014.m3u8
+#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HR: HRT 1" tvg-logo="" group-title="Hrvatski",HR: HRT 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/376.m3u8
+#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HR: HRT 2" tvg-logo="" group-title="Hrvatski",HR: HRT 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/385.m3u8
+#EXTINF:-1 tvg-id="htv3.hr" tvg-name="HR: HRT 3" tvg-logo="" group-title="Hrvatski",HR: HRT 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/386.m3u8
+#EXTINF:-1 tvg-id="htv4.hr" tvg-name="HR: HRT 4" tvg-logo="" group-title="Hrvatski",HR: HRT 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/387.m3u8
+#EXTINF:-1 tvg-id="nova.hr" tvg-name="HR: Nova TV HD" tvg-logo="" group-title="Hrvatski",HR: Nova TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/447.m3u8
+#EXTINF:-1 tvg-id="nova.hr" tvg-name="HR: Nova TV" tvg-logo="" group-title="Hrvatski",HR: Nova TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/378.m3u8
+#EXTINF:-1 tvg-id="doma-tv.hr" tvg-name="HR: Doma TV HD" tvg-logo="" group-title="Hrvatski",HR: Doma TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/449.m3u8
+#EXTINF:-1 tvg-id="doma-tv.hr" tvg-name="HR: Doma" tvg-logo="" group-title="Hrvatski",HR: Doma
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/676.m3u8
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="HR: RTL" tvg-logo="" group-title="Hrvatski",HR: RTL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/379.m3u8
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="HR: RTL 2" tvg-logo="" group-title="Hrvatski",HR: RTL 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Passion" tvg-logo="" group-title="Hrvatski",HR: RTL Passion
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Living" tvg-logo="" group-title="Hrvatski",HR: RTL Living
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Crime" tvg-logo="" group-title="Hrvatski",HR: RTL Crime
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/383.m3u8
+#EXTINF:-1 tvg-id="z1.hr" tvg-name="HR: Z1" tvg-logo="" group-title="Hrvatski",HR: Z1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/389.m3u8
+#EXTINF:-1 tvg-id="slavonska-tv.hr" tvg-name="HR: Slavonska" tvg-logo="" group-title="Hrvatski",HR: Slavonska
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="" group-title="Muzicki",Posavina TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/401.m3u8
+#EXTINF:-1 tvg-id="vinkovacka-tv.hr" tvg-name="HR: Vinkovacka tv" tvg-logo="" group-title="Hrvatski",HR: Vinkovacka tv
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR:TV Banovina" tvg-logo="" group-title="Hrvatski",HR:TV Banovina
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV CAZIN" tvg-logo="" group-title="Bosanski",RTV CAZIN
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3417.m3u8
+#EXTINF:-1 tvg-id="ostv.hr" tvg-name="HR: Osječka TV" tvg-logo="" group-title="Hrvatski",HR: Osječka TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: HNTV" tvg-logo="" group-title="Hrvatski",HR: HNTV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: Zdrava TV" tvg-logo="" group-title="Hrvatski",HR: Zdrava TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: RTV Mostar" tvg-logo="" group-title="Bosanski",BA: RTV Mostar
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/723.m3u8
+#EXTINF:-1 tvg-id="rts1.sr" tvg-name="RS: RTS 1" tvg-logo="" group-title="Srpski",RS: RTS 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/394.m3u8
+#EXTINF:-1 tvg-id="rts2.sr" tvg-name="RS: RTS 2" tvg-logo="" group-title="Srpski",RS: RTS 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/395.m3u8
+#EXTINF:-1 tvg-id="rts1.sr" tvg-name="RS: RTS HD" tvg-logo="" group-title="Srpski",RS: RTS HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Nova" tvg-logo="" group-title="Srpski",RS: Nova
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/409.m3u8
+#EXTINF:-1 tvg-id="pink.sr" tvg-name="RS: Pink Srbija" tvg-logo="" group-title="Srpski",RS: Pink Srbija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/367.m3u8
+#EXTINF:-1 tvg-id="b92.sr" tvg-name="RS: B92" tvg-logo="" group-title="Srpski",RS: B92
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/396.m3u8
+#EXTINF:-1 tvg-id="happytv.sr" tvg-name="RS: Happy" tvg-logo="" group-title="Srpski",RS: Happy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/375.m3u8
+#EXTINF:-1 tvg-id="prva-srpska-tv.sr" tvg-name="RS Prva TV" tvg-logo="" group-title="Srpski",RS Prva TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Prva Plus" tvg-logo="" group-title="Srpski",RS: Prva Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Prva MAX" tvg-logo="" group-title="Srpski",RS: Prva MAX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/746.m3u8
+#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="BA: RTRS" tvg-logo="" group-title="Bosanski",BA: RTRS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: RTRS Plus" tvg-logo="" group-title="Bosanski",BA: RTRS Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/474.m3u8
+#EXTINF:-1 tvg-id="studio-b-yu.sr" tvg-name="RS: Studio B" tvg-logo="" group-title="Srpski",RS: Studio B
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/556.m3u8
+#EXTINF:-1 tvg-id="vojvodina-1.sr" tvg-name="RS: RTV 1 (Vojvodina)" tvg-logo="" group-title="Srpski",RS: RTV 1 (Vojvodina)
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/487.m3u8
+#EXTINF:-1 tvg-id="vojvodina-2.sr" tvg-name="RS: RTV 2 (Vojvodina)" tvg-logo="" group-title="Srpski",RS: RTV 2 (Vojvodina)
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CG: TV Vijesti" tvg-logo="" group-title="Crna Gora",CG: TV Vijesti
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Belle Amie Niš" tvg-logo="" group-title="Srpski",RS: Belle Amie Niš
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: TV Vogosca" tvg-logo="" group-title="Bosanski",BA: TV Vogosca
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Sahar TV" tvg-logo="" group-title="Bosanski",BA: Sahar TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M1 Film" tvg-logo="" group-title="Filmski",M1 Film
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: TV Kladovo" tvg-logo="" group-title="Srpski",RS: TV Kladovo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Istok" tvg-logo="" group-title="Srpski",RS: Istok
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 1" tvg-logo="" group-title="Engleski - UK",UK: Sky Sports 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Ultra TV" tvg-logo="" group-title="Srpski",RS: Ultra TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/752.m3u8
+#EXTINF:-1 tvg-id="slo1.si" tvg-name="SL: SLO TV1" tvg-logo="" group-title="Slovenski",SL: SLO TV1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/695.m3u8
+#EXTINF:-1 tvg-id="slo2.si" tvg-name="SL: SLO TV 2" tvg-logo="" group-title="Slovenski",SL: SLO TV 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/696.m3u8
+#EXTINF:-1 tvg-id="slo3.si" tvg-name="SL: SLO TV3" tvg-logo="" group-title="Slovenski",SL: SLO TV3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/697.m3u8
+#EXTINF:-1 tvg-id="pop-tv.si" tvg-name="SL: POP TV" tvg-logo="" group-title="Slovenski",SL: POP TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/371.m3u8
+#EXTINF:-1 tvg-id="pop-oto.si" tvg-name="SL: POP OTO" tvg-logo="" group-title="Slovenski",SL: POP OTO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/374.m3u8
+#EXTINF:-1 tvg-id="pop-kino.si" tvg-name="SL: POP KINO" tvg-logo="" group-title="Slovenski",SL: POP KINO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/373.m3u8
+#EXTINF:-1 tvg-id="pop-brio.si" tvg-name="SL: POP BRIO" tvg-logo="" group-title="Slovenski",SL: POP BRIO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL: Golica TV" tvg-logo="" group-title="Slovenski",SL: Golica TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SL: Zdrava TV" tvg-logo="" group-title="Slovenski",SL: Zdrava TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3407.m3u8
+#EXTINF:-1 tvg-id="tvcg1.cg" tvg-name="CG: RTCG 1" tvg-logo="" group-title="Crna Gora",CG: RTCG 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CG: RTCG 2" tvg-logo="" group-title="Crna Gora",CG: RTCG 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1006.m3u8
+#EXTINF:-1 tvg-id="tvcg-sat.cg" tvg-name="CG: RTCG Sat" tvg-logo="" group-title="Crna Gora",CG: RTCG Sat
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CG: Islam Montenegro TV" tvg-logo="" group-title="Crna Gora",CG: Islam Montenegro TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal  LIGA HD" tvg-logo="" group-title="Sportski",SP: Canal  LIGA HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="Albanski",AL: Tring Shqip
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Max" tvg-logo="" group-title="Albanski",AL: Tring Max
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="Dokumentarni",History 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Junior" tvg-logo="" group-title="Albanski",AL: Junior
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="" group-title="Albanski",AL: KTV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/795.m3u8
+#EXTINF:-1 tvg-id="atlas.cg" tvg-name="AL: Alsat M" tvg-logo="" group-title="Albanski",AL: Alsat M
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="" group-title="Albanski",AL: RTK 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="" group-title="Albanski",AL: RTV 21
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Tv" tvg-logo="" group-title="Albanski",AL: Klan Tv
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/563.m3u8
+#EXTINF:-1 tvg-id="kanal5.mk" tvg-name="MK: Kanal 5" tvg-logo="" group-title="Makedonski",MK: Kanal 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 5 Plus" tvg-logo="" group-title="Makedonski",MK: Kanal 5 Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/707.m3u8
+#EXTINF:-1 tvg-id="telma.mk" tvg-name="MK: Telma" tvg-logo="" group-title="Makedonski",MK: Telma
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Naša TV" tvg-logo="" group-title="Makedonski",MK: Naša TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel" tvg-logo="" group-title="Makedonski",MK: Sitel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel 2" tvg-logo="" group-title="Makedonski",MK: Sitel 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel 3" tvg-logo="" group-title="Makedonski",MK: Sitel 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/705.m3u8
+#EXTINF:-1 tvg-id="mrt1.mk" tvg-name="MK: MRT 1" tvg-logo="" group-title="Makedonski",MK: MRT 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 2" tvg-logo="" group-title="Makedonski",MK: MRT 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 3" tvg-logo="" group-title="Makedonski",MK: MRT 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Alfa TV" tvg-logo="" group-title="Makedonski",MK: Alfa TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/708.m3u8
+#EXTINF:-1 tvg-id="24vesti.mk" tvg-name="MK: 24 Vesti Mk" tvg-logo="" group-title="Makedonski",MK: 24 Vesti Mk
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal A" tvg-logo="" group-title="Makedonski",MK: Kanal A
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Koha Tetove" tvg-logo="" group-title="Makedonski",MK: TV Koha Tetove
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Liria" tvg-logo="" group-title="Makedonski",MK: TV Liria
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV2 Makedonija" tvg-logo="" group-title="Makedonski",MK: TV2 Makedonija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV 2 Gostivar" tvg-logo="" group-title="Makedonski",MK: TV 2 Gostivar
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Zdrava TV" tvg-logo="" group-title="Makedonski",MK: Zdrava TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink World" tvg-logo="" group-title="Pink Media",Pink World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zabava" tvg-logo="" group-title="Pink Media",Pink Zabava
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink World Cinema" tvg-logo="" group-title="Pink Media",Pink World Cinema
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Style" tvg-logo="" group-title="Pink Media",Pink Style
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Soap" tvg-logo="" group-title="Pink Media",Pink Soap
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Serije" tvg-logo="" group-title="Pink Media",Pink Serije
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Sci Fi Fantasy" tvg-logo="" group-title="Pink Media",Pink Sci Fi Fantasy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ORF III HD" tvg-logo="" group-title="Njemački - AT",ORF III HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Plus" tvg-logo="" group-title="Pink Media",Pink Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Pedia" tvg-logo="" group-title="Pink Media",Pink Pedia
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/580.m3u8
+#EXTINF:-1 tvg-id="pink-nostalgia.music" tvg-name="Pink Nostalgija" tvg-logo="" group-title="Pink Media",Pink Nostalgija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music" tvg-logo="" group-title="Pink Media",Pink Music
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 2" tvg-logo="" group-title="Pink Media",Pink Music 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 3" tvg-logo="" group-title="Pink Media",Pink Music 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 4" tvg-logo="" group-title="Pink Media",Pink Music 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 5" tvg-logo="" group-title="Pink Media",Pink Music 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/578.m3u8
+#EXTINF:-1 tvg-id="pink-fashion.sr" tvg-name="Pink Fashion" tvg-logo="" group-title="Pink Media",Pink Fashion
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/433.m3u8
+#EXTINF:-1 tvg-id="pink-family.sr" tvg-name="Pink Family" tvg-logo="" group-title="Pink Media",Pink Family
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Extra" tvg-logo="" group-title="Pink Media",Pink Extra
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Comedy" tvg-logo="" group-title="Pink Media",Pink Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Classic" tvg-logo="" group-title="Pink Media",Pink Classic
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Bravo" tvg-logo="" group-title="Pink Media",Pink Bravo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/428.m3u8
+#EXTINF:-1 tvg-id="pink-action.movie" tvg-name="Pink Action" tvg-logo="" group-title="Pink Media",Pink Action
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Action 2" tvg-logo="" group-title="Pink Media",Pink Action 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Action 3" tvg-logo="" group-title="Pink Media",Pink Action 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/427.m3u8
+#EXTINF:-1 tvg-id="pink-movies.movie" tvg-name="Pink Movies" tvg-logo="" group-title="Pink Media",Pink Movies
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Romance" tvg-logo="" group-title="Pink Media",Pink Romance
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink 3" tvg-logo="" group-title="Pink Media",Pink 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Live" tvg-logo="" group-title="Pink Media",Pink Live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Horor" tvg-logo="" group-title="Pink Media",Pink Horor
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="" group-title="Pink Media",Pink Folk 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/568.m3u8
+#EXTINF:-1 tvg-id="pink-folk.music" tvg-name="Pink Folk" tvg-logo="" group-title="Pink Media",Pink Folk
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Western" tvg-logo="" group-title="Pink Media",Pink Western
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Super Kids" tvg-logo="" group-title="Pink Media",Pink Super Kids
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Show" tvg-logo="" group-title="Pink Media",Pink Show
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Reality" tvg-logo="" group-title="Pink Media",Pink Reality
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Premium" tvg-logo="" group-title="Pink Media",Pink Premium
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/492.m3u8
+#EXTINF:-1 tvg-id="pink-m.cg" tvg-name="Pink M" tvg-logo="" group-title="Pink Media",Pink M
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/490.m3u8
+#EXTINF:-1 tvg-id="pink-2.sr" tvg-name="Pink 2" tvg-logo="" group-title="Pink Media",Pink 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Kuvar" tvg-logo="" group-title="Pink Media",Pink Kuvar
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/481.m3u8
+#EXTINF:-1 tvg-id="pink-film.movie" tvg-name="Pink Film" tvg-logo="" group-title="Pink Media",Pink Film
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink fight network" tvg-logo="" group-title="Pink Media",Pink fight network
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink HA-HA" tvg-logo="" group-title="Pink Media",Pink HA-HA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LU: Chamber TV" tvg-logo="" group-title="Njemački - AT",LU: Chamber TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Njemački - AT",MTV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="Filmski",Fox HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/544.m3u8
+#EXTINF:-1 tvg-id="fox-movies.movie" tvg-name="Fox Movies Adria" tvg-logo="" group-title="Filmski",Fox Movies Adria
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/662.m3u8
+#EXTINF:-1 tvg-id="fox-crime.movie" tvg-name="Fox Crime" tvg-logo="" group-title="Filmski",Fox Crime
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/462.m3u8
+#EXTINF:-1 tvg-id="fox-life.movie" tvg-name="Fox Life" tvg-logo="" group-title="Filmski",Fox Life
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/463.m3u8
+#EXTINF:-1 tvg-id="hbo.movie" tvg-name="HBO Adria" tvg-logo="" group-title="Filmski",HBO Adria
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Filmski",HBO 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD" tvg-logo="" group-title="Filmski",HBO 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/821.m3u8
+#EXTINF:-1 tvg-id="cinestar-tv.movie" tvg-name="Cinestar TV" tvg-logo="" group-title="Filmski",Cinestar TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 2" tvg-logo="" group-title="Filmski",Cinestar Premiere 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 1" tvg-logo="" group-title="Filmski",Cinestar Premiere 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/434.m3u8
+#EXTINF:-1 tvg-id="cinemax-2.movie" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="Filmski",Cinemax 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/671.m3u8
+#EXTINF:-1 tvg-id="cinemax.movie" tvg-name="Cinemax 1 HD" tvg-logo="" group-title="Filmski",Cinemax 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/670.m3u8
+#EXTINF:-1 tvg-id="comedy-central-us.movie" tvg-name="Comedy Central Extra Central Europe" tvg-logo="" group-title="Filmski",Comedy Central Extra Central Europe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/458.m3u8
+#EXTINF:-1 tvg-id="klasiktv.movie" tvg-name="Klasik TV" tvg-logo="" group-title="Filmski",Klasik TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/388.m3u8
+#EXTINF:-1 tvg-id="axn.movie" tvg-name="AXN Central Europe" tvg-logo="" group-title="Filmski",AXN Central Europe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/551.m3u8
+#EXTINF:-1 tvg-id="scifi.movie" tvg-name="SciFi" tvg-logo="" group-title="Filmski",SciFi
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/543.m3u8
+#EXTINF:-1 tvg-id="tv1000-balkan.movie" tvg-name="TV 1000" tvg-logo="" group-title="Filmski",TV 1000
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 1" tvg-logo="" group-title="Filmski",Cinemacious 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 2" tvg-logo="" group-title="Filmski",Cinemacious 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 3" tvg-logo="" group-title="Filmski",Cinemacious 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 4" tvg-logo="" group-title="Filmski",Cinemacious 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 5" tvg-logo="" group-title="Filmski",Cinemacious 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 6" tvg-logo="" group-title="Filmski",Cinemacious 6
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 7" tvg-logo="" group-title="Filmski",Cinemacious 7
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 8" tvg-logo="" group-title="Filmski",Cinemacious 8
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 1" tvg-logo="" group-title="Filmski",Total Cinema 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 2" tvg-logo="" group-title="Filmski",Total Cinema 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 3" tvg-logo="" group-title="Filmski",Total Cinema 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="" group-title="Filmski",TOP TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Sehara TV" tvg-logo="" group-title="Bosanski",BA: Sehara TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3397.m3u8
+#EXTINF:-1 tvg-id="dmsat.music" tvg-name="DM SAT" tvg-logo="" group-title="Muzicki",DM SAT
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/398.m3u8
+#EXTINF:-1 tvg-id="bn-music.music" tvg-name="BN Music" tvg-logo="" group-title="Muzicki",BN Music
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duga" tvg-logo="" group-title="Muzicki",Duga
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/405.m3u8
+#EXTINF:-1 tvg-id="cmc.music" tvg-name="Croatian Music Channel" tvg-logo="" group-title="Muzicki",Croatian Music Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/390.m3u8
+#EXTINF:-1 tvg-id="jugoton-tv.music" tvg-name="Jugoton" tvg-logo="" group-title="Muzicki",Jugoton
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/370.m3u8
+#EXTINF:-1 tvg-id="hayat-music.music" tvg-name="Hayat Music" tvg-logo="" group-title="Muzicki",Hayat Music
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/590.m3u8
+#EXTINF:-1 tvg-id="hayat-folk.music" tvg-name="Hayat Folk" tvg-logo="" group-title="Muzicki",Hayat Folk
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/480.m3u8
+#EXTINF:-1 tvg-id="bn.ba" tvg-name="BA: BN Televizija" tvg-logo="" group-title="Bosanski",BA: BN Televizija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDJTV" tvg-logo="" group-title="Muzicki",IDJTV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV Valentino" tvg-logo="" group-title="Muzicki",OTV Valentino
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA : Valentino Etno" tvg-logo="" group-title="Muzicki",BA : Valentino Etno
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yu planet radio" tvg-logo="" group-title="Muzicki",Yu planet radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kopernikus 1" tvg-logo="" group-title="Muzicki",Kopernikus 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kopernikus 2" tvg-logo="" group-title="Muzicki",Kopernikus 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grand Televizija" tvg-logo="" group-title="Muzicki",Grand Televizija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/400.m3u8
+#EXTINF:-1 tvg-id="balkanika.music" tvg-name="Balkanika" tvg-logo="" group-title="Muzicki",Balkanika
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Izvorna Muzika" tvg-logo="" group-title="Muzicki",Izvorna Muzika
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Glas Drine" tvg-logo="" group-title="Muzicki",TV Glas Drine
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/589.m3u8
+#EXTINF:-1 tvg-id="mtv-hits.music" tvg-name="MTV Hits" tvg-logo="" group-title="Muzicki",MTV Hits
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/672.m3u8
+#EXTINF:-1 tvg-id="vh1-europe.music" tvg-name="VH 1" tvg-logo="" group-title="Muzicki",VH 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1002.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-name="HR: Arena Sport 1 HD" tvg-logo="" group-title="Sportski",HR: Arena Sport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/454.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr.sport" tvg-name="HR: Arena Sport 2 HD" tvg-logo="" group-title="Sportski",HR: Arena Sport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/529.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr.sport" tvg-name="HR: Arena Sport 3 HD" tvg-logo="" group-title="Sportski",HR: Arena Sport 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/455.m3u8
+#EXTINF:-1 tvg-id="arena-sport-4-hr.sport" tvg-name="Hr: Arena Sport 4 HD" tvg-logo="" group-title="Sportski",Hr: Arena Sport 4 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hr: Arena Sport 5 HD" tvg-logo="" group-title="Sportski",Hr: Arena Sport 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hr: Arena Sport 6" tvg-logo="" group-title="Sportski",Hr: Arena Sport 6
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/800.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Arena 1 HD SR" tvg-logo="" group-title="Sportski",Arena 1 HD SR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/418.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena 2 HD SR" tvg-logo="" group-title="Sportski",Arena 2 HD SR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/419.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-name="Arena 3 HD SR" tvg-logo="" group-title="Sportski",Arena 3 HD SR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/439.m3u8
+#EXTINF:-1 tvg-id="tv-arena-sport-4.sport" tvg-name="Arena 4 HD SR" tvg-logo="" group-title="Sportski",Arena 4 HD SR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena 5 HD SR" tvg-logo="" group-title="Sportski",Arena 5 HD SR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start HR" tvg-logo="" group-title="Sportski",Sport Klub Start HR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="" group-title="Sportski",Sport Klub HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/504.m3u8
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-name="Sport Klub 1 HD" tvg-logo="" group-title="Sportski",Sport Klub 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD" tvg-logo="" group-title="Sportski",Sport Klub 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD" tvg-logo="" group-title="Sportski",Sport Klub 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Srb: Sport Klub 4" tvg-logo="" group-title="Sportski",Srb: Sport Klub 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Srb: Sport Klub 5" tvg-logo="" group-title="Sportski",Srb: Sport Klub 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Srb: Sport Klub 6" tvg-logo="" group-title="Sportski",Srb: Sport Klub 6
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/803.m3u8
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-name="Srb: Sport Klub 1" tvg-logo="" group-title="Sportski",Srb: Sport Klub 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Srb: Sport Klub 3" tvg-logo="" group-title="Sportski",Srb: Sport Klub 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/610.m3u8
+#EXTINF:-1 tvg-id="eurosport-hd.sport" tvg-name="Srb: Euro Sport 1 HD" tvg-logo="" group-title="Sportski",Srb: Euro Sport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Srb: Euro Sport 2 HD" tvg-logo="" group-title="Sportski",Srb: Euro Sport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Xtra" tvg-logo="" group-title="Sportski",Eurosport 2 HD Xtra
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2833.m3u8
+#EXTINF:-1 tvg-id="eurosport.sport" tvg-name="Eurosport 1" tvg-logo="" group-title="Sportski",Eurosport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/564.m3u8
+#EXTINF:-1 tvg-id="eurosport2.sport" tvg-name="Eurosport 2" tvg-logo="" group-title="Sportski",Eurosport 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1" tvg-logo="" group-title="Njemački - AT",DE: Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 Germany" tvg-logo="" group-title="Sportski",Sport 1 Germany
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="Sportski",City TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Sevdah" tvg-logo="" group-title="Bosanski",BA: Sevdah
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/545.m3u8
+#EXTINF:-1 tvg-id="sos.sr" tvg-name="SOS" tvg-logo="" group-title="Sportski",SOS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="" group-title="Sportski",AL: Super Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="" group-title="Sportski",AL: Tring Sport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="" group-title="Sportski",AL: Tring Sport 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="" group-title="Sportski",AL: Tring Sport 4 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fr: Bein Sport 1 HD" tvg-logo="" group-title="Sportski",Fr: Bein Sport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fr: Bein Sport 2 HD" tvg-logo="" group-title="Sportski",Fr: Bein Sport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fr: Bein Sport 3 HD" tvg-logo="" group-title="Sportski",Fr: Bein Sport 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX Sports 1 HD" tvg-logo="" group-title="Sportski",NL: FOX Sports 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: L1 LIMBURG HD" tvg-logo="" group-title="Holandski",NL: L1 LIMBURG HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX Sport 3" tvg-logo="" group-title="Sportski",NL: FOX Sport 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX Sport 4" tvg-logo="" group-title="Sportski",NL: FOX Sport 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Sport" tvg-logo="" group-title="Primera TV",A1 Sport
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDIA TV" tvg-logo="" group-title="Primera TV",MEDIA TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S2 Slovenija" tvg-logo="" group-title="Sportski",S2 Slovenija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S1 Slovenija" tvg-logo="" group-title="Sportski",S1 Slovenija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/698.m3u8
+#EXTINF:-1 tvg-id="sportska-televizija.hr" tvg-name="Sportska TV" tvg-logo="" group-title="Sportski",Sportska TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="" group-title="Djeciji",Hayatovci
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/473.m3u8
+#EXTINF:-1 tvg-id="disney-channel.toons" tvg-name="Disney Channel Croatia" tvg-logo="" group-title="Djeciji",Disney Channel Croatia
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/452.m3u8
+#EXTINF:-1 tvg-id="babytv.toons" tvg-name="Baby TV" tvg-logo="" group-title="Djeciji",Baby TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/417.m3u8
+#EXTINF:-1 tvg-id="minitv.toons" tvg-name="Mini TV" tvg-logo="" group-title="Djeciji",Mini TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/465.m3u8
+#EXTINF:-1 tvg-id="super-rtl.toons" tvg-name="Super RTL" tvg-logo="" group-title="Djeciji",Super RTL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/612.m3u8
+#EXTINF:-1 tvg-id="kika.toons" tvg-name="KIKA" tvg-logo="" group-title="Djeciji",KIKA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="" group-title="Djeciji",RTL Kockica
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/535.m3u8
+#EXTINF:-1 tvg-id="cartoon-network.toons" tvg-name="Carton Network" tvg-logo="" group-title="Djeciji",Carton Network
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/642.m3u8
+#EXTINF:-1 tvg-id="boomerang.toons" tvg-name="Boomerang" tvg-logo="" group-title="Djeciji",Boomerang
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon srb" tvg-logo="" group-title="Djeciji",Nickelodeon srb
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Croatia" tvg-logo="" group-title="Djeciji",Nick Jr Croatia
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/607.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.toons" tvg-name="Nickelodeon" tvg-logo="" group-title="Djeciji",Nickelodeon
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Europe" tvg-logo="" group-title="Dokumentarni",Discovery Channel Europe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Discovery" tvg-logo="" group-title="Dokumentarni",ID Discovery
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Sc" tvg-logo="" group-title="Dokumentarni",Discovery Sc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="Dokumentarni",Discovery World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Wild" tvg-logo="" group-title="Dokumentarni",National Wild
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/467.m3u8
+#EXTINF:-1 tvg-id="national-geographic.doc" tvg-name="National Geographic Channel" tvg-logo="" group-title="Dokumentarni",National Geographic Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/466.m3u8
+#EXTINF:-1 tvg-id="history-channel.doc" tvg-name="History Channel" tvg-logo="" group-title="Dokumentarni",History Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/464.m3u8
+#EXTINF:-1 tvg-id="entertainment.sat" tvg-name="E! Entertainment TV" tvg-logo="" group-title="Dokumentarni",E! Entertainment TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="Dokumentarni",Al Jazeera English
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA live" tvg-logo="" group-title="Dokumentarni",NASA live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: OSM Pale" tvg-logo="" group-title="Srpski",RS: OSM Pale
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1027.m3u8
+#EXTINF:-1 tvg-id="discovery-animal.doc" tvg-name="Animal Planet Eastern Europe" tvg-logo="" group-title="Dokumentarni",Animal Planet Eastern Europe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/453.m3u8
+#EXTINF:-1 tvg-id="24kitchen.sat" tvg-name="24 Kitchen" tvg-logo="" group-title="Dokumentarni",24 Kitchen
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/448.m3u8
+#EXTINF:-1 tvg-id="travel-channel.doc" tvg-name="DOK: Travel HD" tvg-logo="" group-title="Dokumentarni",DOK: Travel HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/609.m3u8
+#EXTINF:-1 tvg-id="crime-investigation.doc" tvg-name="Crime & Investigation Network" tvg-logo="" group-title="Dokumentarni",Crime & Investigation Network
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/734.m3u8
+#EXTINF:-1 tvg-id="viasat-nature.doc" tvg-name="Viasat Nature" tvg-logo="" group-title="Dokumentarni",Viasat Nature
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/472.m3u8
+#EXTINF:-1 tvg-id="viasat-history.doc" tvg-name="Viasat History" tvg-logo="" group-title="Dokumentarni",Viasat History
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/471.m3u8
+#EXTINF:-1 tvg-id="discovery-tlc.doc" tvg-name="TLC" tvg-logo="" group-title="Dokumentarni",TLC
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/469.m3u8
+#EXTINF:-1 tvg-id="fishing-hunting.sport" tvg-name="Srb: Lov i Ribolov" tvg-logo="" group-title="Dokumentarni",Srb: Lov i Ribolov
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/515.m3u8
+#EXTINF:-1 tvg-id="cbs-reality.movie" tvg-name="CBS Reality" tvg-logo="" group-title="Dokumentarni",CBS Reality
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste" tvg-logo="" group-title="Njemački - AT",DE: Das Erste
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/613.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF" tvg-logo="" group-title="Njemački - AT",DE: ZDF
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/616.m3u8
+#EXTINF:-1 tvg-id="rtl.de.de" tvg-name="DE: RTL" tvg-logo="" group-title="Njemački - AT",DE: RTL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/507.m3u8
+#EXTINF:-1 tvg-id="rtl-2.de" tvg-name="DE: RTL 2" tvg-logo="" group-title="Njemački - AT",DE: RTL 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zee One HD" tvg-logo="" group-title="Njemački - AT",DE: Zee One HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3371.m3u8
+#EXTINF:-1 tvg-id="sat-1.de" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="Njemački - AT",DE: SAT 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/592.m3u8
+#EXTINF:-1 tvg-id="kabel-1.de" tvg-name="DE: Kabel 1" tvg-logo="" group-title="Njemački - AT",DE: Kabel 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/818.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX" tvg-logo="" group-title="Njemački - AT",DE: VOX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="" group-title="Njemački - AT",DE: TLC
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: D-MAX" tvg-logo="" group-title="Njemački - AT",DE: D-MAX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX HD" tvg-logo="" group-title="Njemački - AT",DE: SIXX HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV" tvg-logo="" group-title="Njemački - AT",DE: N-TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/754.m3u8
+#EXTINF:-1 tvg-id="servustv.at" tvg-name="DE: Servus TV" tvg-logo="" group-title="Njemački - AT",DE: Servus TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/604.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3 SAT" tvg-logo="" group-title="Njemački - AT",DE: 3 SAT
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="Njemački - AT",DE: WDR HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/688.m3u8
+#EXTINF:-1 tvg-id="pro-7.de" tvg-name="DE: Pro 7 HD" tvg-logo="" group-title="Njemački - AT",DE: Pro 7 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DW News Live" tvg-logo="" group-title="Njemački - AT",DE: DW News Live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:  WDR HD" tvg-logo="" group-title="Njemački - AT",DE:  WDR HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte" tvg-logo="" group-title="Njemački - AT",DE: Spiegel Geschichte
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/611.m3u8
+#EXTINF:-1 tvg-id="atv1.at" tvg-name="DE: ATV" tvg-logo="" group-title="Njemački - AT",DE: ATV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Arte HD" tvg-logo="" group-title="Njemački - AT",DE: Arte HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/614.m3u8
+#EXTINF:-1 tvg-id="puls4.at" tvg-name="DE: Puls 4" tvg-logo="" group-title="Njemački - AT",DE: Puls 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/603.m3u8
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="AT: ORF 2" tvg-logo="" group-title="Njemački - AT",AT: ORF 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/602.m3u8
+#EXTINF:-1 tvg-id="orf-sportplus.sport" tvg-name="AT: ORF Sport+" tvg-logo="" group-title="Njemački - AT",AT: ORF Sport+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox News Live" tvg-logo="" group-title="Njemački - AT",DE: Fox News Live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/600.m3u8
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="AT: ORF EINS" tvg-logo="" group-title="Njemački - AT",AT: ORF EINS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bibel TV HD" tvg-logo="" group-title="Njemački - AT",DE: Bibel TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 1" tvg-logo="" group-title="Njemački - AT",DE: Film Select 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 2" tvg-logo="" group-title="Njemački - AT",DE: Film Select 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 3" tvg-logo="" group-title="Njemački - AT",DE: Film Select 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 4" tvg-logo="" group-title="Njemački - AT",DE: Film Select 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 5" tvg-logo="" group-title="Njemački - AT",DE: Film Select 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 6" tvg-logo="" group-title="Njemački - AT",DE: Film Select 6
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 7" tvg-logo="" group-title="Njemački - AT",DE: Film Select 7
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 8" tvg-logo="" group-title="Njemački - AT",DE: Film Select 8
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 9" tvg-logo="" group-title="Njemački - AT",DE: Film Select 9
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Film Select 10" tvg-logo="" group-title="Njemački - AT",DE: Film Select 10
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/629.m3u8
+#EXTINF:-1 tvg-id="national-geographic-wild.doc" tvg-name="DE: National Geo Wild" tvg-logo="" group-title="Njemački - AT",DE: National Geo Wild
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: National Geo" tvg-logo="" group-title="Njemački - AT",DE: National Geo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/999.m3u8
+#EXTINF:-1 tvg-id="discovery-europe.doc" tvg-name="DE: Discovery Channel" tvg-logo="" group-title="Njemački - AT",DE: Discovery Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Action" tvg-logo="" group-title="Njemački - AT",DE: Sky Action
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nostalgie" tvg-logo="" group-title="Njemački - AT",DE: Sky Nostalgie
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Emotion" tvg-logo="" group-title="Njemački - AT",DE: Sky Emotion
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Comedy" tvg-logo="" group-title="Njemački - AT",DE: Sky Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema +24" tvg-logo="" group-title="Njemački - AT",DE: Sky Cinema +24
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Comedy" tvg-logo="" group-title="Engleski - UK",UK: Sky Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema" tvg-logo="" group-title="Njemački - AT",DE: Sky Cinema
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Hits" tvg-logo="" group-title="Njemački - AT",DE: Sky Hits
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bayern FC TV FHD" tvg-logo="" group-title="Njemački - AT",DE: Bayern FC TV FHD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE : RTL Crime HD" tvg-logo="" group-title="Njemački - AT",DE : RTL Crime HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE : RTL Living" tvg-logo="" group-title="Njemački - AT",DE : RTL Living
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE : RTL Passion" tvg-logo="" group-title="Njemački - AT",DE : RTL Passion
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo="" group-title="Njemački - AT",DE: AXN HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="Njemački - AT",DE: Deluxe Music HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD Deutschland" tvg-logo="" group-title="Njemački - AT",DE: Disney XD Deutschland
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainm HD" tvg-logo="" group-title="Njemački - AT",DE: E! Entertainm HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL II YOU HD" tvg-logo="" group-title="Njemački - AT",DE: RTL II YOU HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky  Bundesliga 10 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky  Bundesliga 10 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 6 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 7 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 8 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 8 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky  Bundesliga 9 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky  Bundesliga 9 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 3 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 4 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 5 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 6 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 7 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 8 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD "Only Live"" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 9 HD "Only Live"
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Universal HD" tvg-logo="" group-title="Njemački - AT",DE: Sky Universal HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arts HD" tvg-logo="" group-title="Njemački - AT",Sky Arts HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Syfy" tvg-logo="" group-title="Njemački - AT",DE: Syfy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Njemački - AT",Sky Atlantic HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Tnt Serie HD" tvg-logo="" group-title="Njemački - AT",Sky Tnt Serie HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Film HD" tvg-logo="" group-title="Njemački - AT",DE: TNT Film HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Fox HD" tvg-logo="" group-title="Njemački - AT",Sky Fox HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY MGM HD" tvg-logo="" group-title="Njemački - AT",SKY MGM HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="" group-title="Njemački - AT",DE: Disney Junior HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky History HD" tvg-logo="" group-title="Njemački - AT",Sky History HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Disney Cinemagic HD" tvg-logo="" group-title="Njemački - AT",Sky Disney Cinemagic HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky 13 Street HD" tvg-logo="" group-title="Njemački - AT",Sky 13 Street HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky News Live" tvg-logo="" group-title="Njemački - AT",DE: Sky News Live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News HD" tvg-logo="" group-title="Njemački - AT",Sky Sport News HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Austria" tvg-logo="" group-title="Njemački - AT",SKY Sport Austria
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundes Liga 1" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundes Liga 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 *Live Only*" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 3 *Live Only*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 *Live Only*" tvg-logo="" group-title="Njemački - AT",DE: Sky Sport 4 *Live Only*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Sport1 Extra 1 NL" tvg-logo="" group-title="Holandski",NL: Sport1 Extra 1 NL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Veronica HD" tvg-logo="" group-title="Holandski",NL: Veronica HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: 24 Kitchen HD" tvg-logo="" group-title="Holandski",NL: 24 Kitchen HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: MTV HD" tvg-logo="" group-title="Holandski",NL: MTV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: AT 5 HD" tvg-logo="" group-title="Holandski",NL: AT 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL7 NL" tvg-logo="" group-title="Holandski",NL: RTL7 NL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 5 HD" tvg-logo="" group-title="Holandski",NL: RTL 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: HBO 2" tvg-logo="" group-title="Holandski",NL: HBO 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="" group-title="Muzicki",Grand 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FILM 1 Action HD" tvg-logo="" group-title="Holandski",NL: FILM 1 Action HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FILM 1 Sundance HD" tvg-logo="" group-title="Holandski",NL: FILM 1 Sundance HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FILM 1 Premiere HD" tvg-logo="" group-title="Holandski",NL: FILM 1 Premiere HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film1 Comedy" tvg-logo="" group-title="Holandski",NL: Film1 Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: History HD" tvg-logo="" group-title="Holandski",NL: History HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: TLC HD" tvg-logo="" group-title="Holandski",NL: TLC HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Disney HD" tvg-logo="" group-title="Holandski",NL: Disney HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox HD" tvg-logo="" group-title="Holandski",NL: Fox HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulke TV" tvg-logo="" group-title="Turski",TR: Ulke TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Quran" tvg-logo="" group-title="Dokumentarni",Saudi Quran
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/751.m3u8
+#EXTINF:-1 tvg-id="rai-1.it" tvg-name="IT: Rai 1" tvg-logo="" group-title="Italijanski",IT: Rai 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/643.m3u8
+#EXTINF:-1 tvg-id="rai-2.it" tvg-name="IT: Rai 2" tvg-logo="" group-title="Italijanski",IT: Rai 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/644.m3u8
+#EXTINF:-1 tvg-id="rai-3.it" tvg-name="IT: Rai 3" tvg-logo="" group-title="Italijanski",IT: Rai 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="" group-title="Italijanski",IT: Rai 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="" group-title="Italijanski",IT: Rai Movie
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="" group-title="Italijanski",IT: Rai Gulp
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="" group-title="Italijanski",IT: Rai Premium
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport 1" tvg-logo="" group-title="Sportski",IT: Rai Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boing" tvg-logo="" group-title="Italijanski",IT: Boing
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="" group-title="Italijanski",IT: Canale 5
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito Italy" tvg-logo="" group-title="Italijanski",IT: Cartoonito Italy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Iris" tvg-logo="" group-title="Italijanski",IT: Iris
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1" tvg-logo="" group-title="Italijanski",IT: Italia 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LU: RTL Tele Letzebuerg" tvg-logo="" group-title="Njemački - AT",LU: RTL Tele Letzebuerg
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TOP Crime" tvg-logo="" group-title="Italijanski",IT: TOP Crime
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX Plus 1 HD 18+" tvg-logo="" group-title="For Adults",XxX Plus 1 HD 18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX Plus 2 HD 18+" tvg-logo="" group-title="For Adults",XxX Plus 2 HD 18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX: Primafila Hot Club 2  18+" tvg-logo="" group-title="For Adults",XxX: Primafila Hot Club 2  18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX: Primafila Hot Club 1  18+" tvg-logo="" group-title="For Adults",XxX: Primafila Hot Club 1  18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX Red Light HD 18+" tvg-logo="" group-title="For Adults",XxX Red Light HD 18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX: Hustler HD 18+" tvg-logo="" group-title="For Adults",XxX: Hustler HD 18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XxX: Balkan Erotic 18+" tvg-logo="" group-title="For Adults",XxX: Balkan Erotic 18+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMPORN" tvg-logo="" group-title="For Adults",DREAMPORN
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Premiere" tvg-logo="" group-title="Švedski",SE: Viasat Premiere
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Motor" tvg-logo="" group-title="Švedski",SE: Viasat Motor
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Hockey" tvg-logo="" group-title="Švedski",SE: Viasat Hockey
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Hits" tvg-logo="" group-title="Švedski",SE: Viasat Hits
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Film" tvg-logo="" group-title="Švedski",SE: Viasat Film
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Comedy" tvg-logo="" group-title="Švedski",SE: Viasat Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Action" tvg-logo="" group-title="Švedski",SE: Viasat Action
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4 sport HD" tvg-logo="" group-title="Švedski",SE: TV 4 sport HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV3 Sverige" tvg-logo="" group-title="Švedski",SE: TV3 Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4 Sverige" tvg-logo="" group-title="Švedski",SE: TV 4 Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 6 Sverige" tvg-logo="" group-title="Švedski",SE: TV 6 Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 8 Sverige" tvg-logo="" group-title="Švedski",SE: TV 8 Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: SVT 1" tvg-logo="" group-title="Švedski",SE: SVT 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Svt 2" tvg-logo="" group-title="Švedski",SE: Svt 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Fakta" tvg-logo="" group-title="Švedski",SE: TV4 Fakta
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Kanal 5 Sverige" tvg-logo="" group-title="Švedski",SE: Kanal 5 Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4 Film" tvg-logo="" group-title="Švedski",SE: TV 4 Film
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Sport" tvg-logo="" group-title="Švedski",SE: C More Sport
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Series" tvg-logo="" group-title="Švedski",SE: C More Series
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Live" tvg-logo="" group-title="Švedski",SE: C More Live
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Hits" tvg-logo="" group-title="Švedski",SE: C More Hits
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Fotball" tvg-logo="" group-title="Švedski",SE: C More Fotball
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More First" tvg-logo="" group-title="Švedski",SE: C More First
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: National TV" tvg-logo="" group-title="Rumunski",RO: National TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kanal D" tvg-logo="" group-title="Rumunski",RO: Kanal D
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Euforia Lifestyle" tvg-logo="" group-title="Rumunski",RO: Euforia Lifestyle
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi 24 Timisoara" tvg-logo="" group-title="Rumunski",RO: Digi 24 Timisoara
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 1" tvg-logo="" group-title="Rumunski",RO: Antena 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1 ro" tvg-logo="" group-title="Sportski",RO: DIGI Sport 1 ro
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Real Madrid" tvg-logo="" group-title="Sportski",SP: Real Madrid
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Dcine Espanol" tvg-logo="" group-title="Španski",SP: Dcine Espanol
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: National Geographic Wild" tvg-logo="" group-title="Španski",SP: National Geographic Wild
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: National Geographic" tvg-logo="" group-title="Španski",SP: National Geographic
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Costa" tvg-logo="" group-title="Španski",SP: Canal Costa
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Comedy Central" tvg-logo="" group-title="Španski",SP: Comedy Central
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Series HD" tvg-logo="" group-title="Španski",SP: Canal Series HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Nick Junior" tvg-logo="" group-title="Španski",SP: Nick Junior
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: LA 2" tvg-logo="" group-title="Španski",SP: LA 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: LA 1 HD" tvg-logo="" group-title="Španski",SP: LA 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Sjuan" tvg-logo="" group-title="Švedski",SE: Sjuan
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Deportes HD" tvg-logo="" group-title="Španski",SP: Canal Deportes HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal HD" tvg-logo="" group-title="Španski",SP: Canal HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal 2 HD" tvg-logo="" group-title="Španski",SP: Canal 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4 Komedi" tvg-logo="" group-title="Švedski",SE: TV 4 Komedi
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Liga HD" tvg-logo="" group-title="Španski",SP: Canal Liga HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Dcine HD" tvg-logo="" group-title="Španski",SP: Canal Dcine HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: TNT" tvg-logo="" group-title="Španski",SP: TNT
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Cuatro" tvg-logo="" group-title="Španski",SP: Cuatro
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Taquilla 1" tvg-logo="" group-title="Španski",SP: Taquilla 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Barca TV" tvg-logo="" group-title="Sportski",SP: Barca TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal  ACCION" tvg-logo="" group-title="Španski",SP: Canal  ACCION
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: AXN HD" tvg-logo="" group-title="Španski",SP: AXN HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal Xtra HD" tvg-logo="" group-title="Španski",SP: Canal Xtra HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal 41 Mar Del" tvg-logo="" group-title="Španski",SP: Canal 41 Mar Del
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: DISNEY JUNIOR" tvg-logo="" group-title="Španski",SP: DISNEY JUNIOR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: AMC" tvg-logo="" group-title="Španski",SP: AMC
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: BABY TV" tvg-logo="" group-title="Španski",SP: BABY TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Liga HD" tvg-logo="" group-title="Španski",SP: Bein Liga HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: CANAL DECASA" tvg-logo="" group-title="Španski",SP: CANAL DECASA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Clan Tve" tvg-logo="" group-title="Španski",SP: Clan Tve
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: DISNEY CHANNEL HD" tvg-logo="" group-title="Španski",SP: DISNEY CHANNEL HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: DIVINITY" tvg-logo="" group-title="Španski",SP: DIVINITY
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Movistar Partidazo HD (event only)" tvg-logo="" group-title="Španski",SP: Movistar Partidazo HD (event only)
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: TELEDEPORTE" tvg-logo="" group-title="Španski",SP: TELEDEPORTE
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: ANTENA 3 HD" tvg-logo="" group-title="Španski",SP: ANTENA 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: LA SEXTA HD" tvg-logo="" group-title="Španski",SP: LA SEXTA HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: TELECINCO HD" tvg-logo="" group-title="Španski",SP: TELECINCO HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: VIAJAR HD" tvg-logo="" group-title="Španski",SP: VIAJAR HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Hispan TV" tvg-logo="" group-title="Španski",SP: Hispan TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Canal 11 Madrid" tvg-logo="" group-title="Španski",SP: Canal 11 Madrid
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: Life TV" tvg-logo="" group-title="Španski",SP: Life TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monte Lux TV" tvg-logo="" group-title="Primera TV",Monte Lux TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pride TV" tvg-logo="" group-title="Primera TV",Pride TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Iliria Gjeneve" tvg-logo="" group-title="Primera TV",Rtv Iliria Gjeneve
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Jedinstvo" tvg-logo="" group-title="Primera TV",TV Jedinstvo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3403.m3u8
+#EXTINF:-1 tvg-id="fightchannel.sport" tvg-name="Fight Channel" tvg-logo="" group-title="Sportski",Fight Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: General MUSIC tv" tvg-logo="" group-title="Makedonski",MK: General MUSIC tv
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VTM HD" tvg-logo="" group-title="Belgijski",BE: VTM HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: Vitaya HD" tvg-logo="" group-title="Belgijski",BE: Vitaya HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VIJF HD" tvg-logo="" group-title="Belgijski",BE: VIJF HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VIER HD" tvg-logo="" group-title="Belgijski",BE: VIER HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: SYFY Benelux HD" tvg-logo="" group-title="Belgijski",BE: SYFY Benelux HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: RTL Lounge HD" tvg-logo="" group-title="Belgijski",BE: RTL Lounge HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: EEN HD" tvg-logo="" group-title="Belgijski",BE: EEN HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: Crime &  Iinvestigation  HD" tvg-logo="" group-title="Belgijski",BE: Crime &  Iinvestigation  HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: ACHT HD" tvg-logo="" group-title="Belgijski",BE: ACHT HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: 2BE HD" tvg-logo="" group-title="Belgijski",BE: 2BE HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VTM /Kazoom" tvg-logo="" group-title="Belgijski",BE: VTM /Kazoom
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: TVO" tvg-logo="" group-title="Belgijski",BE: TVO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: TVL" tvg-logo="" group-title="Belgijski",BE: TVL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: Tele Sambre" tvg-logo="" group-title="Belgijski",BE: Tele Sambre
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: Tele MB" tvg-logo="" group-title="Belgijski",BE: Tele MB
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: ATV" tvg-logo="" group-title="Belgijski",BE: ATV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Tv3 Sport 1" tvg-logo="" group-title="Danski",DK: Tv3 Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Tv3 Sport 2" tvg-logo="" group-title="Danski",DK: Tv3 Sport 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Kanal 4" tvg-logo="" group-title="Danski",DK: Kanal 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Dr 1" tvg-logo="" group-title="Danski",DK: Dr 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Dr 2" tvg-logo="" group-title="Danski",DK: Dr 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: Canal 8 sport" tvg-logo="" group-title="Danski",DK: Canal 8 sport
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DK: 6Eren" tvg-logo="" group-title="Danski",DK: 6Eren
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+" tvg-logo="" group-title="Francuski",FR: Canal+
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Series" tvg-logo="" group-title="Francuski",FR: Canal Series
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Decale" tvg-logo="" group-title="Francuski",FR: Canal Decale
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Cinema" tvg-logo="" group-title="Francuski",FR: Canal Cinema
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 E Remue" tvg-logo="" group-title="Francuski",FR: 13 E Remue
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="Francuski",FR: W9
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="" group-title="Francuski",FR: TMC
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="Francuski",FR: TF1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR OCS SHOC" tvg-logo="" group-title="Francuski",FR OCS SHOC
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR OCS CITY" tvg-logo="" group-title="Francuski",FR OCS CITY
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1" tvg-logo="" group-title="Francuski",FR: NT1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12" tvg-logo="" group-title="Francuski",FR: NRJ 12
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo HD" tvg-logo="" group-title="Francuski",FR: Nat Geo HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="Francuski",FR: M6 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO" tvg-logo="" group-title="Francuski",FR: WEO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 24" tvg-logo="" group-title="Francuski",FR: France 24
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="" group-title="Francuski",FR: Teva HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mtv HD France" tvg-logo="" group-title="Francuski",FR: Mtv HD France
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR HD 1" tvg-logo="" group-title="Francuski",FR HD 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="" group-title="Francuski",FR: Gulli
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR France 2" tvg-logo="" group-title="Francuski",FR France 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4" tvg-logo="" group-title="Francuski",FR: France 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="Francuski",FR: France 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport" tvg-logo="" group-title="Francuski",FR: Eurosport
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="" group-title="Francuski",FR: Disney Channel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Sciences" tvg-logo="" group-title="Francuski",FR: Discovery Sciences
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Kanal 9 HD Sverige" tvg-logo="" group-title="Švedski",SE: Kanal 9 HD Sverige
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR D 17" tvg-logo="" group-title="Francuski",FR D 17
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine FX" tvg-logo="" group-title="Francuski",FR: Cine FX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang France HD" tvg-logo="" group-title="Francuski",FR: Boomerang France HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Premiere" tvg-logo="" group-title="Francuski",FR: Cine Premiere
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="Francuski",FR: Cherie 25
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="Francuski",FR: Cartoon Network
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN" tvg-logo="" group-title="Sportski",UK: BT Sport ESPN
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action" tvg-logo="" group-title="Francuski",FR: Action
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteurs" tvg-logo="" group-title="Francuski",FR: AB Moteurs
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6 TER HD" tvg-logo="" group-title="Francuski",FR: 6 TER HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: BR Fernsehen Nord" tvg-logo="" group-title="Njemački - AT",DE: BR Fernsehen Nord
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 2" tvg-logo="" group-title="Arapski",AR: MBC 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 3" tvg-logo="" group-title="Arapski",AR: MBC 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 4" tvg-logo="" group-title="Arapski",AR: MBC 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Numidia TV" tvg-logo="" group-title="Arapski",AR: Numidia TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: OBN Sat" tvg-logo="" group-title="Bosanski",BA: OBN Sat
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL-Majd" tvg-logo="" group-title="Arapski",AR: AL-Majd
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Jasmin TV" tvg-logo="" group-title="Bosanski",BA: Jasmin TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Elsharq" tvg-logo="" group-title="Arapski",AR: Elsharq
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein 1" tvg-logo="" group-title="Sportski",AR: Bein 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein 2" tvg-logo="" group-title="Sportski",AR: Bein 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein 3" tvg-logo="" group-title="Sportski",AR: Bein 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 4 HD" tvg-logo="" group-title="Sportski",AR VIP: Bein Sport 4 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 5 HD" tvg-logo="" group-title="Sportski",AR VIP: Bein Sport 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 6 HD" tvg-logo="" group-title="Sportski",AR VIP: Bein Sport 6 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 7 HD" tvg-logo="" group-title="Sportski",AR VIP: Bein Sport 7 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | beIN Sports 8 HD" tvg-logo="" group-title="Sportski",AR | beIN Sports 8 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  bein 9" tvg-logo="" group-title="Sportski",AR:  bein 9
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision TV" tvg-logo="" group-title="Njemački - AT",DE: Motorvision TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World" tvg-logo="" group-title="Turski",TR: TRT World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="Sportski",TR: TRT SPOR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/870.m3u8
+#EXTINF:-1 tvg-id="trt-muzik.tr" tvg-name="TR: TRT Muzik" tvg-logo="" group-title="Turski",TR: TRT Muzik
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/846.m3u8
+#EXTINF:-1 tvg-id="trt-haber.tr" tvg-name="TR: TRT Haber HD" tvg-logo="" group-title="Turski",TR: TRT Haber HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/839.m3u8
+#EXTINF:-1 tvg-id="trt-cocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="" group-title="Turski",TR: TRT Cocuk
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/834.m3u8
+#EXTINF:-1 tvg-id="trt-1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turski",TR: TRT 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Turk" tvg-logo="" group-title="Turski",TR: ATV Turk
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="" group-title="Turski",TR: TV 8
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="" group-title="Turski",TR: Kanal 7
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="" group-title="Turski",TR: Show TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="" group-title="Turski",TR: Kanal D
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV HD" tvg-logo="" group-title="Turski",TR: Star TV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: Kanal 11" tvg-logo="" group-title="Švedski",SE: Kanal 11
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 1 HD" tvg-logo="" group-title="Turski",TR: Salon 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Palma Plus" tvg-logo="" group-title="Srpski",RS: Palma Plus
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show MAX" tvg-logo="" group-title="Turski",TR: Show MAX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="" group-title="Turski",TR: TGRT Haber
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Istambul 1" tvg-logo="" group-title="Turski",TR: Istambul 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT" tvg-logo="" group-title="Turski",TR: KRT
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fanatika TV" tvg-logo="" group-title="Turski",TR: Fanatika TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="Turski",TR: A2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3" tvg-logo="" group-title="Turski",TR: Kanal 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="" group-title="Turski",TR: Kanal 7 Avrupa
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orlando Kids TV" tvg-logo="" group-title="Turski",Orlando Kids TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIG TV 2 HD" tvg-logo="" group-title="Sportski",TR: LIG TV 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIG TV 1 HD" tvg-logo="" group-title="Sportski",TR: LIG TV 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="" group-title="Turski",TR: Kral TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral POP" tvg-logo="" group-title="Turski",TR: Kral POP
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD" tvg-logo="" group-title="Turski",TR: FOX HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral World TV" tvg-logo="" group-title="Turski",TR: Kral World TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Salon 2 HD" tvg-logo="" group-title="Turski",TR: Salon 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz TV" tvg-logo="" group-title="Turski",TR: Beyaz TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET" tvg-logo="" group-title="Turski",TR: TVNET
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turski",TR: ATV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: IML TV" tvg-logo="" group-title="Bosanski",BA: IML TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkand" tvg-logo="" group-title="Turski",TR: Semerkand
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3220.m3u8
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC ONE HD" tvg-logo="" group-title="Engleski - UK",UK: BBC ONE HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1049.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC 2" tvg-logo="" group-title="Engleski - UK",UK: BBC 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="Engleski - UK",UK: BBC 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1051.m3u8
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC 4" tvg-logo="" group-title="Engleski - UK",UK: BBC 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Film Box" tvg-logo="" group-title="Srpski",RS: Film Box
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Sportski",UK: BT Sport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="Sportski",UK: BT Sport 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bayerisches Fernsehen Nord" tvg-logo="" group-title="Njemački - AT",DE: Bayerisches Fernsehen Nord
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports Europe" tvg-logo="" group-title="Sportski",UK: BT Sports Europe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere  1" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Premiere  1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Akcija TV" tvg-logo="" group-title="Primera TV",A1 Akcija TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+  Serial" tvg-logo="" group-title="Poljski",PL: Canal+  Serial
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO" tvg-logo="" group-title="Poljski",PL: HBO
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat HD" tvg-logo="" group-title="Poljski",PL: Polsat HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV4" tvg-logo="" group-title="Poljski",PL: TV4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24 HD" tvg-logo="" group-title="Poljski",PL: TVN 24 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN HD" tvg-logo="" group-title="Poljski",PL: TVN HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 12 HD" tvg-logo="" group-title="Švedski",SE: TV 12 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIVA" tvg-logo="" group-title="Poljski",PL: VIVA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Supersport 2 HD" tvg-logo="" group-title="Albanski",AL: Supersport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Supersport 3 HD" tvg-logo="" group-title="Albanski",AL: Supersport 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Supersport 4 HD" tvg-logo="" group-title="Albanski",AL: Supersport 4 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 HD *Only Live*" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 2 HD *Only Live*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 HD *Only Live*" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 3 HD *Only Live*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 HD *Only Live*" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 4 HD *Only Live*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 HD *Only Live*" tvg-logo="" group-title="Njemački - AT",DE: Sky Bundesliga 5 HD *Only Live*
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 1 HD" tvg-logo="" group-title="Sportski",IT: SKY Sport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 2 HD" tvg-logo="" group-title="Sportski",IT: SKY Sport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Film" tvg-logo="" group-title="Primera TV",A1 Film
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1085.m3u8
+#EXTINF:-1 tvg-id="face-tv.ba" tvg-name="BA: Face TV SD" tvg-logo="" group-title="Bosanski",BA: Face TV SD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: Laudato TV" tvg-logo="" group-title="Hrvatski",HR: Laudato TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1089.m3u8
+#EXTINF:-1 tvg-id="bht1.ba" tvg-name="BA: BHT 1 SD" tvg-logo="" group-title="Bosanski",BA: BHT 1 SD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Komedi" tvg-logo="" group-title="Albanski",AL: Tring Komedi
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL : Tring World" tvg-logo="" group-title="Albanski",AL : Tring World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="" group-title="Albanski",AL: Film Aksion HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor HD" tvg-logo="" group-title="Albanski",AL: Film Autor HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="" group-title="Albanski",AL: Film Hits HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi HD" tvg-logo="" group-title="Albanski",AL: Film Komedi HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Nje HD" tvg-logo="" group-title="Albanski",AL: Film Nje HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Comedy HD" tvg-logo="" group-title="Albanski",AL: Kino Comedy HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Dark HD" tvg-logo="" group-title="Albanski",AL: Kino Dark HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Family HD" tvg-logo="" group-title="Albanski",AL: Kino Family HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 1 HD" tvg-logo="" group-title="Albanski",AL: Kino Premiere 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 2 HD" tvg-logo="" group-title="Albanski",AL: Kino Premiere 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 3 HD" tvg-logo="" group-title="Albanski",AL: Kino Premiere 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Scifi HD" tvg-logo="" group-title="Albanski",AL: Kino Scifi HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Thriller HD" tvg-logo="" group-title="Albanski",AL: Kino Thriller HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT KIDS" tvg-logo="" group-title="Primera TV",TNT KIDS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KO: RTV Zeri i Kosoves Danimarke" tvg-logo="" group-title="Crna Gora",KO: RTV Zeri i Kosoves Danimarke
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BNV Sandžak TV" tvg-logo="" group-title="Primera TV",BNV Sandžak TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3317.m3u8
+#EXTINF:-1 tvg-id="atv2.at" tvg-name="AT: ATV 2 HD" tvg-logo="" group-title="Njemački - AT",AT: ATV 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: OKTO TV" tvg-logo="" group-title="Njemački - AT",AT: OKTO TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: RTS" tvg-logo="" group-title="Njemački - AT",AT: RTS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: SBS" tvg-logo="" group-title="Njemački - AT",AT: SBS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT SKY F1 HD" tvg-logo="" group-title="Italijanski",IT SKY F1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT : Sky Uno HD" tvg-logo="" group-title="Italijanski",IT : Sky Uno HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema  1 HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema  1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Classic HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema Classic HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema Comedy HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema Family HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Max HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema Max HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema Passion HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema1 HD" tvg-logo="" group-title="Italijanski",IT: Sky Cinema1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Foxcrime HD" tvg-logo="" group-title="Italijanski",IT: Sky Foxcrime HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Moto GP HD" tvg-logo="" group-title="Italijanski",IT: Sky Moto GP HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:SKY Primafila 3" tvg-logo="" group-title="Italijanski",IT:SKY Primafila 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport3 HD" tvg-logo="" group-title="Sportski",IT: Sky Sport3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:SKY Primafila 1" tvg-logo="" group-title="Italijanski",IT:SKY Primafila 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:SKY Primafila 2" tvg-logo="" group-title="Italijanski",IT:SKY Primafila 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:Sky Primafila 4" tvg-logo="" group-title="Italijanski",IT:Sky Primafila 4
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:  Eurosport 1 HD" tvg-logo="" group-title="Italijanski",IT:  Eurosport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT:  Eurosport 2 HD" tvg-logo="" group-title="Italijanski",IT:  Eurosport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3373.m3u8
+#EXTINF:-1 tvg-id="history-channel-uk.uk" tvg-name="UK: History" tvg-logo="" group-title="Engleski - UK",UK: History
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Natgeo Wild" tvg-logo="" group-title="Engleski - UK",UK: Natgeo Wild
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic" tvg-logo="" group-title="Engleski - UK",UK: National Geographic
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Action HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Comedy HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Crime & Thriller HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Disney HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama & Romance HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Drama & Romance HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Family HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Premier HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-Fi & Horror HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Sci-Fi & Horror HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select HD" tvg-logo="" group-title="Engleski - UK",UK: Sky Cinema Select HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports 1 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports 2 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports 3 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports 3 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports 4 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports 4 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports 5 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports 5 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports F1 HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports F1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Sky Sports News HD" tvg-logo="" group-title="Sportski",VIP UK: Sky Sports News HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ANN 7" tvg-logo="" group-title="Arapski",AR: ANN 7
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al-Aoula-Maroc" tvg-logo="" group-title="Arapski",AR: Al-Aoula-Maroc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Aljazeera Arabic" tvg-logo="" group-title="Arapski",AR: Aljazeera Arabic
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ANN NEWS" tvg-logo="" group-title="Arapski",AR: ANN NEWS
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Arradia Maroc" tvg-logo="" group-title="Arapski",AR: Arradia Maroc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Assadisa-Maroc" tvg-logo="" group-title="Arapski",AR: Assadisa-Maroc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Kabe TV" tvg-logo="" group-title="Arapski",AR: Kabe TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Bollywood" tvg-logo="" group-title="Arapski",AR: MBC Bollywood
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Drama" tvg-logo="" group-title="Arapski",AR: MBC Drama
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Masr" tvg-logo="" group-title="Arapski",AR: MBC Masr
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Masr 2" tvg-logo="" group-title="Arapski",AR: MBC Masr 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC MAX" tvg-logo="" group-title="Arapski",AR: MBC MAX
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Prosport 1" tvg-logo="" group-title="Sportski",AR: MBC Prosport 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC Prosport 2" tvg-logo="" group-title="Sportski",AR: MBC Prosport 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tamazight-Maroc" tvg-logo="" group-title="Arapski",AR: Tamazight-Maroc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: 2M Maroc" tvg-logo="" group-title="Arapski",AR: 2M Maroc
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Arabiya" tvg-logo="" group-title="Arapski",AR: Al Arabiya
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL Iman TV" tvg-logo="" group-title="Arapski",AR: AL Iman TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al-Oula" tvg-logo="" group-title="Arapski",AR: Al-Oula
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Cinema" tvg-logo="" group-title="Arapski",AR: ART Cinema
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Dubai One" tvg-logo="" group-title="Arapski",AR: Dubai One
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Dubai Sports 1" tvg-logo="" group-title="Sportski",AR: Dubai Sports 1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Dubai TV" tvg-logo="" group-title="Arapski",AR: Dubai TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sama TV" tvg-logo="" group-title="Arapski",AR: Sama TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Today TV" tvg-logo="" group-title="Arapski",AR: Yemen Today TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: TRT Arabic" tvg-logo="" group-title="Arapski",AR: TRT Arabic
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Arena Liga" tvg-logo="" group-title="Sportski",BA: Arena Liga
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: N1" tvg-logo="" group-title="Srpski",RS: N1
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CG: Prva" tvg-logo="" group-title="Crna Gora",CG: Prva
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prva World" tvg-logo="" group-title="Filmski",Prva World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sutel" tvg-logo="" group-title="Makedonski",MK: Sutel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="Njemački - AT",DE: Eurosport 1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="Njemački - AT",DE: Eurosport 2 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: TV Istok 2" tvg-logo="" group-title="Srpski",RS: TV Istok 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Sport" tvg-logo="" group-title="Rumunski",RO: Sport
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BA: Sana TV" tvg-logo="" group-title="Bosanski",BA: Sana TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: Mreža TV" tvg-logo="" group-title="Hrvatski",HR: Mreža TV
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: N1 HD" tvg-logo="" group-title="Hrvatski",HR: N1 HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nova World" tvg-logo="" group-title="Hrvatski",HR: Nova World
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2 Tirol HD" tvg-logo="" group-title="Njemački - AT",ORF 2 Tirol HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RS: Happy Parovi" tvg-logo="" group-title="Srpski",RS: Happy Parovi
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA ZAGREB" tvg-logo="" group-title="Radio",ANTENA ZAGREB
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naxi Radio" tvg-logo="" group-title="Radio",Naxi Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Center SL" tvg-logo="" group-title="Radio",Radio Center SL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Džungla" tvg-logo="" group-title="Radio",Radio Džungla
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fortuna Skoplje" tvg-logo="" group-title="Radio",Radio Fortuna Skoplje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kameleon" tvg-logo="" group-title="Radio",Radio Kameleon
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mir" tvg-logo="" group-title="Radio",Radio Mir
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sarajevo" tvg-logo="" group-title="Radio",Radio Sarajevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sky Niš" tvg-logo="" group-title="Radio",Radio Sky Niš
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio M Teslić" tvg-logo="" group-title="Radio",Studio M Teslić
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Jelah" tvg-logo="" group-title="Radio",Antena Jelah
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balkan DJ" tvg-logo="" group-title="Radio",Balkan DJ
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BUM Radio" tvg-logo="" group-title="Radio",BUM Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bum Radio Kraljevo" tvg-logo="" group-title="Radio",Bum Radio Kraljevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cool Radio" tvg-logo="" group-title="Radio",Cool Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRS Rado" tvg-logo="" group-title="Radio",DRS Rado
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Egeta Radio Podvrska" tvg-logo="" group-title="Radio",Egeta Radio Podvrska
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter Radio" tvg-logo="" group-title="Radio",Enter Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk Radio" tvg-logo="" group-title="Radio",Folk Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gold FM - Velika Gorica" tvg-logo="" group-title="Radio",Gold FM - Velika Gorica
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jupok Radio Rožaje" tvg-logo="" group-title="Radio",Jupok Radio Rožaje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio Novi Travnik" tvg-logo="" group-title="Radio",Narodni Radio Novi Travnik
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio ZG" tvg-logo="" group-title="Radio",Narodni Radio ZG
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Radio" tvg-logo="" group-title="Radio",OK Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prvi Radio Novi Sad" tvg-logo="" group-title="Radio",Prvi Radio Novi Sad
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio   Bir" tvg-logo="" group-title="Radio",Radio   Bir
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 - Zagreb" tvg-logo="" group-title="Radio",Radio 101 - Zagreb
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 808" tvg-logo="" group-title="Radio",Radio 808
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena Sarajevo" tvg-logo="" group-title="Radio",Radio Antena Sarajevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena Zagreb" tvg-logo="" group-title="Radio",Radio Antena Zagreb
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio ASK" tvg-logo="" group-title="Radio",Radio ASK
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio BA" tvg-logo="" group-title="Radio",Radio BA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Balkan Dj" tvg-logo="" group-title="Radio",Radio Balkan Dj
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Balkan Mix - Skoplje" tvg-logo="" group-title="Radio",Radio Balkan Mix - Skoplje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Balkan Top" tvg-logo="" group-title="Radio",Radio Balkan Top
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Banovina" tvg-logo="" group-title="Radio",Radio Banovina
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Belle Amie" tvg-logo="" group-title="Radio",Radio Belle Amie
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio BIG 3" tvg-logo="" group-title="Radio",Radio BIG 3
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio BN" tvg-logo="" group-title="Radio",Radio BN
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Boemi" tvg-logo="" group-title="Radio",Radio Boemi
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bombonica" tvg-logo="" group-title="Radio",Radio Bombonica
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bosanka" tvg-logo="" group-title="Radio",Radio Bosanka
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bosanski Teferić Njemačka" tvg-logo="" group-title="Radio",Radio Bosanski Teferić Njemačka
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bravo" tvg-logo="" group-title="Radio",Radio Bravo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Čaršija" tvg-logo="" group-title="Radio",Radio Čaršija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Crna Gora" tvg-logo="" group-title="Radio",Radio Crna Gora
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio D" tvg-logo="" group-title="Radio",Radio D
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija" tvg-logo="" group-title="Radio",Radio Dalmacija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Delta" tvg-logo="" group-title="Radio",Radio Delta
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Desetka" tvg-logo="" group-title="Radio",Radio Desetka
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ferel" tvg-logo="" group-title="Radio",Radio Ferel
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Folk - Skoplje" tvg-logo="" group-title="Radio",Radio Folk - Skoplje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Glas Drine" tvg-logo="" group-title="Radio",Radio Glas Drine
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gusinje" tvg-logo="" group-title="Radio",Radio Gusinje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hule" tvg-logo="" group-title="Radio",Radio Hule
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jat" tvg-logo="" group-title="Radio",Radio Jat
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Južni Vjetar Beograd" tvg-logo="" group-title="Radio",Radio Južni Vjetar Beograd
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kalman" tvg-logo="" group-title="Radio",Radio Kalman
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kruševac" tvg-logo="" group-title="Radio",Radio Kruševac
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lukavac" tvg-logo="" group-title="Radio",Radio Lukavac
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Maribor" tvg-logo="" group-title="Radio",Radio Maribor
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolis Network MK" tvg-logo="" group-title="Radio",Radio Metropolis Network MK
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Narodni HR" tvg-logo="" group-title="Radio",Radio Narodni HR
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Naxi Caffe" tvg-logo="" group-title="Radio",Radio Naxi Caffe
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Orašje" tvg-logo="" group-title="Radio",Radio Orašje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Otvoreni" tvg-logo="" group-title="Radio",Radio Otvoreni
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pingvin" tvg-logo="" group-title="Radio",Radio Pingvin
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pink" tvg-logo="" group-title="Radio",Radio Pink
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Posvina" tvg-logo="" group-title="Radio",Radio Posvina
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rogla" tvg-logo="" group-title="Radio",Radio Rogla
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Royal" tvg-logo="" group-title="Radio",Radio Royal
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio S" tvg-logo="" group-title="Radio",Radio S
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Samobor" tvg-logo="" group-title="Radio",Radio Samobor
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sky Skoplje" tvg-logo="" group-title="Radio",Radio Sky Skoplje
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Šljivovica Kraljevo" tvg-logo="" group-title="Radio",Radio Šljivovica Kraljevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Slobodna Evropa" tvg-logo="" group-title="Radio",Radio Slobodna Evropa
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Spreča" tvg-logo="" group-title="Radio",Radio Spreča
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad Sarajevo" tvg-logo="" group-title="Radio",Radio Stari Grad Sarajevo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Studio D" tvg-logo="" group-title="Radio",Radio Studio D
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tešanj" tvg-logo="" group-title="Radio",Radio Tešanj
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tuzla" tvg-logo="" group-title="Radio",Radio Tuzla
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Uživo" tvg-logo="" group-title="Radio",Radio Uživo
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zam Švajcarska" tvg-logo="" group-title="Radio",Radio Zam Švajcarska
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zelengrad USA" tvg-logo="" group-title="Radio",Radio Zelengrad USA
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Radio - MK" tvg-logo="" group-title="Radio",Sky Radio - MK
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Split Infinity Radio" tvg-logo="" group-title="Radio",Split Infinity Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TDI Radio Dalmacija" tvg-logo="" group-title="Radio",TDI Radio Dalmacija
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Radio" tvg-logo="" group-title="Radio",TNT Radio
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Avaz" tvg-logo="" group-title="Radio",Radio Avaz
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bet" tvg-logo="" group-title="Radio",Radio Bet
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/3248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Usora" tvg-logo="" group-title="Radio",Radio Usora
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/2832.m3u8
