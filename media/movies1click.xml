@@ -242,7 +242,6 @@
 <link>
 <sublink>https://uptobox.com/3h6ivgwwfs2g([COLOR white]Link 1: 720p[/COLOR])</sublink>
 <sublink>http://uptobox.com/2edpimrb5l4k([COLOR white]Link 2: 1080p[/COLOR])</sublink>
-<sublink>https://ok.ru/video/394588785216([COLOR white]Link 3: 4K[/COLOR])</sublink>
 </link>
 <thumbnail>https://image.tmdb.org/t/p/original/2j80xsk4W6A7SQLCJb9s2lzTuOh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ok6Ws65nDSLAIKkKgIjqyM5OGCc.jpg</fanart>
@@ -256,7 +255,10 @@
 <title>Wonder Woman</title>
 <year>2017</year>
 </meta>
-<link>http://uptobox.com/x9mrqjxjvr23</link>
+<link>
+<sublink>http://uptobox.com/p5vdjq9fyvof([COLOR white]Link 1: 720p[/COLOR])</sublink>
+<sublink>http://uptobox.com/wyybhtsxce5q([COLOR white]Link 2: 1080p[/COLOR])</sublink>
+</link>
 <thumbnail>https://image.tmdb.org/t/p/original/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9tuQAYHLA9G02Th6eiV5hq7mpbj.jpg</fanart>
 </item>
