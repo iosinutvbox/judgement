@@ -1,6 +1,6 @@
 <dir><title>[B][COLOR white]1-Click Play [COLOR red](No Pair Needed)[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies1click.xml</link></dir>
 <dir><title>[B][COLOR white]Upcoming[/COLOR][/B]</title><tmdb>movie/upcoming</tmdb></dir>
-<dir><title>[B][COLOR white]Trending[/COLOR]</title><trakt>https://api.trakt.tv/movies/trending</trakt></dir>
+<dir><title>[B][COLOR white]Trending[/COLOR][/B]</title><trakt>https://api.trakt.tv/movies/trending</trakt></dir>
 <dir><title>[B][COLOR white]In Theaters[/COLOR][/B]</title><tmdb>movies/now_playing</tmdb></dir>
 <dir><title>[B][COLOR white]Most Popular[/COLOR][/B]</title><tmdb>movies/popular</tmdb></dir>
 <dir><title>[B][COLOR white]Top Rated[/COLOR][/B]</title><tmdb>movies/top_rated</tmdb></dir>
