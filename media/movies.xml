@@ -1,10 +1,10 @@
-<dir><title>[COLOR white]1-Click Play [COLOR red](No Pair Needed)[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies1click.xml</link></dir>
-<dir><title>[COLOR white]Upcoming[/COLOR]</title><tmdb>movie/upcoming</tmdb></dir>
-<dir><title>[COLOR white]Trending[/COLOR]</title><trakt>https://api.trakt.tv/movies/trending</trakt></dir>
-<dir><title>[COLOR white]In Theaters[/COLOR]</title><tmdb>movies/now_playing</tmdb></dir>
-<dir><title>[COLOR white]Most Popular[/COLOR]</title><tmdb>movies/popular</tmdb></dir>
-<dir><title>[COLOR white]Top Rated[/COLOR]</title><tmdb>movies/top_rated</tmdb></dir>
-<dir><title>[COLOR white]Collections[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviecollections.xml</link></dir>
-<dir><title>[COLOR white]Genres[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviegenres.xml</link></dir>
-<dir><title>[COLOR white]Years[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movieyears.xml</link></dir>
-<dir><title>[COLOR white]Search[/COLOR]</title><tmdb>search</tmdb></dir>
+<dir><title>[B][COLOR white]1-Click Play [COLOR red](No Pair Needed)[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies1click.xml</link></dir>
+<dir><title>[B][COLOR white]Upcoming[/COLOR][/B]</title><tmdb>movie/upcoming</tmdb></dir>
+<dir><title>[B][COLOR white]Trending[/COLOR]</title><trakt>https://api.trakt.tv/movies/trending</trakt></dir>
+<dir><title>[B][COLOR white]In Theaters[/COLOR][/B]</title><tmdb>movies/now_playing</tmdb></dir>
+<dir><title>[B][COLOR white]Most Popular[/COLOR][/B]</title><tmdb>movies/popular</tmdb></dir>
+<dir><title>[B][COLOR white]Top Rated[/COLOR][/B]</title><tmdb>movies/top_rated</tmdb></dir>
+<dir><title>[B][COLOR white]Collections[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviecollections.xml</link></dir>
+<dir><title>[B][COLOR white]Genres[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviegenres.xml</link></dir>
+<dir><title>[B][COLOR white]Years[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movieyears.xml</link></dir>
+<dir><title>[B][COLOR white]Search[/COLOR][/B]</title><tmdb>search</tmdb></dir>

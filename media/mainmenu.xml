@@ -1,6 +1,6 @@
-<dir><title>[COLOR white]Live TV[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/livetv.xml</link></dir>
-<dir><title>[COLOR white]Movies[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies.xml</link></dir>
-<dir><title>[COLOR white]TV Shows[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshows.xml</link></dir>
-<dir><title>[COLOR white]Kids[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/kids.xml</link></dir>
-<dir><title>[COLOR white]Music[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/music.xml</link></dir>
-<dir><title>[COLOR white]Search[/COLOR]</title><tmdb>search</tmdb></dir>
+<dir><title>[B][COLOR white]Live TV[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/livetv.xml</link></dir>
+<dir><title>[B][COLOR white]Movies[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movies.xml</link></dir>
+<dir><title>[B][COLOR white]TV Shows[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshows.xml</link></dir>
+<dir><title>[B][COLOR white]Kids[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/kids.xml</link></dir>
+<dir><title>[B][COLOR white]Music[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/music.xml</link></dir>
+<dir><title>[B][COLOR white]Search[/COLOR][/B]</title><tmdb>search</tmdb></dir>
