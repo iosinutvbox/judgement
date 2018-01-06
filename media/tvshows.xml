@@ -1,6 +1,6 @@
 <dir><title>[B][COLOR white]Airing Today[/COLOR][/B]</title><tmdb>tv/today</tmdb></dir>
-<dir><title>[B][COLOR white]Trending[/COLOR]</title><trakt>https://api.trakt.tv/shows/trending</trakt></dir>
+<dir><title>[B][COLOR white]Trending[/COLOR][/B]</title><trakt>https://api.trakt.tv/shows/trending</trakt></dir>
 <dir><title>[B][COLOR white]Most Popular[/COLOR][/B]</title><tmdb>tv/popular</tmdb></dir>
 <dir><title>[B][COLOR white]Top Rated[/COLOR][/B]</title><tmdb>tv/top_rated</tmdb></dir>
-<dir><title>[B][COLOR white]Genres[/COLOR]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshowgenres.xml</link></dir>
+<dir><title>[B][COLOR white]Genres[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshowgenres.xml</link></dir>
 <dir><title>[B][COLOR white]Search[/COLOR][/B]</title><tmdb>search</tmdb></dir>
