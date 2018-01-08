@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1,***** Judgement IPTV! (Test List) *****
-http://1
+http://
 
 #EXTINF:-1,***** Some Links May Need A Few Clicks! *****
-http://2
+http://
 
 #EXTINF:-1,***** Hope You Enjoy! *****
-http://3
+http://
 
 #EXTINF:-1,***** Twitter: @JudgementWiz *****
-http://4
+http://
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: RTE1" tvg-logo="" group-title="England",UK: RTE1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts

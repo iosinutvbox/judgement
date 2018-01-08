@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1,***** Judgement IPTV! (Main List) *****
-http://1
+http://
 
 #EXTINF:-1,***** Some Links May Need A Few Clicks! *****
-http://2
+http://
 
 #EXTINF:-1,***** Hope You Enjoy! *****
-http://3
+http://
 
 #EXTINF:-1,***** Twitter: @JudgementWiz *****
-http://4
+http://
 
 #EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button" tvg-logo="http://emby.world/LOGOS/2/bbcrb1.png" group-title="UK ENTERTAINMENT",BBC Red Button
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/8676.m3u8
