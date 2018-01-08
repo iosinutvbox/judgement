@@ -12,6 +12,9 @@ http://
 #EXTINF:-1,***** Twitter: @JudgementWiz *****
 http://
 
+#EXTINF:-1,***** Please Don't Copy List! *****
+http://
+
 #EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button" tvg-logo="http://emby.world/LOGOS/2/bbcrb1.png" group-title="UK ENTERTAINMENT",BBC Red Button
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/8676.m3u8
 #EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD*" tvg-logo="http://superstreams.tv:8080/logos/bbconehd.png" group-title="UK ENTERTAINMENT",BBC One HD*

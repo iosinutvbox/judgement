@@ -12,6 +12,9 @@ http://
 #EXTINF:-1,***** Twitter: @JudgementWiz *****
 http://
 
+#EXTINF:-1,***** Please Don't Copy List! *****
+http://
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: RTE1" tvg-logo="" group-title="England",UK: RTE1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: RTE2" tvg-logo="" group-title="England",UK: RTE2
