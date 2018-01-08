@@ -3,20 +3,117 @@
 #EXTINF:-1,***** Judgement IPTV! (Test List) *****
 http://1
 
-#EXTINF:-1,***** Last Updated: 04/01/2018 *****
+#EXTINF:-1,***** Some Links May Need A Few Clicks! *****
 http://2
 
-#EXTINF:-1,***** Some Links May Need A Few Clicks! *****
+#EXTINF:-1,***** Hope You Enjoy! *****
 http://3
 
-#EXTINF:-1,***** Hope You Enjoy! *****
+#EXTINF:-1,***** Twitter: @JudgementWiz *****
 http://4
 
-#EXTINF:-1,***** Twitter: @JudgementWiz *****
-http://5
-
-#EXTINF:-1 tvg-id="" tvg-name="****FRANCAIS****" tvg-logo="http://iptv.sharing2all.net/logo/cat/fr_flag.png" group-title="FRANCAIS",****FRANCAIS****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE1" tvg-logo="" group-title="England",UK: RTE1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE2" tvg-logo="" group-title="England",UK: RTE2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/458.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Sci-Fi & Horror HD" tvg-logo="" group-title="England",UK: Sky Movies Sci-Fi & Horror HD
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/460.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES THRILLER" tvg-logo="" group-title="England",UK: MOVIES THRILLER
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/461.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES DRAMA" tvg-logo="" group-title="England",UK: MOVIES DRAMA
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/462.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES DISNEY" tvg-logo="" group-title="England",UK: MOVIES DISNEY
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/463.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky MOVIES COMEDY" tvg-logo="" group-title="England",UK: Sky MOVIES COMEDY
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/464.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ID" tvg-logo="" group-title="England",UK: ID
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/465.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="" group-title="England",UK: DISCOVERY HISTORY
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/466.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: E!" tvg-logo="" group-title="England",UK: E!
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/468.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: E4" tvg-logo="" group-title="England",UK: E4
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/467.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY XD" tvg-logo="" group-title="England",UK: DISNEY XD
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/469.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/457.png" group-title="England",UK: Animal Planet
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/457.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="England",UK: BBC 1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="England",UK: BBC 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/399.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="England",UK: BBC 3
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/400.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Be" tvg-logo="" group-title="England",UK: ITV Be
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/392.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/396.png" group-title="England",UK: ITV 1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/395.jpg" group-title="England",UK: ITV 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/394.png" group-title="England",UK: ITV 3
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/394.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="England",UK: ITV 4
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/393.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Syfy" tvg-logo="" group-title="England",UK: Syfy
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/391.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="England",UK: Discovery Channel
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: France 24" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/819.png" group-title="England",UK: France 24
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/819.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Russia Today" tvg-logo="" group-title="England",UK: Russia Today
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/921.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Russia Today Doc" tvg-logo="" group-title="England",UK: Russia Today Doc
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/922.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="SPORT",UK: BT Sport 1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="SPORT",UK: BT Sport 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports ESPN" tvg-logo="" group-title="SPORT",UK: BT Sports ESPN
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 1" tvg-logo="" group-title="SPORT",UK: Sky Sports 1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 2" tvg-logo="" group-title="SPORT",UK: Sky Sports 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 3" tvg-logo="" group-title="SPORT",UK: Sky Sports 3
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/298.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 4" tvg-logo="" group-title="SPORT",UK: Sky Sports 4
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/299.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 5" tvg-logo="" group-title="SPORT",UK: Sky Sports 5
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHELSEA TV" tvg-logo="" group-title="SPORT",UK: CHELSEA TV
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/963.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN1" tvg-logo=" " group-title="SPORT",US: ESPN1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/824.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo=" " group-title="SPORT",US: ESPN 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/825.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 1" tvg-logo=" " group-title="SPORT",US: TSN 1
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/828.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 2" tvg-logo=" " group-title="SPORT",US: TSN 2
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/829.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3" tvg-logo=" " group-title="SPORT",US: TSN 3
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/830.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 4" tvg-logo=" " group-title="SPORT",US: TSN 4
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/831.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5" tvg-logo=" " group-title="SPORT",US: TSN 5
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/832.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC new" tvg-logo=" " group-title="USA",US: ABC new
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/822.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: The cw tv" tvg-logo="" group-title="USA",US: The cw tv
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/781.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: E!" tvg-logo=" " group-title="USA",US: E!
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/823.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo=" " group-title="USA",US: HBO
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/826.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMERDY" tvg-logo=" " group-title="USA",US: HBO COMERDY
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/827.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX" tvg-logo=" " group-title="USA",US: FOX
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS" tvg-logo=" " group-title="USA",US: CBS
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/834.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY HD" tvg-logo=" " group-title="USA",US: DISCOVERY HD
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/835.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY SCIENCE" tvg-logo=" " group-title="USA",US: DISCOVERY SCIENCE
+http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/836.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/1.jpg" group-title="FRANCAIS",FR: TF1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/1.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: France 2" tvg-logo="http://iptv.sharing2all.net/logo/france2.gif" group-title="FRANCAIS",FR: France 2
@@ -229,8 +326,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/704.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/710.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: A+" tvg-logo="" group-title="FRANCAIS",FR: A+
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/820.ts
-#EXTINF:-1 tvg-id="" tvg-name="****SPORT****" tvg-logo="http://iptv.sharing2all.net/logo/17.png" group-title="SPORT",****SPORT****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Infosport+" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/109.jpg" group-title="SPORT",FR: Infosport+
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/109.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: L'Équipe" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/19.png" group-title="SPORT",FR: L'Équipe
@@ -367,22 +462,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/153.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/162.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="" group-title="SPORT",PT: Benfica TV
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/929.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="SPORT",UK: BT Sport 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="SPORT",UK: BT Sport 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports ESPN" tvg-logo="" group-title="SPORT",UK: BT Sports ESPN
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/303.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 1" tvg-logo="" group-title="SPORT",UK: Sky Sports 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/296.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 2" tvg-logo="" group-title="SPORT",UK: Sky Sports 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 3" tvg-logo="" group-title="SPORT",UK: Sky Sports 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/298.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 4" tvg-logo="" group-title="SPORT",UK: Sky Sports 4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/299.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports 5" tvg-logo="" group-title="SPORT",UK: Sky Sports 5
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/300.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="SPORT",Arena Sport 1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/289.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="SPORT",Arena Sport 2
@@ -447,20 +526,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/375.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/169.ts
 #EXTINF:-1 tvg-id="" tvg-name="Digisport 3" tvg-logo="" group-title="SPORT",Digisport 3
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN1" tvg-logo=" " group-title="SPORT",US: ESPN1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/824.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo=" " group-title="SPORT",US: ESPN 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/825.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: TSN 1" tvg-logo=" " group-title="SPORT",US: TSN 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/828.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: TSN 2" tvg-logo=" " group-title="SPORT",US: TSN 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/829.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3" tvg-logo=" " group-title="SPORT",US: TSN 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/830.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: TSN 4" tvg-logo=" " group-title="SPORT",US: TSN 4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/831.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5" tvg-logo=" " group-title="SPORT",US: TSN 5
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/832.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU 1 HD" tvg-logo="" group-title="SPORT",TR: TIVIBU 1 HD
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/816.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU 2 HD" tvg-logo="" group-title="SPORT",TR: TIVIBU 2 HD
@@ -487,14 +552,10 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/114.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/87.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="" group-title="SPORT",ES: BETIS TV
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/964.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: CHELSEA TV" tvg-logo="" group-title="SPORT",UK: CHELSEA TV
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/963.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Juventus tv" tvg-logo="" group-title="SPORT",IT: Juventus tv
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/365.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Inter Channel" tvg-logo="" group-title="SPORT",IT: Inter Channel
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/445.ts
-#EXTINF:-1 tvg-id="" tvg-name="**** ALGERIE ****" tvg-logo="http://iptv.sharing2all.net/logo/cat/dz_flag.png" group-title="ALGERIE",**** ALGERIE ****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ: Program National" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/420.png" group-title="ALGERIE",DZ: Program National
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/420.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ: A 3" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/104.jpg" group-title="ALGERIE",DZ: A 3
@@ -539,8 +600,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/773.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/976.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ: El Heddaf" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/419.gif" group-title="ALGERIE",DZ: El Heddaf
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/419.ts
-#EXTINF:-1 tvg-id="" tvg-name="**** TUNISIE ****" tvg-logo="http://iptv.sharing2all.net/logo/cat/tn_flag.png" group-title="TUNISIE",**** TUNISIE ****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN: Tunisia Nat1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/192.png" group-title="TUNISIE",TN: Tunisia Nat1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/192.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN: TUNISIA NAT 2" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/770.png" group-title="TUNISIE",TN: TUNISIA NAT 2
@@ -563,8 +622,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/766.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/194.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN: Attessia" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/667.gif" group-title="TUNISIE",TN: Attessia
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/667.ts
-#EXTINF:-1 tvg-id="" tvg-name="**** MAROC ****" tvg-logo="http://iptv.sharing2all.net/logo/cat/ma_flag.png" group-title="MAROC",**** MAROC ****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="MA: Al Aoula" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/91.gif" group-title="MAROC",MA: Al Aoula
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/91.ts
 #EXTINF:-1 tvg-id="" tvg-name="MA: 2M" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/165.gif" group-title="MAROC",MA: 2M
@@ -577,8 +634,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/176.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/206.ts
 #EXTINF:-1 tvg-id="" tvg-name="MA: Medi 1 Sat" tvg-logo="" group-title="MAROC",MA: Medi 1 Sat
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/13.ts
-#EXTINF:-1 tvg-id="" tvg-name="****ARAB****" tvg-logo="http://iptv.sharing2all.net/logo/cat/ar_flag.png" group-title="ARAB",****ARAB****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: MBC 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/76.png" group-title="ARAB",AR: MBC 1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/76.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: MBC 2" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/79.jpg" group-title="ARAB",AR: MBC 2
@@ -719,8 +774,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/837.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/943.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: Al Kahera Wal Nas 2" tvg-logo="" group-title="ARAB",AR: Al Kahera Wal Nas 2
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/944.ts
-#EXTINF:-1 tvg-id="" tvg-name="****España****" tvg-logo="http://iptv.sharing2all.net/logo/cat/sp_flag.png" group-title="España",****España****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE 1" tvg-logo="" group-title="España",ES: TVE 1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE 2" tvg-logo="" group-title="España",ES: TVE 2
@@ -791,8 +844,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/920.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/953.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: NOVA HD" tvg-logo="" group-title="España",ES: NOVA HD
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/962.ts
-#EXTINF:-1 tvg-id="" tvg-name="****ITALIA****" tvg-logo="http://iptv.sharing2all.net/logo/cat/it_flag.png" group-title="ITALIA",****ITALIA****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1 HD" tvg-logo="" group-title="ITALIA",IT: Sky Cinema 1 HD
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/475.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Calcio 4 HD" tvg-logo="" group-title="ITALIA",IT: Sky Calcio 4 HD
@@ -859,62 +910,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/435.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/436.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Premium Calcio 2" tvg-logo="" group-title="ITALIA",IT: Premium Calcio 2
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/437.ts
-#EXTINF:-1 tvg-id="" tvg-name="****England****" tvg-logo="http://iptv.sharing2all.net/logo/cat/uk_flag.png" group-title="England",****England****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE1" tvg-logo="" group-title="England",UK: RTE1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: RTE2" tvg-logo="" group-title="England",UK: RTE2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/458.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Sci-Fi & Horror HD" tvg-logo="" group-title="England",UK: Sky Movies Sci-Fi & Horror HD
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/460.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES THRILLER" tvg-logo="" group-title="England",UK: MOVIES THRILLER
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/461.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES DRAMA" tvg-logo="" group-title="England",UK: MOVIES DRAMA
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/462.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: MOVIES DISNEY" tvg-logo="" group-title="England",UK: MOVIES DISNEY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/463.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky MOVIES COMEDY" tvg-logo="" group-title="England",UK: Sky MOVIES COMEDY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/464.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ID" tvg-logo="" group-title="England",UK: ID
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/465.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="" group-title="England",UK: DISCOVERY HISTORY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/466.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: E!" tvg-logo="" group-title="England",UK: E!
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/468.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: E4" tvg-logo="" group-title="England",UK: E4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/467.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY XD" tvg-logo="" group-title="England",UK: DISNEY XD
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/469.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/457.png" group-title="England",UK: Animal Planet
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/457.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="England",UK: BBC 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/398.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="England",UK: BBC 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/399.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="England",UK: BBC 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/400.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Be" tvg-logo="" group-title="England",UK: ITV Be
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/392.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/396.png" group-title="England",UK: ITV 1
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/396.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/395.jpg" group-title="England",UK: ITV 2
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/395.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/394.png" group-title="England",UK: ITV 3
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/394.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="England",UK: ITV 4
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/393.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Syfy" tvg-logo="" group-title="England",UK: Syfy
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/391.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="England",UK: Discovery Channel
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/397.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: France 24" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/819.png" group-title="England",UK: France 24
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/819.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Russia Today" tvg-logo="" group-title="England",UK: Russia Today
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/921.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Russia Today Doc" tvg-logo="" group-title="England",UK: Russia Today Doc
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/922.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Belge****" tvg-logo="http://iptv.sharing2all.net/logo/cat/be_flag.png" group-title="Belge",****Belge****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="BE: LA UNE HD" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/694.png" group-title="Belge",BE: LA UNE HD
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/694.ts
 #EXTINF:-1 tvg-id="" tvg-name="BE: LA DEUX" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/696.png" group-title="Belge",BE: LA DEUX
@@ -933,8 +928,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/703.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/849.ts
 #EXTINF:-1 tvg-id="" tvg-name="BE: Cinema 2" tvg-logo="" group-title="Belge",BE: Cinema 2
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/850.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Portugaise***" tvg-logo="http://iptv.sharing2all.net/logo/cat/pt_flag.png" group-title="Portugaise",****Portugaise***
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP1" tvg-logo="" group-title="Portugaise",PT: RTP1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/923.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP2" tvg-logo="" group-title="Portugaise",PT: RTP2
@@ -979,8 +972,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/932.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/946.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic" tvg-logo="" group-title="Portugaise",PT: National Geographic
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/945.ts
-#EXTINF:-1 tvg-id="" tvg-name="****DEUTSCHLAND****" tvg-logo="http://iptv.sharing2all.net/logo/cat/de_flag.png" group-title="DEUTSCHLAND",****DEUTSCHLAND****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 1" tvg-logo="" group-title="DEUTSCHLAND",DE: SKY Sport 1
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/370.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 2" tvg-logo="" group-title="DEUTSCHLAND",DE: SKY Sport 2
@@ -1017,28 +1008,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/376.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/380.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: National Geographic" tvg-logo="" group-title="DEUTSCHLAND",DE: National Geographic
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/369.ts
-#EXTINF:-1 tvg-id="" tvg-name="****USA****" tvg-logo="http://iptv.sharing2all.net/logo/cat/us_flag.png" group-title="USA",****USA****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC new" tvg-logo=" " group-title="USA",US: ABC new
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/822.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: The cw tv" tvg-logo="" group-title="USA",US: The cw tv
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/781.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: E!" tvg-logo=" " group-title="USA",US: E!
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/823.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo=" " group-title="USA",US: HBO
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/826.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMERDY" tvg-logo=" " group-title="USA",US: HBO COMERDY
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/827.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX" tvg-logo=" " group-title="USA",US: FOX
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/833.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS" tvg-logo=" " group-title="USA",US: CBS
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/834.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY HD" tvg-logo=" " group-title="USA",US: DISCOVERY HD
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/835.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY SCIENCE" tvg-logo=" " group-title="USA",US: DISCOVERY SCIENCE
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/836.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Turk****" tvg-logo="http://iptv.sharing2all.net/logo/cat/tr_flag.png" group-title="Turk",****Turk****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT HD" tvg-logo="" group-title="Turk",TR: TRT HD
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/414.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="Turk",TR: TRT 1 HD
@@ -1089,16 +1058,12 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/851.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/918.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="" group-title="Turk",TR: Kanal D
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/814.ts
-#EXTINF:-1 tvg-id="" tvg-name="****INDIAN****" tvg-logo="http://iptv.sharing2all.net/logo/cat/in_flag.png" group-title="INDIAN",****INDIAN****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: 4music" tvg-logo="" group-title="INDIAN",IN: 4music
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/811.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: NDTV" tvg-logo="" group-title="INDIAN",IN: NDTV
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/812.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: Zoom" tvg-logo="" group-title="INDIAN",IN: Zoom
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/810.ts
-#EXTINF:-1 tvg-id="" tvg-name="****AFRICA****" tvg-logo="http://iptv.sharing2all.net/logo/cat/af_flag.png" group-title="AFRICA",****AFRICA****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF: Africa 24" tvg-logo="" group-title="AFRICA",AF: Africa 24
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/107.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF: RTI1" tvg-logo="" group-title="AFRICA",AF: RTI1
@@ -1123,8 +1088,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/974.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/977.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF: Télésud" tvg-logo="" group-title="AFRICA",AF: Télésud
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/975.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Music****" tvg-logo="http://iptv.sharing2all.net/logo/cat/music.png" group-title="MUSIC",****Music****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: BET Fr" tvg-logo="" group-title="MUSIC",FR: BET Fr
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/155.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: RMC TV" tvg-logo="" group-title="MUSIC",FR: RMC TV
@@ -1175,8 +1138,6 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/979.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/984.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC CHOICE ROCK" tvg-logo="" group-title="MUSIC",MUSIC CHOICE ROCK
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/982.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Enfant****" tvg-logo="http://iptv.sharing2all.net/logo/cat/kids.png" group-title="Enfant",****Enfant****
-http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Family" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/150.png" group-title="Enfant",FR: Canal+ Family
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/150.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/847.png" group-title="Enfant",FR: Boomerang
@@ -1219,1147 +1180,3 @@ http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/473.ts
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/178.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ: Berbere Jeunesse" tvg-logo="http://iptv.sharing2all.net:80/logo/ch/774.gif" group-title="Enfant",DZ: Berbere Jeunesse
 http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/774.ts
-#EXTINF:-1 tvg-id="" tvg-name="****VOD****" tvg-logo="http://iptv.sharing2all.net/logo/cat/VOD.png" group-title="VOD General",****VOD****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="American Assassin" tvg-logo="http://iptv.sharing2all.net/logo/vod/1025.jpg" group-title="VOD General",American Assassin
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1025.ts
-#EXTINF:-1 tvg-id="" tvg-name="song to song" tvg-logo="http://iptv.sharing2all.net/logo/vod/1024.jpg" group-title="VOD General",song to song
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1024.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gun Shy" tvg-logo="http://iptv.sharing2all.net/logo/vod/1022.jpg" group-title="VOD General",Gun Shy
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1022.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kingsman LE CERCLE D'OR" tvg-logo="http://iptv.sharing2all.net/logo/vod/1023.jpg" group-title="VOD General",Kingsman LE CERCLE D'OR
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1023.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Tour Sombre" tvg-logo="http://iptv.sharing2all.net/logo/vod/978.jpg" group-title="VOD General",La Tour Sombre
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/978.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Arena 2017" tvg-logo="http://iptv.sharing2all.net/logo/vod/976.jpg" group-title="VOD General",The Arena 2017
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/976.ts
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/977.jpg" group-title="VOD General",Annabelle 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/977.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Planete Des Singes - Suprematie" tvg-logo="http://iptv.sharing2all.net/logo/vod/975.jpg" group-title="VOD General",La Planete Des Singes - Suprematie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/975.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Retour de Chucky" tvg-logo="http://iptv.sharing2all.net/logo/vod/974.jpg" group-title="VOD General",Le Retour de Chucky
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/974.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Lies" tvg-logo="http://iptv.sharing2all.net/logo/vod/973.jpg" group-title="VOD General",The Wizard of Lies
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/973.ts
-#EXTINF:-1 tvg-id="" tvg-name="SpiderMan Homecoming" tvg-logo="http://iptv.sharing2all.net/logo/vod/971.jpg" group-title="VOD General",SpiderMan Homecoming
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/971.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ma Cousine Rachel" tvg-logo="http://iptv.sharing2all.net/logo/vod/970.jpg" group-title="VOD General",Ma Cousine Rachel
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/970.ts
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/969.jpg" group-title="VOD General",Guardians of the Galaxy Vol 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/969.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alerte a Malibu" tvg-logo="http://iptv.sharing2all.net/logo/vod/967.jpg" group-title="VOD General",Alerte a Malibu
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/967.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dead Again In Tombstone" tvg-logo="http://iptv.sharing2all.net/logo/vod/968.jpg" group-title="VOD General",Dead Again In Tombstone
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/968.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alien Covenant" tvg-logo="http://iptv.sharing2all.net/logo/vod/966.jpg" group-title="VOD General",Alien Covenant
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/966.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious 8" tvg-logo="http://iptv.sharing2all.net/logo/vod/965.jpg" group-title="VOD General",Fast and Furious 8
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/965.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Momie" tvg-logo="http://iptv.sharing2all.net/logo/vod/964.jpg" group-title="VOD General",La Momie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/964.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pirates des Caraïbes : la Vengeance de Salazar" tvg-logo="http://iptv.sharing2all.net/logo/vod/963.jpg" group-title="VOD General",Pirates des Caraïbes : la Vengeance de Salazar
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/963.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman" tvg-logo="http://iptv.sharing2all.net/logo/vod/959.jpg" group-title="VOD General",Wonder Woman
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/959.ts
-#EXTINF:-1 tvg-id="" tvg-name="Death Note Film " tvg-logo="http://iptv.sharing2all.net/logo/vod/960.jpg" group-title="VOD General",Death Note Film 
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/960.ts
-#EXTINF:-1 tvg-id="" tvg-name="King Arthur Legend of the Sword" tvg-logo="http://iptv.sharing2all.net/logo/vod/961.jpg" group-title="VOD General",King Arthur Legend of the Sword
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/961.ts
-#EXTINF:-1 tvg-id="" tvg-name="Braquage à l'ancienne" tvg-logo="http://iptv.sharing2all.net/logo/vod/962.jpg" group-title="VOD General",Braquage à l'ancienne
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/962.ts
-#EXTINF:-1 tvg-id="" tvg-name="Guardians" tvg-logo="http://iptv.sharing2all.net/logo/vod/887.jpg" group-title="VOD General",Guardians
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/887.ts
-#EXTINF:-1 tvg-id="" tvg-name="Transformers: The Last Knigh" tvg-logo="http://iptv.sharing2all.net/logo/vod/886.jpg" group-title="VOD General",Transformers: The Last Knigh
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/886.ts
-#EXTINF:-1 tvg-id="" tvg-name="paul 2011" tvg-logo="http://iptv.sharing2all.net/logo/vod/972.jpg" group-title="VOD General",paul 2011
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/972.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alibi.com" tvg-logo="http://iptv.sharing2all.net/logo/vod/812.jpg" group-title="VOD General",Alibi.com
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/812.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ghost In The Shell 2017" tvg-logo="http://iptv.sharing2all.net/logo/vod/751.jpg" group-title="VOD General",Ghost In The Shell 2017
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chips" tvg-logo="http://iptv.sharing2all.net/logo/vod/810.jpg" group-title="VOD General",Chips
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/810.ts
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="http://iptv.sharing2all.net/logo/vod/811.jpg" group-title="VOD General",Power Rangers
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/811.ts
-#EXTINF:-1 tvg-id="" tvg-name="Raid Dingue" tvg-logo="http://iptv.sharing2all.net/logo/vod/806.jpg" group-title="VOD General",Raid Dingue
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/806.ts
-#EXTINF:-1 tvg-id="" tvg-name="Un Homme A La Hauteur" tvg-logo="http://iptv.sharing2all.net/logo/vod/780.jpg" group-title="VOD General",Un Homme A La Hauteur
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/780.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ares" tvg-logo="http://iptv.sharing2all.net/logo/vod/775.jpg" group-title="VOD General",Ares
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/775.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dog Eat Dog" tvg-logo="http://iptv.sharing2all.net/logo/vod/778.jpg" group-title="VOD General",Dog Eat Dog
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mythica" tvg-logo="http://iptv.sharing2all.net/logo/vod/779.jpg" group-title="VOD General",Mythica
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/779.ts
-#EXTINF:-1 tvg-id="" tvg-name="Personal Shopper" tvg-logo="http://iptv.sharing2all.net/logo/vod/777.jpg" group-title="VOD General",Personal Shopper
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sandy Wexler" tvg-logo="http://iptv.sharing2all.net/logo/vod/776.jpg" group-title="VOD General",Sandy Wexler
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/776.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bleed For This" tvg-logo="http://iptv.sharing2all.net/logo/vod/750.jpg" group-title="VOD General",Bleed For This
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Joyeux Bordel !" tvg-logo="http://iptv.sharing2all.net/logo/vod/749.jpg" group-title="VOD General",Joyeux Bordel !
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/749.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Figures De L'ombre" tvg-logo="http://iptv.sharing2all.net/logo/vod/748.jpg" group-title="VOD General",Les Figures De L'ombre
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Xxx Return Of Xander Cage" tvg-logo="http://iptv.sharing2all.net/logo/vod/747.jpg" group-title="VOD General",Xxx Return Of Xander Cage
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/747.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kong 2017" tvg-logo="http://iptv.sharing2all.net/logo/vod/731.jpg" group-title="VOD General",Kong 2017
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/731.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Belle Et La Béte" tvg-logo="http://iptv.sharing2all.net/logo/vod/746.jpg" group-title="VOD General",La Belle Et La Béte
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/746.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Grande Muraille" tvg-logo="http://iptv.sharing2all.net/logo/vod/730.jpg" group-title="VOD General",La Grande Muraille
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Logan 2017" tvg-logo="http://iptv.sharing2all.net/logo/vod/727.jpg" group-title="VOD General",Logan 2017
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Underworld Blood Wars" tvg-logo="http://iptv.sharing2all.net/logo/vod/725.jpg" group-title="VOD General",Underworld Blood Wars
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Debarquement Immediat" tvg-logo="http://iptv.sharing2all.net/logo/vod/724.jpg" group-title="VOD General",Debarquement Immediat
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Collateral Beauty" tvg-logo="http://iptv.sharing2all.net/logo/vod/721.jpg" group-title="VOD General",Collateral Beauty
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Passengers" tvg-logo="http://iptv.sharing2all.net/logo/vod/722.jpg" group-title="VOD General",Passengers
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sing Street" tvg-logo="http://iptv.sharing2all.net/logo/vod/723.jpg" group-title="VOD General",Sing Street
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/718.jpg" group-title="VOD General",Bad Santa 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/718.ts
-#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/720.jpg" group-title="VOD General",John Wick Chapter 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Toro" tvg-logo="http://iptv.sharing2all.net/logo/vod/719.jpg" group-title="VOD General",Toro
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brice 3" tvg-logo="http://iptv.sharing2all.net/logo/vod/717.jpg" group-title="VOD General",Brice 3
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/717.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alliés" tvg-logo="http://iptv.sharing2all.net/logo/vod/715.jpg" group-title="VOD General",Alliés
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kite" tvg-logo="http://iptv.sharing2all.net/logo/vod/716.jpg" group-title="VOD General",Kite
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/716.ts
-#EXTINF:-1 tvg-id="" tvg-name="Un Jour Dans La Vie De Billy Lyn" tvg-logo="http://iptv.sharing2all.net/logo/vod/711.jpg" group-title="VOD General",Un Jour Dans La Vie De Billy Lyn
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/711.ts
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil Chapitre Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/713.jpg" group-title="VOD General",Resident Evil Chapitre Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cross Wars" tvg-logo="http://iptv.sharing2all.net/logo/vod/712.jpg" group-title="VOD General",Cross Wars
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/712.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gad Elmaleh Part En Live 2017" tvg-logo="http://iptv.sharing2all.net/logo/vod/709.jpg" group-title="VOD General",Gad Elmaleh Part En Live 2017
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/709.ts
-#EXTINF:-1 tvg-id="" tvg-name="Insiders" tvg-logo="http://iptv.sharing2all.net/logo/vod/708.jpg" group-title="VOD General",Insiders
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premier Contact (arrival)" tvg-logo="http://iptv.sharing2all.net/logo/vod/706.jpg" group-title="VOD General",Premier Contact (arrival)
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iboy" tvg-logo="http://iptv.sharing2all.net/logo/vod/705.jpg" group-title="VOD General",Iboy
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher Never Go Back" tvg-logo="http://iptv.sharing2all.net/logo/vod/662.jpg" group-title="VOD General",Jack Reacher Never Go Back
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/662.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rogue One A Star Wars Story" tvg-logo="http://iptv.sharing2all.net/logo/vod/661.jpg" group-title="VOD General",Rogue One A Star Wars Story
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/661.ts
-#EXTINF:-1 tvg-id="" tvg-name="Diablo" tvg-logo="http://iptv.sharing2all.net/logo/vod/652.jpg" group-title="VOD General",Diablo
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/652.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer Vengeance" tvg-logo="http://iptv.sharing2all.net/logo/vod/651.jpg" group-title="VOD General",Kickboxer Vengeance
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/651.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Cerveaux (masterminds)" tvg-logo="http://iptv.sharing2all.net/logo/vod/653.jpg" group-title="VOD General",Les Cerveaux (masterminds)
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/653.ts
-#EXTINF:-1 tvg-id="" tvg-name="Daft Punk Unchained" tvg-logo="http://iptv.sharing2all.net/logo/vod/650.jpg" group-title="VOD General",Daft Punk Unchained
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/650.ts
-#EXTINF:-1 tvg-id="" tvg-name="Assassins Creed 2016" tvg-logo="http://iptv.sharing2all.net/logo/vod/609.jpg" group-title="VOD General",Assassins Creed 2016
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/609.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deepwater Horizon" tvg-logo="http://iptv.sharing2all.net/logo/vod/610.jpg" group-title="VOD General",Deepwater Horizon
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/610.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inferno" tvg-logo="http://iptv.sharing2all.net/logo/vod/598.jpg" group-title="VOD General",Inferno
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/598.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sully" tvg-logo="http://iptv.sharing2all.net/logo/vod/597.jpg" group-title="VOD General",Sully
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/597.ts
-#EXTINF:-1 tvg-id="" tvg-name="I T" tvg-logo="http://iptv.sharing2all.net/logo/vod/671.jpg" group-title="VOD General",I T
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/671.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spectral" tvg-logo="http://iptv.sharing2all.net/logo/vod/670.jpg" group-title="VOD General",Spectral
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/670.ts
-#EXTINF:-1 tvg-id="" tvg-name="31" tvg-logo="http://iptv.sharing2all.net/logo/vod/669.jpg" group-title="VOD General",31
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/669.ts
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange" tvg-logo="http://iptv.sharing2all.net/logo/vod/659.jpg" group-title="VOD General",Doctor Strange
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/659.ts
-#EXTINF:-1 tvg-id="" tvg-name="Morgan" tvg-logo="http://iptv.sharing2all.net/logo/vod/660.jpg" group-title="VOD General",Morgan
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/660.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les 7 Mercenaires 2016" tvg-logo="http://iptv.sharing2all.net/logo/vod/657.jpg" group-title="VOD General",Les 7 Mercenaires 2016
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/657.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tschiller" tvg-logo="http://iptv.sharing2all.net/logo/vod/658.jpg" group-title="VOD General",Tschiller
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/658.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ben Hur" tvg-logo="http://iptv.sharing2all.net/logo/vod/607.jpg" group-title="VOD General",Ben Hur
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/607.ts
-#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad" tvg-logo="http://iptv.sharing2all.net/logo/vod/606.jpg" group-title="VOD General",Suicide Squad
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/606.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Animaux Fantastiques" tvg-logo="http://iptv.sharing2all.net/logo/vod/605.jpg" group-title="VOD General",Les Animaux Fantastiques
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mechanic" tvg-logo="http://iptv.sharing2all.net/logo/vod/596.jpg" group-title="VOD General",Mechanic
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/596.ts
-#EXTINF:-1 tvg-id="" tvg-name="King Dave" tvg-logo="http://iptv.sharing2all.net/logo/vod/595.jpg" group-title="VOD General",King Dave
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/595.ts
-#EXTINF:-1 tvg-id="" tvg-name="Skiptrace" tvg-logo="http://iptv.sharing2all.net/logo/vod/594.jpg" group-title="VOD General",Skiptrace
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/594.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blood Father" tvg-logo="http://iptv.sharing2all.net/logo/vod/590.jpg" group-title="VOD General",Blood Father
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/590.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kenshin La Fin De La Légende" tvg-logo="http://iptv.sharing2all.net/logo/vod/589.jpg" group-title="VOD General",Kenshin La Fin De La Légende
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/589.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viking Legacy" tvg-logo="http://iptv.sharing2all.net/logo/vod/586.jpg" group-title="VOD General",Viking Legacy
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/586.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sos Fantomes" tvg-logo="http://iptv.sharing2all.net/logo/vod/588.jpg" group-title="VOD General",Sos Fantomes
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/588.ts
-#EXTINF:-1 tvg-id="" tvg-name="Broken Vows" tvg-logo="http://iptv.sharing2all.net/logo/vod/587.jpg" group-title="VOD General",Broken Vows
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/587.ts
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond" tvg-logo="http://iptv.sharing2all.net/logo/vod/585.jpg" group-title="VOD General",Star Trek Beyond
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/585.ts
-#EXTINF:-1 tvg-id="" tvg-name="A War" tvg-logo="http://iptv.sharing2all.net/logo/vod/584.jpg" group-title="VOD General",A War
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/584.ts
-#EXTINF:-1 tvg-id="" tvg-name="Teenage Mutant Ninja Turtles 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/582.jpg" group-title="VOD General",Teenage Mutant Ninja Turtles 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/582.ts
-#EXTINF:-1 tvg-id="" tvg-name="Insaisissables 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/583.jpg" group-title="VOD General",Insaisissables 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/583.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="http://iptv.sharing2all.net/logo/vod/579.jpg" group-title="VOD General",Tarzan
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/579.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Call Up" tvg-logo="http://iptv.sharing2all.net/logo/vod/580.jpg" group-title="VOD General",The Call Up
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/580.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jason Bourne 2016" tvg-logo="http://iptv.sharing2all.net/logo/vod/555.jpg" group-title="VOD General",Jason Bourne 2016
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/555.ts
-#EXTINF:-1 tvg-id="" tvg-name="Septembers Of Shiraz" tvg-logo="http://iptv.sharing2all.net/logo/vod/531.jpg" group-title="VOD General",Septembers Of Shiraz
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/531.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Fantome De Canterville" tvg-logo="http://iptv.sharing2all.net/logo/vod/530.jpg" group-title="VOD General",Le Fantome De Canterville
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/530.ts
-#EXTINF:-1 tvg-id="" tvg-name="Money Monster" tvg-logo="http://iptv.sharing2all.net/logo/vod/526.jpg" group-title="VOD General",Money Monster
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/526.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antboy 3" tvg-logo="http://iptv.sharing2all.net/logo/vod/525.jpg" group-title="VOD General",Antboy 3
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/525.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'élu" tvg-logo="http://iptv.sharing2all.net/logo/vod/516.jpg" group-title="VOD General",L'élu
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/516.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zoolander 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/511.jpg" group-title="VOD General",Zoolander 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/511.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warcraft" tvg-logo="http://iptv.sharing2all.net/logo/vod/515.jpg" group-title="VOD General",Warcraft
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/515.ts
-#EXTINF:-1 tvg-id="" tvg-name="Marseille" tvg-logo="http://iptv.sharing2all.net/logo/vod/512.jpg" group-title="VOD General",Marseille
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/512.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Vache" tvg-logo="http://iptv.sharing2all.net/logo/vod/513.jpg" group-title="VOD General",La Vache
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Criminal" tvg-logo="http://iptv.sharing2all.net/logo/vod/514.jpg" group-title="VOD General",Criminal
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/514.ts
-#EXTINF:-1 tvg-id="" tvg-name="Race" tvg-logo="http://iptv.sharing2all.net/logo/vod/509.jpg" group-title="VOD General",Race
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/509.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pattaya" tvg-logo="http://iptv.sharing2all.net/logo/vod/510.jpg" group-title="VOD General",Pattaya
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eddie The Eagle" tvg-logo="http://iptv.sharing2all.net/logo/vod/508.jpg" group-title="VOD General",Eddie The Eagle
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/508.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chocolat" tvg-logo="http://iptv.sharing2all.net/logo/vod/507.jpg" group-title="VOD General",Chocolat
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/507.ts
-#EXTINF:-1 tvg-id="" tvg-name="Certifiée Halal" tvg-logo="http://iptv.sharing2all.net/logo/vod/506.jpg" group-title="VOD General",Certifiée Halal
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/506.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Tuche 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/505.jpg" group-title="VOD General",Les Tuche 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/505.ts
-#EXTINF:-1 tvg-id="" tvg-name="X Men Apocalypse" tvg-logo="http://iptv.sharing2all.net/logo/vod/503.jpg" group-title="VOD General",X Men Apocalypse
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/503.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Brothers Grimsby" tvg-logo="http://iptv.sharing2all.net/logo/vod/504.jpg" group-title="VOD General",The Brothers Grimsby
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/504.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book" tvg-logo="http://iptv.sharing2all.net/logo/vod/502.jpg" group-title="VOD General",The Jungle Book
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/502.ts
-#EXTINF:-1 tvg-id="" tvg-name="David And Goliath" tvg-logo="http://iptv.sharing2all.net/logo/vod/501.jpg" group-title="VOD General",David And Goliath
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/501.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cloud Atlas" tvg-logo="http://iptv.sharing2all.net/logo/vod/500.jpg" group-title="VOD General",Cloud Atlas
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/500.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Fault In Our Stars Fr" tvg-logo="http://iptv.sharing2all.net/logo/vod/499.jpg" group-title="VOD General",The Fault In Our Stars Fr
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/499.ts
-#EXTINF:-1 tvg-id="" tvg-name="Captain America Civil War" tvg-logo="http://iptv.sharing2all.net/logo/vod/498.jpg" group-title="VOD General",Captain America Civil War
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/498.ts
-#EXTINF:-1 tvg-id="" tvg-name="Precious Cargo" tvg-logo="http://iptv.sharing2all.net/logo/vod/497.jpg" group-title="VOD General",Precious Cargo
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/497.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Forest" tvg-logo="http://iptv.sharing2all.net/logo/vod/496.jpg" group-title="VOD General",The Forest
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/496.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Cirkeln" tvg-logo="http://iptv.sharing2all.net/logo/vod/495.jpg" group-title="VOD General",The Cirkeln
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/495.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Phoenix Incident" tvg-logo="http://iptv.sharing2all.net/logo/vod/494.jpg" group-title="VOD General",The Phoenix Incident
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/494.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rurouni Kenshin" tvg-logo="http://iptv.sharing2all.net/logo/vod/493.jpg" group-title="VOD General",Rurouni Kenshin
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/493.ts
-#EXTINF:-1 tvg-id="" tvg-name="Joy" tvg-logo="http://iptv.sharing2all.net/logo/vod/491.jpg" group-title="VOD General",Joy
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/491.ts
-#EXTINF:-1 tvg-id="" tvg-name="Born To Be Blue" tvg-logo="http://iptv.sharing2all.net/logo/vod/492.jpg" group-title="VOD General",Born To Be Blue
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/492.ts
-#EXTINF:-1 tvg-id="" tvg-name="Misconduct" tvg-logo="http://iptv.sharing2all.net/logo/vod/488.jpg" group-title="VOD General",Misconduct
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/488.ts
-#EXTINF:-1 tvg-id="" tvg-name="Let Us Prey" tvg-logo="http://iptv.sharing2all.net/logo/vod/490.jpg" group-title="VOD General",Let Us Prey
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/490.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panic Home" tvg-logo="http://iptv.sharing2all.net/logo/vod/489.jpg" group-title="VOD General",Panic Home
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/489.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mise à L'épreuve 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/487.jpg" group-title="VOD General",Mise à L'épreuve 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/487.ts
-#EXTINF:-1 tvg-id="" tvg-name="Big Stone Gap" tvg-logo="http://iptv.sharing2all.net/logo/vod/486.jpg" group-title="VOD General",Big Stone Gap
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/486.ts
-#EXTINF:-1 tvg-id="" tvg-name="The 5th Wave" tvg-logo="http://iptv.sharing2all.net/logo/vod/485.jpg" group-title="VOD General",The 5th Wave
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/485.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gods Of Egypt" tvg-logo="http://iptv.sharing2all.net/logo/vod/484.jpg" group-title="VOD General",Gods Of Egypt
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/484.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ava's Possessions" tvg-logo="http://iptv.sharing2all.net/logo/vod/483.jpg" group-title="VOD General",Ava's Possessions
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/483.ts
-#EXTINF:-1 tvg-id="" tvg-name="Batman Vs Superman" tvg-logo="http://iptv.sharing2all.net/logo/vod/482.jpg" group-title="VOD General",Batman Vs Superman
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/482.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Fils De Saul" tvg-logo="http://iptv.sharing2all.net/logo/vod/480.jpg" group-title="VOD General",Le Fils De Saul
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Exposed" tvg-logo="http://iptv.sharing2all.net/logo/vod/481.jpg" group-title="VOD General",Exposed
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/481.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="http://iptv.sharing2all.net/logo/vod/456.jpg" group-title="VOD General",Deadpool
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/456.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Veil" tvg-logo="http://iptv.sharing2all.net/logo/vod/455.jpg" group-title="VOD General",The Veil
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/455.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Revenant" tvg-logo="http://iptv.sharing2all.net/logo/vod/454.jpg" group-title="VOD General",The Revenant
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/454.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man 3" tvg-logo="http://iptv.sharing2all.net/logo/vod/453.jpg" group-title="VOD General",Ip Man 3
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/453.ts
-#EXTINF:-1 tvg-id="" tvg-name="Seul Contre Tous" tvg-logo="http://iptv.sharing2all.net/logo/vod/428.jpg" group-title="VOD General",Seul Contre Tous
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/428.ts
-#EXTINF:-1 tvg-id="" tvg-name="Daddys Home" tvg-logo="http://iptv.sharing2all.net/logo/vod/430.jpg" group-title="VOD General",Daddys Home
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blunt Force Trauma" tvg-logo="http://iptv.sharing2all.net/logo/vod/429.jpg" group-title="VOD General",Blunt Force Trauma
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/429.ts
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars - Le Réveil De La Force" tvg-logo="http://iptv.sharing2all.net/logo/vod/423.jpg" group-title="VOD General",Star Wars - Le Réveil De La Force
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/423.ts
-#EXTINF:-1 tvg-id="" tvg-name="Standoff" tvg-logo="http://iptv.sharing2all.net/logo/vod/418.jpg" group-title="VOD General",Standoff
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/418.ts
-#EXTINF:-1 tvg-id="" tvg-name="Criminal Activities" tvg-logo="http://iptv.sharing2all.net/logo/vod/417.jpg" group-title="VOD General",Criminal Activities
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/417.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tigre Et Dragon 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/416.jpg" group-title="VOD General",Tigre Et Dragon 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/416.ts
-#EXTINF:-1 tvg-id="" tvg-name="Home Invasion" tvg-logo="http://iptv.sharing2all.net/logo/vod/382.jpg" group-title="VOD General",Home Invasion
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/382.ts
-#EXTINF:-1 tvg-id="" tvg-name="Extraction" tvg-logo="http://iptv.sharing2all.net/logo/vod/327.jpg" group-title="VOD General",Extraction
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/327.ts
-#EXTINF:-1 tvg-id="" tvg-name="The 33" tvg-logo="http://iptv.sharing2all.net/logo/vod/310.jpg" group-title="VOD General",The 33
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Creed L'heritage De Rocky Balboa" tvg-logo="http://iptv.sharing2all.net/logo/vod/305.jpg" group-title="VOD General",Creed L'heritage De Rocky Balboa
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/305.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Nouvelles Aventures D'aladin" tvg-logo="http://iptv.sharing2all.net/logo/vod/304.jpg" group-title="VOD General",Les Nouvelles Aventures D'aladin
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Legend" tvg-logo="http://iptv.sharing2all.net/logo/vod/288.jpg" group-title="VOD General",Legend
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/288.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Dernier Chasseur De Sorcieres" tvg-logo="http://iptv.sharing2all.net/logo/vod/287.jpg" group-title="VOD General",Le Dernier Chasseur De Sorcieres
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ted 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/286.jpg" group-title="VOD General",Ted 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/286.ts
-#EXTINF:-1 tvg-id="" tvg-name="Burnt" tvg-logo="http://iptv.sharing2all.net/logo/vod/285.jpg" group-title="VOD General",Burnt
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/285.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ghost" tvg-logo="http://iptv.sharing2all.net/logo/vod/293.jpg" group-title="VOD General",Ghost
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="City Of Angels" tvg-logo="http://iptv.sharing2all.net/logo/vod/295.jpg" group-title="VOD General",City Of Angels
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Fault In Our Stars" tvg-logo="http://iptv.sharing2all.net/logo/vod/294.jpg" group-title="VOD General",The Fault In Our Stars
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Pont Des Espions" tvg-logo="http://iptv.sharing2all.net/logo/vod/284.jpg" group-title="VOD General",Le Pont Des Espions
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Close Range" tvg-logo="http://iptv.sharing2all.net/logo/vod/283.jpg" group-title="VOD General",Close Range
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spectre 007" tvg-logo="http://iptv.sharing2all.net/logo/vod/282.jpg" group-title="VOD General",Spectre 007
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/282.ts
-#EXTINF:-1 tvg-id="" tvg-name="Whitney 2015" tvg-logo="http://iptv.sharing2all.net/logo/vod/276.jpg" group-title="VOD General",Whitney 2015
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viy" tvg-logo="http://iptv.sharing2all.net/logo/vod/234.jpg" group-title="VOD General",Viy
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/234.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vice Versa" tvg-logo="http://iptv.sharing2all.net/logo/vod/273.jpg" group-title="VOD General",Vice Versa
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tracers" tvg-logo="http://iptv.sharing2all.net/logo/vod/230.jpg" group-title="VOD General",Tracers
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/230.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Throwaways" tvg-logo="http://iptv.sharing2all.net/logo/vod/275.jpg" group-title="VOD General",The Throwaways
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Physician" tvg-logo="http://iptv.sharing2all.net/logo/vod/277.jpg" group-title="VOD General",The Physician
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/277.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Signal" tvg-logo="http://iptv.sharing2all.net/logo/vod/132.jpg" group-title="VOD General",The Signal
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Remaining" tvg-logo="http://iptv.sharing2all.net/logo/vod/126.jpg" group-title="VOD General",The Remaining
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/126.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Night Crew" tvg-logo="http://iptv.sharing2all.net/logo/vod/255.jpg" group-title="VOD General",The Night Crew
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/255.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Martian" tvg-logo="http://iptv.sharing2all.net/logo/vod/267.jpg" group-title="VOD General",The Martian
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/267.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Lazarus" tvg-logo="http://iptv.sharing2all.net/logo/vod/256.jpg" group-title="VOD General",The Lazarus
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Gunman" tvg-logo="http://iptv.sharing2all.net/logo/vod/254.jpg" group-title="VOD General",The Gunman
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/254.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Drop" tvg-logo="http://iptv.sharing2all.net/logo/vod/131.jpg" group-title="VOD General",The Drop
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/131.ts
-#EXTINF:-1 tvg-id="" tvg-name="Taken 3" tvg-logo="http://iptv.sharing2all.net/logo/vod/136.jpg" group-title="VOD General",Taken 3
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="Survivor" tvg-logo="http://iptv.sharing2all.net/logo/vod/243.jpg" group-title="VOD General",Survivor
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/243.ts
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter Assassin First" tvg-logo="http://iptv.sharing2all.net/logo/vod/191.jpg" group-title="VOD General",Street Fighter Assassin First
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="Straight Outta Compton 2015" tvg-logo="http://iptv.sharing2all.net/logo/vod/266.jpg" group-title="VOD General",Straight Outta Compton 2015
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/266.ts
-#EXTINF:-1 tvg-id="" tvg-name="Special Id" tvg-logo="http://iptv.sharing2all.net/logo/vod/220.jpg" group-title="VOD General",Special Id
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/220.ts
-#EXTINF:-1 tvg-id="" tvg-name="Soda Le Reve Americain" tvg-logo="http://iptv.sharing2all.net/logo/vod/270.jpg" group-title="VOD General",Soda Le Reve Americain
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/270.ts
-#EXTINF:-1 tvg-id="" tvg-name="Snatch" tvg-logo="http://iptv.sharing2all.net/logo/vod/281.jpg" group-title="VOD General",Snatch
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/281.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sicario" tvg-logo="http://iptv.sharing2all.net/logo/vod/272.jpg" group-title="VOD General",Sicario
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/272.ts
-#EXTINF:-1 tvg-id="" tvg-name="Secret D'etat" tvg-logo="http://iptv.sharing2all.net/logo/vod/226.jpg" group-title="VOD General",Secret D'etat
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/226.ts
-#EXTINF:-1 tvg-id="" tvg-name="Results" tvg-logo="http://iptv.sharing2all.net/logo/vod/264.jpg" group-title="VOD General",Results
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/264.ts
-#EXTINF:-1 tvg-id="" tvg-name="Project Almanac" tvg-logo="http://iptv.sharing2all.net/logo/vod/232.jpg" group-title="VOD General",Project Almanac
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/232.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pawn Sacrifice" tvg-logo="http://iptv.sharing2all.net/logo/vod/271.jpg" group-title="VOD General",Pawn Sacrifice
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/271.ts
-#EXTINF:-1 tvg-id="" tvg-name="Out Of The Dark" tvg-logo="http://iptv.sharing2all.net/logo/vod/241.jpg" group-title="VOD General",Out Of The Dark
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/241.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mad Max Fury" tvg-logo="http://iptv.sharing2all.net/logo/vod/239.jpg" group-title="VOD General",Mad Max Fury
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/239.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Gardiens De La Galaxie" tvg-logo="http://iptv.sharing2all.net/logo/vod/125.jpg" group-title="VOD General",Les Gardiens De La Galaxie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/125.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'étrange Histoire De Benjamin Button" tvg-logo="http://iptv.sharing2all.net/logo/vod/253.jpg" group-title="VOD General",L'étrange Histoire De Benjamin Button
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/253.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les 4 Fantastiques" tvg-logo="http://iptv.sharing2all.net/logo/vod/259.jpg" group-title="VOD General",Les 4 Fantastiques
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Septieme Fils" tvg-logo="http://iptv.sharing2all.net/logo/vod/222.jpg" group-title="VOD General",Le Septieme Fils
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/222.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Planette Des Singes - L'affrontement" tvg-logo="http://iptv.sharing2all.net/logo/vod/123.jpg" group-title="VOD General",La Planette Des Singes - L'affrontement
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/123.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'oranais" tvg-logo="http://iptv.sharing2all.net/logo/vod/244.jpg" group-title="VOD General",L'oranais
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/244.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'algerie Vue Du Ciel" tvg-logo="http://iptv.sharing2all.net/logo/vod/246.jpg" group-title="VOD General",L'algerie Vue Du Ciel
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/246.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kundo Age Of The Rampant" tvg-logo="http://iptv.sharing2all.net/logo/vod/257.jpg" group-title="VOD General",Kundo Age Of The Rampant
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kingsman Service Secret" tvg-logo="http://iptv.sharing2all.net/logo/vod/231.jpg" group-title="VOD General",Kingsman Service Secret
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/231.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jupiter Ascending" tvg-logo="http://iptv.sharing2all.net/logo/vod/228.jpg" group-title="VOD General",Jupiter Ascending
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/228.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jamais Entre Amis" tvg-logo="http://iptv.sharing2all.net/logo/vod/263.jpg" group-title="VOD General",Jamais Entre Amis
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/263.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hitman Agent 47" tvg-logo="http://iptv.sharing2all.net/logo/vod/279.jpg" group-title="VOD General",Hitman Agent 47
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hacker" tvg-logo="http://iptv.sharing2all.net/logo/vod/189.jpg" group-title="VOD General",Hacker
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gad Elmaleh 20 Ans De Scene" tvg-logo="http://iptv.sharing2all.net/logo/vod/238.jpg" group-title="VOD General",Gad Elmaleh 20 Ans De Scene
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/238.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fury" tvg-logo="http://iptv.sharing2all.net/logo/vod/130.jpg" group-title="VOD General",Fury
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/130.ts
-#EXTINF:-1 tvg-id="" tvg-name="Firequake" tvg-logo="http://iptv.sharing2all.net/logo/vod/240.jpg" group-title="VOD General",Firequake
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/240.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fast And Furious 7" tvg-logo="http://iptv.sharing2all.net/logo/vod/221.jpg" group-title="VOD General",Fast And Furious 7
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/221.ts
-#EXTINF:-1 tvg-id="" tvg-name="Extinction" tvg-logo="http://iptv.sharing2all.net/logo/vod/242.jpg" group-title="VOD General",Extinction
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/242.ts
-#EXTINF:-1 tvg-id="" tvg-name="Exodus" tvg-logo="http://iptv.sharing2all.net/logo/vod/187.jpg" group-title="VOD General",Exodus
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/187.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Blade" tvg-logo="http://iptv.sharing2all.net/logo/vod/261.jpg" group-title="VOD General",Dragon Blade
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="Diversion" tvg-logo="http://iptv.sharing2all.net/logo/vod/237.jpg" group-title="VOD General",Diversion
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/237.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deliver Us From Evil" tvg-logo="http://iptv.sharing2all.net/logo/vod/127.jpg" group-title="VOD General",Deliver Us From Evil
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/127.ts
-#EXTINF:-1 tvg-id="" tvg-name="Camp X" tvg-logo="http://iptv.sharing2all.net/logo/vod/251.jpg" group-title="VOD General",Camp X
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/251.ts
-#EXTINF:-1 tvg-id="" tvg-name="Black Sea" tvg-logo="http://iptv.sharing2all.net/logo/vod/235.jpg" group-title="VOD General",Black Sea
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/235.ts
-#EXTINF:-1 tvg-id="" tvg-name="Birdman" tvg-logo="http://iptv.sharing2all.net/logo/vod/183.jpg" group-title="VOD General",Birdman
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/183.ts
-#EXTINF:-1 tvg-id="" tvg-name="Belle Et Sebastien L'aventure Continue" tvg-logo="http://iptv.sharing2all.net/logo/vod/274.jpg" group-title="VOD General",Belle Et Sebastien L'aventure Continue
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="Badges Of Fury" tvg-logo="http://iptv.sharing2all.net/logo/vod/227.jpg" group-title="VOD General",Badges Of Fury
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/227.ts
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Age Of Ultron" tvg-logo="http://iptv.sharing2all.net/logo/vod/245.jpg" group-title="VOD General",Avengers Age Of Ultron
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/245.ts
-#EXTINF:-1 tvg-id="" tvg-name="Automata" tvg-logo="http://iptv.sharing2all.net/logo/vod/185.jpg" group-title="VOD General",Automata
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/185.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antigang 2015" tvg-logo="http://iptv.sharing2all.net/logo/vod/269.jpg" group-title="VOD General",Antigang 2015
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/269.ts
-#EXTINF:-1 tvg-id="" tvg-name="American Ultra" tvg-logo="http://iptv.sharing2all.net/logo/vod/268.jpg" group-title="VOD General",American Ultra
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/268.ts
-#EXTINF:-1 tvg-id="" tvg-name="American Sniper" tvg-logo="http://iptv.sharing2all.net/logo/vod/229.jpg" group-title="VOD General",American Sniper
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/229.ts
-#EXTINF:-1 tvg-id="" tvg-name="Algerie Pour Toujours Les Portes Du Soleil" tvg-logo="http://iptv.sharing2all.net/logo/vod/260.jpg" group-title="VOD General",Algerie Pour Toujours Les Portes Du Soleil
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/260.ts
-#EXTINF:-1 tvg-id="" tvg-name="71" tvg-logo="http://iptv.sharing2all.net/logo/vod/236.jpg" group-title="VOD General",71
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/236.ts
-#EXTINF:-1 tvg-id="" tvg-name="2035" tvg-logo="http://iptv.sharing2all.net/logo/vod/252.jpg" group-title="VOD General",2035
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ocean's 11 Eleven" tvg-logo="http://iptv.sharing2all.net/logo/vod/528.jpg" group-title="VOD General",Ocean's 11 Eleven
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/528.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ocean's 12 Twelve" tvg-logo="http://iptv.sharing2all.net/logo/vod/527.jpg" group-title="VOD General",Ocean's 12 Twelve
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/527.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ocean's 13 Thirteen" tvg-logo="http://iptv.sharing2all.net/logo/vod/529.jpg" group-title="VOD General",Ocean's 13 Thirteen
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/529.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Matrix" tvg-logo="http://iptv.sharing2all.net/logo/vod/611.jpg" group-title="VOD General",The Matrix
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/611.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Matrix Reloaded" tvg-logo="http://iptv.sharing2all.net/logo/vod/648.jpg" group-title="VOD General",The Matrix Reloaded
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/648.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Matrix Revolutions" tvg-logo="http://iptv.sharing2all.net/logo/vod/649.jpg" group-title="VOD General",The Matrix Revolutions
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/649.ts
-#EXTINF:-1 tvg-id="" tvg-name="Twilight: chapitre 1 - Fascination" tvg-logo="http://iptv.sharing2all.net/logo/vod/814.jpg" group-title="VOD General",Twilight: chapitre 1 - Fascination
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/814.ts
-#EXTINF:-1 tvg-id="" tvg-name="Twilight: chapitre 2 - Tentation" tvg-logo="http://iptv.sharing2all.net/logo/vod/816.jpg" group-title="VOD General",Twilight: chapitre 2 - Tentation
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/816.ts
-#EXTINF:-1 tvg-id="" tvg-name="Twilight: chapitre 3 - Hésitation" tvg-logo="http://iptv.sharing2all.net/logo/vod/815.jpg" group-title="VOD General",Twilight: chapitre 3 - Hésitation
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/815.ts
-#EXTINF:-1 tvg-id="" tvg-name="Twilight: Chapitre 4 - Révélation, 1ére partie" tvg-logo="http://iptv.sharing2all.net/logo/vod/813.jpg" group-title="VOD General",Twilight: Chapitre 4 - Révélation, 1ére partie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/813.ts
-#EXTINF:-1 tvg-id="" tvg-name="Twilight: Chapitre 5 - Révélation, 2e partie" tvg-logo="http://iptv.sharing2all.net/logo/vod/817.jpg" group-title="VOD General",Twilight: Chapitre 5 - Révélation, 2e partie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/817.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter A L'ecole Des Sorciers" tvg-logo="http://iptv.sharing2all.net/logo/vod/517.jpg" group-title="VOD General",Harry Potter A L'ecole Des Sorciers
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/517.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et La Chambre Des Secrets" tvg-logo="http://iptv.sharing2all.net/logo/vod/518.jpg" group-title="VOD General",Harry Potter Et La Chambre Des Secrets
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/518.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et Le Prisonnier D'azkaban" tvg-logo="http://iptv.sharing2all.net/logo/vod/519.jpg" group-title="VOD General",Harry Potter Et Le Prisonnier D'azkaban
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/519.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et La Coupe De Feu" tvg-logo="http://iptv.sharing2all.net/logo/vod/520.jpg" group-title="VOD General",Harry Potter Et La Coupe De Feu
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/520.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et L'ordre Du Pheonix" tvg-logo="http://iptv.sharing2all.net/logo/vod/521.jpg" group-title="VOD General",Harry Potter Et L'ordre Du Pheonix
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/521.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et Le Prince De Sang Mele" tvg-logo="http://iptv.sharing2all.net/logo/vod/522.jpg" group-title="VOD General",Harry Potter Et Le Prince De Sang Mele
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/522.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et Les Reliques De La Mort Partie 1" tvg-logo="http://iptv.sharing2all.net/logo/vod/524.jpg" group-title="VOD General",Harry Potter Et Les Reliques De La Mort Partie 1
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/524.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Et Les Reliques De La Mort Partie 2" tvg-logo="http://iptv.sharing2all.net/logo/vod/523.jpg" group-title="VOD General",Harry Potter Et Les Reliques De La Mort Partie 2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/523.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harley And The Davidsons E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/654.jpg" group-title="VOD General",Harley And The Davidsons E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/654.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harley And The Davidsons E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/655.jpg" group-title="VOD General",Harley And The Davidsons E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/655.ts
-#EXTINF:-1 tvg-id="" tvg-name="Harley And The Davidsons E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/656.jpg" group-title="VOD General",Harley And The Davidsons E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/656.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sweet November 2001" tvg-logo="http://iptv.sharing2all.net/logo/vod/1019.jpg" group-title="VOD General",Sweet November 2001
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1019.ts
-#EXTINF:-1 tvg-id="" tvg-name="1900 Légende du pianiste sur l'océan" tvg-logo="http://iptv.sharing2all.net/logo/vod/1020.jpg" group-title="VOD General",1900 Légende du pianiste sur l'océan
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1020.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lucy 2014" tvg-logo="http://iptv.sharing2all.net/logo/vod/1021.jpg" group-title="VOD General",Lucy 2014
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1021.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Manga****" tvg-logo="http://iptv.sharing2all.net/logo/cat/vmanga.jpg" group-title="Manga",****Manga****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boruto Naruto The Movie" tvg-logo="http://iptv.sharing2all.net/logo/vod/604.jpg" group-title="Manga",Boruto Naruto The Movie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/604.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ghost In The Shell The New Movie" tvg-logo="http://iptv.sharing2all.net/logo/vod/729.jpg" group-title="Manga",Ghost In The Shell The New Movie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/729.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Battle Of Gods" tvg-logo="http://iptv.sharing2all.net/logo/vod/134.jpg" group-title="Manga",Dragon Ball Z Battle Of Gods
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Resurrection Frizer" tvg-logo="http://iptv.sharing2all.net/logo/vod/265.jpg" group-title="Manga",Dragon Ball Z Resurrection Frizer
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/265.ts
-#EXTINF:-1 tvg-id="" tvg-name="****The Flash S01****" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",****The Flash S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Frappé Par La Foudre" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",Frappé Par La Foudre
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/532.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'homme Le Plus Rapide Du Monde" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",L'homme Le Plus Rapide Du Monde
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/533.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Brume Toxique" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Brume Toxique
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/534.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gelé Sur Place" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",Gelé Sur Place
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/535.ts
-#EXTINF:-1 tvg-id="" tvg-name="Plastique" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",Plastique
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/536.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - La Naissance De Flash" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - La Naissance De Flash
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/537.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Blackout" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Blackout
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/538.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Flash Vs Arrow" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Flash Vs Arrow
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/539.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Rayon Jaune" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Le Rayon Jaune
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/540.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - La Vengeance Des Voleurs" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - La Vengeance Des Voleurs
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/541.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Bruit Et La Fureur" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Le Bruit Et La Fureur
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/542.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Dingue De Toi" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Dingue De Toi
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/543.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'homme Nucluaire" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",L'homme Nucluaire
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/544.ts
-#EXTINF:-1 tvg-id="" tvg-name="Retombees Radioactives" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",Retombees Radioactives
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/545.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Manque De Temps" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Manque De Temps
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/546.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - L'heure Des Lascars" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - L'heure Des Lascars
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/547.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Les Tricksters" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Les Tricksters
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/548.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Réunion De Heros" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Réunion De Heros
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/549.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Qui Est Harrison Wells ?" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Qui Est Harrison Wells ?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/550.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Piége" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Le Piége
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/551.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Grodd Est En Vie" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Grodd Est En Vie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/552.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Alliance De Lascars" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Alliance De Lascars
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/553.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Suffisamment Rapide" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S01",The Flash - Suffisamment Rapide
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/554.ts
-#EXTINF:-1 tvg-id="" tvg-name="****The Flash S02****" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",****The Flash S02****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'homme Qui A Sauvé Central City" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",L'homme Qui A Sauvé Central City
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/556.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - L'autre Monde" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - L'autre Monde
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/557.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Pression Familiale" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Pression Familiale
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/558.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Nouveau Candidat" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Le Nouveau Candidat
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/559.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Un Retour Inattendu" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Un Retour Inattendu
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/560.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Face-a-face" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Le Face-a-face
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/561.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Gare Au Gorille" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Gare Au Gorille
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/562.ts
-#EXTINF:-1 tvg-id="" tvg-name=" Les Légendes D'aujourd'hui" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02", Les Légendes D'aujourd'hui
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/563.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Encore Plus Fort" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Encore Plus Fort
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/564.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Course Au Ralenti" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Course Au Ralenti
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/565.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Un Seul Et Unique" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Un Seul Et Unique
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/566.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Les Pleins Pouvoirs" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Les Pleins Pouvoirs
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'éclair Bleu" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",L'éclair Bleu
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/568.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Flash-back" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Flash-back
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/569.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - L'affrontement" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - L'affrontement
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/570.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Un Héros Ordinaire" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Un Héros Ordinaire
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/571.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Rupture" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Rupture
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/572.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - La Vitesse Pure" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - La Vitesse Pure
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/573.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Invincible" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Invincible
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/574.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Le Duel" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Le Duel
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/575.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - Bienvenue Sur Terre-2" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - Bienvenue Sur Terre-2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/576.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Derniére Bréche" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",La Derniére Bréche
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/577.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Flash - King Shark" tvg-logo="http://iptv.sharing2all.net/logo/vod/534.jpg" group-title="The Flash S02",The Flash - King Shark
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/578.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Supergirl S01****" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",****Supergirl S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Une Nouvelle Héroéne" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Une Nouvelle Héroéne
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/628.ts
-#EXTINF:-1 tvg-id="" tvg-name="Période D'essais" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Période D'essais
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/629.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sans L'ombre De Superman" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Sans L'ombre De Superman
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/630.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mais Comment Fait-elle ?" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Mais Comment Fait-elle ?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/631.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hautes Tensions" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Hautes Tensions
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Plus Loin, Plus Proche" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Plus Loin, Plus Proche
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/633.ts
-#EXTINF:-1 tvg-id="" tvg-name="Devenir Meilleure" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Devenir Meilleure
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/634.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'importance Des Secrets" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",L'importance Des Secrets
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/635.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'instant De Vérité" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",L'instant De Vérité
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/636.ts
-#EXTINF:-1 tvg-id="" tvg-name="Héritage Explosif" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Héritage Explosif
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/637.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Visiteurs" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Les Visiteurs
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/638.ts
-#EXTINF:-1 tvg-id="" tvg-name="Une Place Pour Deux" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Une Place Pour Deux
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/639.ts
-#EXTINF:-1 tvg-id="" tvg-name="Un Monde Parfait" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Un Monde Parfait
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/640.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Rivale" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",La Rivale
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/641.ts
-#EXTINF:-1 tvg-id="" tvg-name="Moment De Solitude" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Moment De Solitude
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/642.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super Méchante" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Super Méchante
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/643.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Véritable Histoire De J'onn J'onzz" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",La Véritable Histoire De J'onn J'onzz
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/644.ts
-#EXTINF:-1 tvg-id="" tvg-name="a Deux C'est Mieux" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",a Deux C'est Mieux
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/645.ts
-#EXTINF:-1 tvg-id="" tvg-name="Alliance De La Derniére Chance" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Alliance De La Derniére Chance
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/646.ts
-#EXTINF:-1 tvg-id="" tvg-name="Condamnée a L'exploit" tvg-logo="http://iptv.sharing2all.net/logo/vod/628.jpg" group-title="Supergirl S01",Condamnée a L'exploit
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/647.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Legends of Tomorrow S01****" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",****Legends of Tomorrow S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Entrer Dans La Légende" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Entrer Dans La Légende
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/612.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'invincible" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",L'invincible
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/613.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tous Les Coups Sont Permis" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Tous Les Coups Sont Permis
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/614.ts
-#EXTINF:-1 tvg-id="" tvg-name="Guerres Froides" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Guerres Froides
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/615.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Prison De Koshmar" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",La Prison De Koshmar
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/616.ts
-#EXTINF:-1 tvg-id="" tvg-name="Destination : 2046" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Destination : 2046
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/617.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Pirates Du Temps" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Les Pirates Du Temps
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/618.ts
-#EXTINF:-1 tvg-id="" tvg-name="Apparence Trompeuse" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Apparence Trompeuse
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/619.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Laissés Pour Compte" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Les Laissés Pour Compte
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/620.ts
-#EXTINF:-1 tvg-id="" tvg-name="L'héritage Familial" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",L'héritage Familial
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/621.ts
-#EXTINF:-1 tvg-id="" tvg-name="Les Huit Mercenaires" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Les Huit Mercenaires
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/622.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dernier Refuge" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Dernier Refuge
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/623.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Léviathan" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Le Léviathan
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/624.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sur Le Fil" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Sur Le Fil
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/625.ts
-#EXTINF:-1 tvg-id="" tvg-name="Le Point De Fuite" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Le Point De Fuite
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/626.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rester Des Légendes" tvg-logo="http://iptv.sharing2all.net/logo/vod/612.jpg" group-title="Legends of Tomorrow S01",Rester Des Légendes
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/627.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Iron Fist S01****" tvg-logo="" group-title="Marvels Iron Fist S01",****Iron Fist S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP01" tvg-logo="http://iptv.sharing2all.net/logo/vod/733.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP02" tvg-logo="http://iptv.sharing2all.net/logo/vod/734.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/734.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP03" tvg-logo="http://iptv.sharing2all.net/logo/vod/735.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP04" tvg-logo="http://iptv.sharing2all.net/logo/vod/736.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/736.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP05" tvg-logo="http://iptv.sharing2all.net/logo/vod/737.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/737.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP06" tvg-logo="http://iptv.sharing2all.net/logo/vod/738.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/738.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP07" tvg-logo="http://iptv.sharing2all.net/logo/vod/739.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP08" tvg-logo="http://iptv.sharing2all.net/logo/vod/740.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/740.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP09" tvg-logo="http://iptv.sharing2all.net/logo/vod/741.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/741.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP10" tvg-logo="http://iptv.sharing2all.net/logo/vod/742.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP11" tvg-logo="http://iptv.sharing2all.net/logo/vod/743.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP12" tvg-logo="http://iptv.sharing2all.net/logo/vod/744.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/744.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iron Fist EP13" tvg-logo="http://iptv.sharing2all.net/logo/vod/745.jpg" group-title="Marvels Iron Fist S01",Iron Fist EP13
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/745.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Mars S01****" tvg-logo="" group-title="Mars S01",****Mars S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/599.jpg" group-title="Mars S01",Mars E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/599.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/600.jpg" group-title="Mars S01",Mars E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/600.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/601.jpg" group-title="Mars S01",Mars E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/601.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/602.jpg" group-title="Mars S01",Mars E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/602.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/603.jpg" group-title="Mars S01",Mars E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/603.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mars E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/608.jpg" group-title="Mars S01",Mars E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/608.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Sense8 S01****" tvg-logo="" group-title="Sense8 S01",****Sense8 S01****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP1 Résonance Limbique" tvg-logo="http://iptv.sharing2all.net/logo/vod/782.jpg" group-title="Sense8 S01",Sense8 EP1 Résonance Limbique
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/782.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP2 Nous Sommes Unis" tvg-logo="http://iptv.sharing2all.net/logo/vod/783.jpg" group-title="Sense8 S01",Sense8 EP2 Nous Sommes Unis
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/783.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP3 Les Paris Sont Sur Le Sac D'os" tvg-logo="http://iptv.sharing2all.net/logo/vod/784.jpg" group-title="Sense8 S01",Sense8 EP3 Les Paris Sont Sur Le Sac D'os
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/784.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP4 What's Going On?" tvg-logo="http://iptv.sharing2all.net/logo/vod/785.jpg" group-title="Sense8 S01",Sense8 EP4 What's Going On?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/785.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP5 L'art C'est Comme Une Religion" tvg-logo="http://iptv.sharing2all.net/logo/vod/786.jpg" group-title="Sense8 S01",Sense8 EP5 L'art C'est Comme Une Religion
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP6 Le Démon" tvg-logo="http://iptv.sharing2all.net/logo/vod/787.jpg" group-title="Sense8 S01",Sense8 EP6 Le Démon
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/787.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP7 élémentaire, Mon Cher Watson" tvg-logo="http://iptv.sharing2all.net/logo/vod/788.jpg" group-title="Sense8 S01",Sense8 EP7 élémentaire, Mon Cher Watson
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/788.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP8 Nous Serons Tous Jugés à La Valeur De Notre Coeur" tvg-logo="http://iptv.sharing2all.net/logo/vod/789.jpg" group-title="Sense8 S01",Sense8 EP8 Nous Serons Tous Jugés à La Valeur De Notre Coeur
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/789.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP9 La Mort Ne Nous Laisse Pas Dire Au Revoir" tvg-logo="http://iptv.sharing2all.net/logo/vod/790.jpg" group-title="Sense8 S01",Sense8 EP9 La Mort Ne Nous Laisse Pas Dire Au Revoir
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/790.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP10 Qu'est-ce Qu'étre Humain ?" tvg-logo="http://iptv.sharing2all.net/logo/vod/791.jpg" group-title="Sense8 S01",Sense8 EP10 Qu'est-ce Qu'étre Humain ?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/791.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP11 Fais Demi-tour Et Change L'avenir" tvg-logo="http://iptv.sharing2all.net/logo/vod/792.jpg" group-title="Sense8 S01",Sense8 EP11 Fais Demi-tour Et Change L'avenir
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/792.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP12 Je Ne Peux Pas L'abandonner" tvg-logo="http://iptv.sharing2all.net/logo/vod/793.jpg" group-title="Sense8 S01",Sense8 EP12 Je Ne Peux Pas L'abandonner
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/793.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Sense8 S02****" tvg-logo="" group-title="Sense8 S02",****Sense8 S02****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 E00 Une p*** de bonne année a tous" tvg-logo="http://iptv.sharing2all.net/logo/vod/794.jpg" group-title="Sense8 S02",Sense8 E00 Une p*** de bonne année a tous
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/794.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP1 Qui suis-je ?" tvg-logo="http://iptv.sharing2all.net/logo/vod/795.jpg" group-title="Sense8 S02",Sense8 EP1 Qui suis-je ?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/795.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP2 Vivre en symbiose" tvg-logo="http://iptv.sharing2all.net/logo/vod/796.jpg" group-title="Sense8 S02",Sense8 EP2 Vivre en symbiose
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/796.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP3 Polyphonie" tvg-logo="http://iptv.sharing2all.net/logo/vod/797.jpg" group-title="Sense8 S02",Sense8 EP3 Polyphonie
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/797.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP4 La peur ne résout rien" tvg-logo="http://iptv.sharing2all.net/logo/vod/798.jpg" group-title="Sense8 S02",Sense8 EP4 La peur ne résout rien
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/798.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP5 Isolés en surface, mais connectés en dessous" tvg-logo="http://iptv.sharing2all.net/logo/vod/799.jpg" group-title="Sense8 S02",Sense8 EP5 Isolés en surface, mais connectés en dessous
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/799.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP6 Il n'y a aucune place dans mon coeur pour la haine" tvg-logo="http://iptv.sharing2all.net/logo/vod/800.jpg" group-title="Sense8 S02",Sense8 EP6 Il n'y a aucune place dans mon coeur pour la haine
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/800.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP7 Tout ce que je veux, c'est une balle de plus" tvg-logo="http://iptv.sharing2all.net/logo/vod/801.jpg" group-title="Sense8 S02",Sense8 EP7 Tout ce que je veux, c'est une balle de plus
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/801.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP8 Ce qu'était vraiment la famille" tvg-logo="http://iptv.sharing2all.net/logo/vod/802.jpg" group-title="Sense8 S02",Sense8 EP8 Ce qu'était vraiment la famille
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/802.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP9 Si le monde est une scéne, alors L'identité n'est rien de plus qu'un costume" tvg-logo="http://iptv.sharing2all.net/logo/vod/803.jpg" group-title="Sense8 S02",Sense8 EP9 Si le monde est une scéne, alors L'identité n'est rien de plus qu'un costume
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/803.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sense8 EP10 Tu veux la guerre ?" tvg-logo="http://iptv.sharing2all.net/logo/vod/804.jpg" group-title="Sense8 S02",Sense8 EP10 Tu veux la guerre ?
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/804.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Game Of Throne****" tvg-logo="" group-title="Game Of Throne",****Game Of Throne****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/835.jpg" group-title="Game Of Throne",Game Of Thrones S01 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/834.jpg" group-title="Game Of Throne",Game Of Thrones S01 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/834.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/833.jpg" group-title="Game Of Throne",Game Of Thrones S01 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/833.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/832.jpg" group-title="Game Of Throne",Game Of Thrones S01 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/832.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/831.jpg" group-title="Game Of Throne",Game Of Thrones S01 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/830.jpg" group-title="Game Of Throne",Game Of Thrones S01 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/829.jpg" group-title="Game Of Throne",Game Of Thrones S01 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/829.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/828.jpg" group-title="Game Of Throne",Game Of Thrones S01 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/827.jpg" group-title="Game Of Throne",Game Of Thrones S01 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S01 E10 FINAL" tvg-logo="http://iptv.sharing2all.net/logo/vod/826.jpg" group-title="Game Of Throne",Game Of Thrones S01 E10 FINAL
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/826.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/836.jpg" group-title="Game Of Throne",Game Of Thrones S02 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/836.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/837.jpg" group-title="Game Of Throne",Game Of Thrones S02 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/837.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/838.jpg" group-title="Game Of Throne",Game Of Thrones S02 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/838.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/839.jpg" group-title="Game Of Throne",Game Of Thrones S02 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/839.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/840.jpg" group-title="Game Of Throne",Game Of Thrones S02 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/840.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/841.jpg" group-title="Game Of Throne",Game Of Thrones S02 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/841.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/842.jpg" group-title="Game Of Throne",Game Of Thrones S02 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/842.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/843.jpg" group-title="Game Of Throne",Game Of Thrones S02 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/843.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/844.jpg" group-title="Game Of Throne",Game Of Thrones S02 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/844.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S02 E10 FINAL" tvg-logo="http://iptv.sharing2all.net/logo/vod/845.jpg" group-title="Game Of Throne",Game Of Thrones S02 E10 FINAL
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/846.jpg" group-title="Game Of Throne",Game Of Thrones S03 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/846.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/847.jpg" group-title="Game Of Throne",Game Of Thrones S03 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/847.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/848.jpg" group-title="Game Of Throne",Game Of Thrones S03 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/849.jpg" group-title="Game Of Throne",Game Of Thrones S03 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/849.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/850.jpg" group-title="Game Of Throne",Game Of Thrones S03 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/851.jpg" group-title="Game Of Throne",Game Of Thrones S03 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/851.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/852.jpg" group-title="Game Of Throne",Game Of Thrones S03 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/852.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/853.jpg" group-title="Game Of Throne",Game Of Thrones S03 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/853.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/854.jpg" group-title="Game Of Throne",Game Of Thrones S03 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/854.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S03 E10 FINAL " tvg-logo="http://iptv.sharing2all.net/logo/vod/855.jpg" group-title="Game Of Throne",Game Of Thrones S03 E10 FINAL 
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/855.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/856.jpg" group-title="Game Of Throne",Game Of Thrones S04E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/857.jpg" group-title="Game Of Throne",Game Of Thrones S04E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/858.jpg" group-title="Game Of Throne",Game Of Thrones S04E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/858.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/859.jpg" group-title="Game Of Throne",Game Of Thrones S04E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/859.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/860.jpg" group-title="Game Of Throne",Game Of Thrones S04E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/860.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/861.jpg" group-title="Game Of Throne",Game Of Thrones S04E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/861.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/862.jpg" group-title="Game Of Throne",Game Of Thrones S04E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/862.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/863.jpg" group-title="Game Of Throne",Game Of Thrones S04E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/863.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/864.jpg" group-title="Game Of Throne",Game Of Thrones S04E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/864.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S04E10 FINAL" tvg-logo="http://iptv.sharing2all.net/logo/vod/865.jpg" group-title="Game Of Throne",Game Of Thrones S04E10 FINAL
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/865.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/866.jpg" group-title="Game Of Throne",Game Of Thrones S05E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/866.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/867.jpg" group-title="Game Of Throne",Game Of Thrones S05E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/867.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/868.jpg" group-title="Game Of Throne",Game Of Thrones S05E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/868.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/869.jpg" group-title="Game Of Throne",Game Of Thrones S05E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/869.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/870.jpg" group-title="Game Of Throne",Game Of Thrones S05E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/870.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/871.jpg" group-title="Game Of Throne",Game Of Thrones S05E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/871.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/872.jpg" group-title="Game Of Throne",Game Of Thrones S05E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/872.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/873.jpg" group-title="Game Of Throne",Game Of Thrones S05E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/873.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/874.jpg" group-title="Game Of Throne",Game Of Thrones S05E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/874.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S05E10 FINAL " tvg-logo="http://iptv.sharing2all.net/logo/vod/875.jpg" group-title="Game Of Throne",Game Of Thrones S05E10 FINAL 
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/875.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/876.jpg" group-title="Game Of Throne",Game Of Thrones S06E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/876.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/877.jpg" group-title="Game Of Throne",Game Of Thrones S06E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/877.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/878.jpg" group-title="Game Of Throne",Game Of Thrones S06E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/879.jpg" group-title="Game Of Throne",Game Of Thrones S06E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/880.jpg" group-title="Game Of Throne",Game Of Thrones S06E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/880.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/881.jpg" group-title="Game Of Throne",Game Of Thrones S06E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/881.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/882.jpg" group-title="Game Of Throne",Game Of Thrones S06E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/882.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/883.jpg" group-title="Game Of Throne",Game Of Thrones S06E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/883.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/884.jpg" group-title="Game Of Throne",Game Of Thrones S06E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/884.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S06E10 FINAL" tvg-logo="http://iptv.sharing2all.net/logo/vod/885.jpg" group-title="Game Of Throne",Game Of Thrones S06E10 FINAL
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/885.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E1" tvg-logo="http://iptv.sharing2all.net/logo/vod/819.jpg" group-title="Game Of Throne",Game Of Thrones S07 E1
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/819.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E2" tvg-logo="http://iptv.sharing2all.net/logo/vod/820.jpg" group-title="Game Of Throne",Game Of Thrones S07 E2
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/820.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E3" tvg-logo="http://iptv.sharing2all.net/logo/vod/821.jpg" group-title="Game Of Throne",Game Of Thrones S07 E3
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/821.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E4" tvg-logo="http://iptv.sharing2all.net/logo/vod/822.jpg" group-title="Game Of Throne",Game Of Thrones S07 E4
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/822.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E5" tvg-logo="http://iptv.sharing2all.net/logo/vod/823.jpg" group-title="Game Of Throne",Game Of Thrones S07 E5
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/823.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E6" tvg-logo="http://iptv.sharing2all.net/logo/vod/824.jpg" group-title="Game Of Throne",Game Of Thrones S07 E6
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/824.ts
-#EXTINF:-1 tvg-id="" tvg-name="Game Of Thrones S07 E7 Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/825.jpg" group-title="Game Of Throne",Game Of Thrones S07 E7 Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/825.ts
-#EXTINF:-1 tvg-id="" tvg-name="*-*-* Prison Break 2017 Yacinov *-*-*" tvg-logo="" group-title="Prison Break 2017",*-*-* Prison Break 2017 Yacinov *-*-*
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/888.jpg" group-title="Prison Break 2017",Prison Break S05E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/888.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/889.jpg" group-title="Prison Break 2017",Prison Break S05E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/889.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/890.jpg" group-title="Prison Break 2017",Prison Break S05E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/890.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/891.jpg" group-title="Prison Break 2017",Prison Break S05E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/891.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/892.jpg" group-title="Prison Break 2017",Prison Break S05E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/892.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/893.jpg" group-title="Prison Break 2017",Prison Break S05E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/893.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/894.jpg" group-title="Prison Break 2017",Prison Break S05E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/894.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/895.jpg" group-title="Prison Break 2017",Prison Break S05E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/895.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break S05E09 Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/896.jpg" group-title="Prison Break 2017",Prison Break S05E09 Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/896.ts
-#EXTINF:-1 tvg-id="" tvg-name="*-*-*Breaking Bad Full *-*-*" tvg-logo="" group-title="Breaking Bad Intégral",*-*-*Breaking Bad Full *-*-*
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/897.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/897.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/898.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/898.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/899.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/899.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/900.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/900.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/901.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/902.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/902.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01 E07 Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/903.jpg" group-title="Breaking Bad Intégral",Breaking Bad S01 E07 Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/903.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/904.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/904.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/905.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/905.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/906.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/906.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/907.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/907.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/908.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/908.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/909.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/909.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/910.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/910.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/911.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/911.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/912.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/912.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/913.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/913.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/914.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/914.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/915.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/915.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02 E13 Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/916.jpg" group-title="Breaking Bad Intégral",Breaking Bad S02 E13 Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/916.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/917.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/917.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/918.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/918.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/919.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/919.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/920.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/920.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/921.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/921.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/922.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/922.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/923.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/924.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/924.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/925.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/925.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/926.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/926.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/927.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/927.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/928.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/928.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03 E13 Final " tvg-logo="http://iptv.sharing2all.net/logo/vod/929.jpg" group-title="Breaking Bad Intégral",Breaking Bad S03 E13 Final 
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/929.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/930.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/930.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/931.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/931.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/932.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/932.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/933.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/933.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/934.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/934.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/935.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/935.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/936.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/936.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/937.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/937.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/938.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/938.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/939.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/939.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/940.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/940.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/941.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/941.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04 E13 Final " tvg-logo="http://iptv.sharing2all.net/logo/vod/942.jpg" group-title="Breaking Bad Intégral",Breaking Bad S04 E13 Final 
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/942.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/943.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/943.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/944.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/944.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/945.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/945.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/946.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/946.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/947.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/947.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/948.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/948.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/949.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/949.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/950.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/950.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/951.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/951.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/952.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/952.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/953.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/953.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/954.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/954.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E13" tvg-logo="http://iptv.sharing2all.net/logo/vod/955.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E13
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/955.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E14" tvg-logo="http://iptv.sharing2all.net/logo/vod/956.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E14
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/956.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E15" tvg-logo="http://iptv.sharing2all.net/logo/vod/957.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E15
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/957.ts
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05 E16 Final" tvg-logo="http://iptv.sharing2all.net/logo/vod/958.jpg" group-title="Breaking Bad Intégral",Breaking Bad S05 E16 Final
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/958.ts
-#EXTINF:-1 tvg-id="" tvg-name="****Dallas****" tvg-logo="" group-title="Dallas",****Dallas****
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/0.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/979.jpg" group-title="Dallas",Dallas 2012 S01E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/979.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/980.jpg" group-title="Dallas",Dallas 2012 S01E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/980.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/981.jpg" group-title="Dallas",Dallas 2012 S01E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/981.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/982.jpg" group-title="Dallas",Dallas 2012 S01E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/982.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/983.jpg" group-title="Dallas",Dallas 2012 S01E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/983.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/984.jpg" group-title="Dallas",Dallas 2012 S01E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/984.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/985.jpg" group-title="Dallas",Dallas 2012 S01E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/985.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/986.jpg" group-title="Dallas",Dallas 2012 S01E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/986.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/987.jpg" group-title="Dallas",Dallas 2012 S01E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/987.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S01E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/988.jpg" group-title="Dallas",Dallas 2012 S01E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/988.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/989.jpg" group-title="Dallas",Dallas 2012 S02E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/989.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/990.jpg" group-title="Dallas",Dallas 2012 S02E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/990.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/991.jpg" group-title="Dallas",Dallas 2012 S02E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/991.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/992.jpg" group-title="Dallas",Dallas 2012 S02E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/992.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/993.jpg" group-title="Dallas",Dallas 2012 S02E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/993.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/994.jpg" group-title="Dallas",Dallas 2012 S02E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/994.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/995.jpg" group-title="Dallas",Dallas 2012 S02E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/995.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/996.jpg" group-title="Dallas",Dallas 2012 S02E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/996.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/997.jpg" group-title="Dallas",Dallas 2012 S02E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/997.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/998.jpg" group-title="Dallas",Dallas 2012 S02E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/998.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/999.jpg" group-title="Dallas",Dallas 2012 S02E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/999.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/1000.jpg" group-title="Dallas",Dallas 2012 S02E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1000.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E13" tvg-logo="http://iptv.sharing2all.net/logo/vod/1001.jpg" group-title="Dallas",Dallas 2012 S02E13
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1001.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E14" tvg-logo="http://iptv.sharing2all.net/logo/vod/1002.jpg" group-title="Dallas",Dallas 2012 S02E14
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1002.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S02E15" tvg-logo="http://iptv.sharing2all.net/logo/vod/1003.jpg" group-title="Dallas",Dallas 2012 S02E15
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1003.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E01" tvg-logo="http://iptv.sharing2all.net/logo/vod/1004.jpg" group-title="Dallas",Dallas 2012 S03E01
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1004.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E02" tvg-logo="http://iptv.sharing2all.net/logo/vod/1005.jpg" group-title="Dallas",Dallas 2012 S03E02
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1005.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E03" tvg-logo="http://iptv.sharing2all.net/logo/vod/1006.jpg" group-title="Dallas",Dallas 2012 S03E03
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1006.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E04" tvg-logo="http://iptv.sharing2all.net/logo/vod/1007.jpg" group-title="Dallas",Dallas 2012 S03E04
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1007.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E05" tvg-logo="http://iptv.sharing2all.net/logo/vod/1008.jpg" group-title="Dallas",Dallas 2012 S03E05
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1008.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E06" tvg-logo="http://iptv.sharing2all.net/logo/vod/1009.jpg" group-title="Dallas",Dallas 2012 S03E06
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1009.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E07" tvg-logo="http://iptv.sharing2all.net/logo/vod/1010.jpg" group-title="Dallas",Dallas 2012 S03E07
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1010.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E08" tvg-logo="http://iptv.sharing2all.net/logo/vod/1011.jpg" group-title="Dallas",Dallas 2012 S03E08
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1011.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E09" tvg-logo="http://iptv.sharing2all.net/logo/vod/1012.jpg" group-title="Dallas",Dallas 2012 S03E09
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1012.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E10" tvg-logo="http://iptv.sharing2all.net/logo/vod/1013.jpg" group-title="Dallas",Dallas 2012 S03E10
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1013.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E11" tvg-logo="http://iptv.sharing2all.net/logo/vod/1014.jpg" group-title="Dallas",Dallas 2012 S03E11
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1014.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E12" tvg-logo="http://iptv.sharing2all.net/logo/vod/1015.jpg" group-title="Dallas",Dallas 2012 S03E12
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1015.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E13" tvg-logo="http://iptv.sharing2all.net/logo/vod/1016.jpg" group-title="Dallas",Dallas 2012 S03E13
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1016.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E14" tvg-logo="http://iptv.sharing2all.net/logo/vod/1017.jpg" group-title="Dallas",Dallas 2012 S03E14
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1017.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E15" tvg-logo="http://iptv.sharing2all.net/logo/vod/1018.jpg" group-title="Dallas",Dallas 2012 S03E15
-http://iptv.magsat.tv:80/movie/MagSat/WoodyAllen/1018.ts
