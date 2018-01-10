@@ -26,7 +26,7 @@
 	<news>Special Thanks To Aftermath For Wizard Base And Smash, The Turtle, Klepton For Cache And Internet Tools!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.6" provider-name="Judgement/sClarke">
+<addon id="plugin.video.judgementiptv" name="Judgement IPTV" version="1.7" provider-name="Judgement/sClarke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
