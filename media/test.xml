@@ -2,12 +2,18 @@
  
 <channels>
 
-<channel>
-<name>[COLOR blueviolet]Test[/COLOR]</name>
-<thumbnail>https://4.bp.blogspot.com/-bQ9-LlY_XgE/WO5_hqgoe1I/AAAAAAAAAJs/iRzGMm9bPDUFc9zD8oNqZ8nKYRnEj0wDACLcB/s1600/sports.png</thumbnail>
-<externallink>https://www.liveonlinetv247.info/bbcone.php</externallink>
-<fanart>https://ak0.picdn.net/shutterstock/videos/22276030/thumb/12.jpg</fanart>
-<info>BT Sports</info>
-</channel>
-
+<item>
+<title>[COLOR dodgerblue]BBC 1[/COLOR]</title>
+<link>https://www.liveonlinetv247.info/bbcone.php</link>
+<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+ 
 </channels>
+
+<item>
+<title>[COLOR dodgerblue]BBC 1 (2)[/COLOR]</title>
+<link>https://www.liveonlinetv247.info/bbcone.php</link>
+<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
