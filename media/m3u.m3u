@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- Tunisie -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- Tunisie -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10153.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="TN_WATANIA1" tvg-logo="" group-title="TUNISIA",TN_WATANIA1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="TN_WATANIA2" tvg-logo="" group-title="TUNISIA",TN_WATANIA2
@@ -35,8 +33,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10018.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="TN_JAWHARA_FM" tvg-logo="" group-title="TUNISIA",TN_JAWHARA_FM
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5185.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- ALGERIE -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- ALGERIE -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10154.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ALG_BERBERE_JEUNESSE" tvg-logo="" group-title="ALGERIE",ALG_BERBERE_JEUNESSE
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8619.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ALG_ALMAGHRIBIA2" tvg-logo="" group-title="ALGERIE",ALG_ALMAGHRIBIA2
@@ -85,8 +81,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8707.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ALG_DZAIR_NEWS" tvg-logo="" group-title="ALGERIE",ALG_DZAIR_NEWS
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10080.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- MARROC -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- MARROC -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10155.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MA_ALOULA_INT" tvg-logo="" group-title="MAROC",MA_ALOULA_INT
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MA_ALMAGHRIBIA" tvg-logo="" group-title="MAROC",MA_ALMAGHRIBIA
@@ -107,8 +101,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10082.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MA_TELE_MAROC" tvg-logo="" group-title="MAROC",MA_TELE_MAROC
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10084.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- ART -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- ART -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10169.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ART_AFLAM_1" tvg-logo="" group-title="ART",ART_AFLAM_1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ART_AFLAM_2" tvg-logo="" group-title="ART",ART_AFLAM_2
@@ -119,8 +111,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ART_Hikeyet_2" tvg-logo="" group-title="ART",ART_Hikeyet_2
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- MBC -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- MBC -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10157.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MBC1" tvg-logo="" group-title="MBC",MBC1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MBC2" tvg-logo="" group-title="MBC",MBC2
@@ -147,8 +137,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_PRO_SP3_HD" tvg-logo="" group-title="SPORT_ARAB",AR_MBC_PRO_SP3_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6027.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- CINEMA_ARAB -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- CINEMA_ARAB -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Nile_drama" tvg-logo="" group-title="NILESAT",Nile_drama
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Nilecinema" tvg-logo="" group-title="NILESAT",Nilecinema
@@ -163,10 +151,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7398.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Nilesport" tvg-logo="" group-title="NILESAT",Nilesport
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="-------------------BERBERE MUSIC" tvg-logo="" group-title="ALGERIE",-------------------BERBERE MUSIC
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8615.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- TIME_CHANNELS -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- TIME_CHANNELS -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10168.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_DOLLY_MOUSALSALAT" tvg-logo="" group-title="DRAMA_ARAB",AR_DOLLY_MOUSALSALAT
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8721.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SY_SAMA_TV_SYRIA" tvg-logo="" group-title="SYRIA",SY_SAMA_TV_SYRIA
@@ -209,8 +193,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6228.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Zeealwan" tvg-logo="" group-title="CINEMA_ARAB",Zeealwan
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----DRAMA_ARAB-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----DRAMA_ARAB-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama" tvg-logo="" group-title="NILESAT",AR_Panorama_Drama
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6208.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama2" tvg-logo="" group-title="NILESAT",AR_Panorama_Drama2
@@ -239,8 +221,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8624.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="EGYPT_DREAM1_TV" tvg-logo="" group-title="NILESAT",EGYPT_DREAM1_TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8717.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- CBC-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- CBC-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="CBC" tvg-logo="" group-title="NILESAT",CBC
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="CBC_Drama" tvg-logo="" group-title="NILESAT",CBC_Drama
@@ -249,8 +229,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6220.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="CBC_SOFRA" tvg-logo="" group-title="NILESAT",CBC_SOFRA
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5367.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- NILESAT-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- NILESAT-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ARB_DMC_SPORTS" tvg-logo="" group-title="NILESAT",ARB_DMC_SPORTS
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10079.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SYRIA_MEDICAL" tvg-logo="" group-title="NILESAT",SYRIA_MEDICAL
@@ -299,8 +277,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_AGHANI" tvg-logo="" group-title="NILESAT",AR_AGHANI
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8704.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- NILE-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- NILE-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10159.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_KSA1" tvg-logo="" group-title="VIP SAUDI",AR_KSA1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_KSA2" tvg-logo="" group-title="VIP SAUDI",AR_KSA2
@@ -423,8 +399,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5230.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SUD_khaer_sudan" tvg-logo="" group-title="SUDAN TV",SUD_khaer_sudan
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- ROTANA -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- ROTANA -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10158.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Rotana_clip" tvg-logo="" group-title="ROTANA",Rotana_clip
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Rotana_khalijiya" tvg-logo="" group-title="ROTANA",Rotana_khalijiya
@@ -433,8 +407,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ROTANA_MUSIC" tvg-logo="" group-title="ROTANA",ROTANA_MUSIC
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8622.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- ENFANT_ARAB -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- ENFANT_ARAB -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="KIDS_SPACETOON" tvg-logo="" group-title="CARTOON_ARAB",KIDS_SPACETOON
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7633.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MBC3" tvg-logo="" group-title="MBC",MBC3
@@ -449,8 +421,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ar_kids_ajyal" tvg-logo="" group-title="NILESAT",ar_kids_ajyal
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/9923.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- NEWS_ARAB-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- NEWS_ARAB-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10160.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PAL_ALKITAB" tvg-logo="" group-title="PALASTINE",PAL_ALKITAB
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10068.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS_Aljazeera" tvg-logo="" group-title="NEWS_ARAB",NEWS_Aljazeera
@@ -479,10 +449,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8709.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="NEWS_DW_ARABIC" tvg-logo="" group-title="NEWS_ARAB",NEWS_DW_ARABIC
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8699.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- LEBANON -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- LEBANON -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10156.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="----------------TV_ALRIATHIA_LIVE_HD" tvg-logo="" group-title="MAROC",----------------TV_ALRIATHIA_LIVE_HD
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8623.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="MTV_LEBONON" tvg-logo="" group-title="VIP LEBANON",MTV_LEBONON
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7622.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="LB_LBC" tvg-logo="" group-title="VIP LEBANON",LB_LBC
@@ -509,8 +475,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_ALARABY_TV" tvg-logo="" group-title="NILESAT",AR_ALARABY_TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SPORTS_ARAB-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SPORTS_ARAB-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10164.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_BeinSport_News" tvg-logo="" group-title="BEINSPORT_HD",AR_BeinSport_News
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7553.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AD_SPORTS_HD_2" tvg-logo="" group-title="EMIRATE",AD_SPORTS_HD_2
@@ -523,10 +487,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5220.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Spo_Saudi_sport1" tvg-logo="" group-title="VIP SAUDI",Spo_Saudi_sport1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="-----------------AR_SeeVii_Aloula_HD" tvg-logo="" group-title="NILESAT",-----------------AR_SeeVii_Aloula_HD
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8626.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- RELIGION_ARAB -----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- RELIGION_ARAB -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10165.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IQRAA" tvg-logo="" group-title="ISLAM",IQRAA
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7397.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ksa_KORAN_HD" tvg-logo="" group-title="VIP SAUDI",ksa_KORAN_HD
@@ -569,8 +529,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6060.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Canale5_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Canale5_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5943.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_CINEMA-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_CINEMA-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Cinema1_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Cinema1_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5876.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Cinema+1_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Cinema+1_HD
@@ -595,8 +553,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5877.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_SKY_3D" tvg-logo="" group-title="SKY_ITALY_HD",IT_SKY_3D
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6790.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_SPORTS-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_SPORTS-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Sport1_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Sport1_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5852.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Sport2_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Sport2_HD
@@ -645,8 +601,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7766.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Atlantic_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Atlantic_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5881.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_ENTERTAINMENT-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_ENTERTAINMENT-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_RETE55" tvg-logo="" group-title="SKY_ITALY_HD",IT_RETE55
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5904.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Fox_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Fox_HD
@@ -727,8 +681,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6141.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_super" tvg-logo="" group-title="SKY_ITALY_HD",IT_super
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6109.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_DOCUMENTS-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_DOCUMENTS-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10190.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Pesca_e_Caccia" tvg-logo="" group-title="SKY_ITALY_HD",IT_Pesca_e_Caccia
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5882.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_National_Geo_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_National_Geo_HD
@@ -749,8 +701,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6094.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_VIDEO_CALABRIA_TV" tvg-logo="" group-title="SKY_ITALY_HD",IT_VIDEO_CALABRIA_TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6111.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_KIDS-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_KIDS-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_SKY_CARTOON_NETWORK" tvg-logo="" group-title="SKY_ITALY_HD",IT_SKY_CARTOON_NETWORK
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6102.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_SPORT_VIRTUALLY" tvg-logo="" group-title="SKY_ITALY_HD",IT_SPORT_VIRTUALLY
@@ -769,8 +719,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6100.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Rai_Gulp" tvg-logo="" group-title="SKY_ITALY_HD",IT_Rai_Gulp
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6101.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_GENERAL-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_GENERAL-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_SkyTG_24" tvg-logo="" group-title="SKY_ITALY_HD",IT_SkyTG_24
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6138.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_TG_24" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_TG_24
@@ -783,8 +731,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6126.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_M2o_Tv" tvg-logo="" group-title="SKY_ITALY_HD",IT_M2o_Tv
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6136.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SKY_ITALY_PRIMAFILLA-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SKY_ITALY_PRIMAFILLA-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10192.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Primafila1_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Primafila1_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5885.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Sky_Primafila2_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Sky_Primafila2_HD
@@ -823,8 +769,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5902.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_MTV BRAND NEW" tvg-logo="" group-title="SKY_ITALY_HD",IT_MTV BRAND NEW
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5903.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----PREMIUM_CINEMA-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----PREMIUM_CINEMA-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10194.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Premium_Cinema_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Premium_Cinema_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5920.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Premium_Cinema2_HD" tvg-logo="" group-title="SKY_ITALY_HD",IT_Premium_Cinema2_HD
@@ -871,8 +815,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5918.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_PREMIUM_K2" tvg-logo="" group-title="SKY_ITALY_HD",IT_PREMIUM_K2
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6115.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----PREMIUM_SPORTS-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----PREMIUM_SPORTS-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10193.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Premium_CARTOON_NETWORK" tvg-logo="" group-title="SKY_ITALY_HD",IT_Premium_CARTOON_NETWORK
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6123.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Premium_Sport" tvg-logo="" group-title="SKY_ITALY_HD",IT_Premium_Sport
@@ -895,8 +837,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6121.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IT_Premium_JOI+24" tvg-logo="" group-title="SKY_ITALY_HD",IT_Premium_JOI+24
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6122.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- BEINSPORT_GROUP1-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- BEINSPORT_GROUP1-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10180.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport1HD" tvg-logo="" group-title="BEINSPORT_HD",Beinsport1HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport2HD" tvg-logo="" group-title="BEINSPORT_HD",Beinsport2HD
@@ -921,8 +861,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Beinsport12HD" tvg-logo="" group-title="BEINSPORT_HD",Beinsport12HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----MOVIESTARS-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----MOVIESTARS-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10197.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="M_Futbol" tvg-logo="" group-title="Movistar+_SPAIN",M_Futbol
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5430.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SP_Canal_Liga_HD" tvg-logo="" group-title="Movistar+_SPAIN",SP_Canal_Liga_HD
@@ -1169,8 +1107,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13827.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ES_TAQUILLA9" tvg-logo="" group-title="Movistar+_SPAIN",ES_TAQUILLA9
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13828.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----SKY_DE-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----SKY_DE-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10196.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="ARD.de" tvg-name="DE_ARD1_HD" tvg-logo="" group-title="SKY_GERMANY",DE_ARD1_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6804.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="ZDF.de" tvg-name="DE_ZDF_HD" tvg-logo="" group-title="SKY_GERMANY",DE_ZDF_HD
@@ -1539,8 +1475,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16056.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="DE:SKY Germany Bundesliga 2 HD" tvg-logo="" group-title="SPORTS",DE:SKY Germany Bundesliga 2 HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16055.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- BEINSPORT_GROUP2-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- BEINSPORT_GROUP2-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10181.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR5_BEIN_1SD" tvg-logo="" group-title="BEINSPORT_HD",AR5_BEIN_1SD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5057.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR5_BEIN_2SD" tvg-logo="" group-title="BEINSPORT_HD",AR5_BEIN_2SD
@@ -1565,8 +1499,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7564.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_BEIN_12HD" tvg-logo="" group-title="BEINSPORT_HD",AR_BEIN_12HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7565.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- BEINSPORT_GROUP3-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- BEINSPORT_GROUP3-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10182.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="beINSPORT01_HD" tvg-logo="" group-title="BEINSPORT_HD",beINSPORT01_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7554.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="beINSPORT02_HD" tvg-logo="" group-title="BEINSPORT_HD",beINSPORT02_HD
@@ -1587,8 +1519,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7562.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="beINSport10" tvg-logo="" group-title="BEINSPORT_HD",beINSport10
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7563.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- BEINSPORT_GROUP4-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- BEINSPORT_GROUP4-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10183.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_BEINSPORT_HD" tvg-logo="" group-title="BEINSPORT_HD",AR_BEINSPORT_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AR_BeinHD_Movies1" tvg-logo="" group-title="BEINSPORT_HD",AR_BeinHD_Movies1
@@ -1623,8 +1553,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/18021.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="BTEST2" tvg-logo="" group-title="BEINSPORT_HD",BTEST2
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/18022.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----SKY_UK-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----SKY_UK-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="UK_SKY_SPORT1_MAIN_EVENT_SD" tvg-logo="" group-title="SKY_UK",UK_SKY_SPORT1_MAIN_EVENT_SD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/12700.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="UK_SKY_SPORT_HD_CRICKET" tvg-logo="" group-title="SKY_UK",UK_SKY_SPORT_HD_CRICKET
@@ -2129,8 +2057,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13767.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="UK_ZEE_CINEMA HD" tvg-logo="" group-title="VIP USA",UK_ZEE_CINEMA HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10002.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----BELGIQUE-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----BELGIQUE-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10195.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="RTSUn.ch" tvg-name="FR_RTS-Un_HD" tvg-logo="" group-title="VIP SWISS",FR_RTS-Un_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/5115.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="RTSDeux.ch" tvg-name="FR_RTS_Deux" tvg-logo="" group-title="VIP SWISS",FR_RTS_Deux
@@ -2269,8 +2195,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/18333.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="VIP CH: UPC MySports" tvg-logo="" group-title="VIP SWISS 2",VIP CH: UPC MySports
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/18327.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----CANAL_NL-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----CANAL_NL-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10199.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Fox_Sports1_Eredivisie" tvg-logo="" group-title="Canal_Digital_holland",Fox_Sports1_Eredivisie
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/3388.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Fox_Sports2_Internationaal" tvg-logo="" group-title="Canal_Digital_holland",Fox_Sports2_Internationaal
@@ -2457,8 +2381,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/18301.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="NL | Bany TV" tvg-logo="" group-title="Canal_Digital_holland",NL | Bany TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/20465.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----NORDIC-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----NORDIC-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10202.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SE_C MORE FIRST" tvg-logo="" group-title="NORWAY",SE_C MORE FIRST
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/11504.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SE_C MORE STARS" tvg-logo="" group-title="NORWAY",SE_C MORE STARS
@@ -2555,8 +2477,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13095.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="SE_NICK_JUNIOR" tvg-logo="" group-title="NORWAY",SE_NICK_JUNIOR
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15186.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----POTTUGAL---" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----POTTUGAL---
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10203.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PT_RTP1_HD" tvg-logo="" group-title="PORTUGAL",PT_RTP1_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7988.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PT_RTP2" tvg-logo="" group-title="PORTUGAL",PT_RTP2
@@ -2589,8 +2509,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7961.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PT_TV_Series_HD" tvg-logo="" group-title="PORTUGAL",PT_TV_Series_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7965.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="------ Portoghesi -/cinemondo----" tvg-logo="" group-title="PORTUGAL",------ Portoghesi -/cinemondo----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7954.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PT_HollyWood_HD" tvg-logo="" group-title="PORTUGAL",PT_HollyWood_HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/8000.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="PT_MOV_HD" tvg-logo="" group-title="PORTUGAL",PT_MOV_HD
@@ -2939,8 +2857,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16453.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL: SKY PLANET -" tvg-logo="" group-title="VIP ALB",AL: SKY PLANET -
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16452.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="----- Sports -----" tvg-logo="" group-title="TURK",----- Sports -----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14083.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport News 1 HD" tvg-logo="" group-title="VIP ALB",AL: Super Sport News 1 HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16450.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Super Sport News 1" tvg-logo="" group-title="VIP ALB",AL: Super Sport News 1
@@ -3181,8 +3097,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16324.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Lugina Serial HD" tvg-logo="" group-title="VIP ALB",AL: Lugina Serial HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16323.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="-------- TV Lokale --------" tvg-logo="" group-title="VIP ALB",-------- TV Lokale --------
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16322.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL: FIRST CHANNEL" tvg-logo="" group-title="VIP ALB",AL: FIRST CHANNEL
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16321.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="AL :Channel One" tvg-logo="" group-title="VIP ALB",AL :Channel One
@@ -3627,8 +3541,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6832.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="ALB_TVSH_SAT" tvg-logo="" group-title="EX_YU",ALB_TVSH_SAT
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/6834.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----INDE_PAKISTAN-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----INDE_PAKISTAN-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10205.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IND_DESI_CHANNEL" tvg-logo="" group-title="INDIA",IND_DESI_CHANNEL
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="IND_ABP_NEWS" tvg-logo="" group-title="INDIA",IND_ABP_NEWS
@@ -4045,8 +3957,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4025.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="HOT30" tvg-logo="" group-title="ADULT",HOT30
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/4026.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----USA----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----USA----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10204.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="USA_TSN_1" tvg-logo="" group-title="VIP USA",USA_TSN_1
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/7850.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="USA_TSN_2" tvg-logo="" group-title="VIP USA",USA_TSN_2
@@ -4763,8 +4673,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15142.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="LA: Win Sports" tvg-logo="" group-title="LATINO",LA: Win Sports
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/15143.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="-------------- Brizilen Channels --------------" tvg-logo="" group-title="BRAZIL",-------------- Brizilen Channels --------------
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16994.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="BR:Sport_Tv" tvg-logo="" group-title="BRAZIL",BR:Sport_Tv
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16946.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="BR:Sport_Tv2" tvg-logo="" group-title="BRAZIL",BR:Sport_Tv2
@@ -5209,8 +5117,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13946.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="BR_TVURBANO" tvg-logo="" group-title="VIP USA",BR_TVURBANO
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/13948.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,-----EXYU----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,-----EXYU----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10201.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="EX YU: PINK" tvg-logo="" group-title="EX_YU",EX YU: PINK
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14890.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="EX YU: PINK 2" tvg-logo="" group-title="EX_YU",EX YU: PINK 2
@@ -5911,8 +5817,6 @@ plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10990.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="KURD_SAHAR_TV" tvg-logo="" group-title="kurdish",KURD_SAHAR_TV
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/14877.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
-#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1,----- SPORTS_ALL-----" tvg-logo="" group-title="MOURTIANA",#EXTINF:-1,----- SPORTS_ALL-----
-plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/10207.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 1 HD
 plugin://plugin.video.f4mTester/?url=http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/16054.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLORblueviolet]SportsHUB[/COLOR]
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3 Hd" tvg-logo="" group-title="SPORTS",Bein Sport 3 Hd
