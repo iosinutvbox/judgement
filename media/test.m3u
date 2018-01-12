@@ -15,12 +15,8 @@ http://
 #EXTINF:-1,***** Please Don't Copy List! *****
 http://
 
-#EXTINF:-1 tvg-id="BBC Red Button 1" tvg-name="BBC Red Button" tvg-logo="http://emby.world/LOGOS/2/bbcrb1.png" group-title="UK ENTERTAINMENT",BBC Red Button
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/8676.m3u8
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD*" tvg-logo="http://superstreams.tv:8080/logos/bbconehd.png" group-title="UK ENTERTAINMENT",BBC One HD*
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11526.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-name="BBC One SD" tvg-logo="http://emby.world/LOGOS/2/bbconehd.png" group-title="UK ENTERTAINMENT",BBC One SD
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.m3u8
+plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=[COLORred]SUPREMACY[/COLOR]
 #EXTINF:-1 tvg-id="BBC TWO" tvg-name="BBC Two HD*" tvg-logo="http://superstreams.tv:8080/logos/bbctwohd.png" group-title="UK ENTERTAINMENT",BBC Two HD*
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/11570.m3u8
 #EXTINF:-1 tvg-id="BBC TWO" tvg-name="BBC Two SD" tvg-logo="http://superstreams.tv:8080logos/bbctwohd.png" group-title="UK ENTERTAINMENT",BBC Two SD
