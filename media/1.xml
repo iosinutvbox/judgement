@@ -1,9 +1,78 @@
 <item>
-<title>[COLOR dodgerblue]Test[/COLOR]</title>
+<title>[COLOR dodgerblue]Sky Movies Action[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesaction.php#
 sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-action#
 </link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Comedy[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescomedy.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-comedy#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Crime[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescrime.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-crime#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Family[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesfamily.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-family#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Disney[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesdisney.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-disney#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Premiere[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviespremiere.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-premiere#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Select[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesselect.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-select#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Showcase[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesshowcase.php#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
 <fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
 </item>
