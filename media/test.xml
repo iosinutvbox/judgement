@@ -3,15 +3,50 @@
 <link>
 sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html#
 sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport1.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35588/77291/Bt_Sport_1_Live_Stream.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vercanalestv.com/tv/deportes/bt-sport-1.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/btsports1#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1#
 </link>
 <thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
 <fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white]BT Sports 1 (2)[/COLOR]</title>
+<title>[COLOR dodgerblue]BT Sports 2[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport2.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport2.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35589/77313/Bt_Sport_2_Live_Stream.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vercanalestv.com/tv/deportes/bt-sport-2.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/btsports2#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2#
+</link>
+<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]BT Sports Europe[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport3.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport3.php#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35590/77283/Bt_Sport_Europe_Live_Stream_.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-europe#
+</link>
+<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]BT Sports Espn[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/btespn.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/channel4.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://liveonlinetv247.info/embed/btsportespn.php#
 </link>
 <thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
 <fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
