@@ -13,15 +13,7 @@
 <channel>
 <name>[COLOR blueviolet]M3U List[/COLOR]</name>
 <thumbnail>https://4.bp.blogspot.com/-bQ9-LlY_XgE/WO5_hqgoe1I/AAAAAAAAAJs/iRzGMm9bPDUFc9zD8oNqZ8nKYRnEj0wDACLcB/s1600/sports.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/iptvmain.m3u</externallink>
-<fanart>https://ak0.picdn.net/shutterstock/videos/22276030/thumb/12.jpg</fanart>
-<info>M3U List</info>
-</channel>
-
-<channel>
-<name>[COLOR blueviolet]M3U List 2[/COLOR]</name>
-<thumbnail>https://4.bp.blogspot.com/-bQ9-LlY_XgE/WO5_hqgoe1I/AAAAAAAAAJs/iRzGMm9bPDUFc9zD8oNqZ8nKYRnEj0wDACLcB/s1600/sports.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/test.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/m3u.m3u</externallink>
 <fanart>https://ak0.picdn.net/shutterstock/videos/22276030/thumb/12.jpg</fanart>
 <info>M3U List</info>
 </channel>
