@@ -1,20 +1,21 @@
-<item>
-<title>[COLOR dodgerblue]Test [/COLOR]</title>
-<link>https://edge1.liveonlinetv247.com/live/skymoviesaction-hq/chunks.m3u8?nimblesessionid=124570&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE4IDU6MTY6NTAgUE0maGFzaF92YWx1ZT1TUkxmWjJDdWZkMmdjMDFFN0hOQXFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTgxLjE3MS43NC4yMzAmc3RybV9sZW49MjM=</link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
-<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
-</item>
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
 
-<item>
-<title>[COLOR dodgerblue]Test (2)[/COLOR]</title>
-<link>http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.m3u8</link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
-<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
-</item>
+<channel>
+<name>[COLOR blueviolet]SportsDevil[/COLOR]</name>
+<thumbnail>https://4.bp.blogspot.com/-bQ9-LlY_XgE/WO5_hqgoe1I/AAAAAAAAAJs/iRzGMm9bPDUFc9zD8oNqZ8nKYRnEj0wDACLcB/s1600/sports.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/1.xml</externallink>
+<fanart>https://ak0.picdn.net/shutterstock/videos/22276030/thumb/12.jpg</fanart>
+<info>SportsDevil</info>
+</channel>
 
-<item>
-<title>[COLOR dodgerblue]Test (3)[/COLOR]</title>
-<link>http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/756.ts</link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
-<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
-</item>
+<channel>
+<name>[COLOR blueviolet]M3U List[/COLOR]</name>
+<thumbnail>https://4.bp.blogspot.com/-bQ9-LlY_XgE/WO5_hqgoe1I/AAAAAAAAAJs/iRzGMm9bPDUFc9zD8oNqZ8nKYRnEj0wDACLcB/s1600/sports.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/2.xml</externallink>
+<fanart>https://ak0.picdn.net/shutterstock/videos/22276030/thumb/12.jpg</fanart>
+<info>M3U List</info>
+</channel>
+
+</channels>
