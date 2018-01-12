@@ -1,34 +1,55 @@
 <item>
 <title>[COLOR dodgerblue]BT Sports 1[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html#
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html#
 </link>
 <thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
 <fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR dodgerblue]BT Sports 1 (2)[/COLOR]</title>
+<title>[B][COLOR white]BT Sports 1[/COLOR][/B]</title>
 <link>
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html([COLOR white]Link 2: Abcast.me[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport1.php([COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35588/77291/Bt_Sport_1_Live_Stream.html([COLOR white]Link 4: Vipgoal.net[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vercanalestv.com/tv/deportes/bt-sport-1.html([COLOR white]Link 5: Vercanalestv.com[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/btsports1([COLOR white]Link 6: Wizhdsports.is[/COLOR][/B])
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1([COLOR white]Link 7: Proxyportal.net[/COLOR][/B])
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])#</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html([COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport1.php([COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35588/77291/Bt_Sport_1_Live_Stream.html([COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vercanalestv.com/tv/deportes/bt-sport-1.html([COLOR white]Link 5: Vercanalestv.com[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/btsports1([COLOR white]Link 6: Wizhdsports.is[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1([COLOR white]Link 7: Proxyportal.net[/COLOR][/B])</sublink>
 </link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
-<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR dodgerblue]BT Sports 1 (3)[/COLOR]</title>
+<plugin>
+<title>[B][COLOR white]BT Sports 2[/COLOR][/B]</title>
 <link>
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1
-sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport1.html
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport2.html([COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport2.php([COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35589/77313/Bt_Sport_2_Live_Stream.html([COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://vercanalestv.com/tv/deportes/bt-sport-2.html([COLOR white]Link 5: Vercanalestv.com[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/btsports2([COLOR white]Link 6: Wizhdsports.is[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2([COLOR white]Link 7: Proxyportal.net[/COLOR][/B])</sublink>
 </link>
-<thumbnail>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/9c4c519b-8856-4dc6-8867-b7300973b9d0/BT_SPORT_PRIMARY_CMYK_CS5.png</thumbnail>
-<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
-</item>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]BT Sports Europe[/COLOR][/B]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/btsport3.html([COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/btsport3.php([COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35590/77283/Bt_Sport_Europe_Live_Stream_.html([COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-europe([COLOR white]Link 5: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]BT Sports Espn[/COLOR][/B]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/btespn.html([COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/channel4.html([COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://liveonlinetv247.info/embed/btsportespn.php([COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+</link>
+</plugin>
