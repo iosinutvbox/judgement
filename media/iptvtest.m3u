@@ -2381,3 +2381,74 @@ http://iptv.magsat.tv:80/movie/MagSat/demissionchadly/1016.ts
 http://iptv.magsat.tv:80/movie/MagSat/demissionchadly/1017.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dallas 2012 S03E15" tvg-logo="http://iptv.sharing2all.net/logo/vod/1018.jpg" group-title="Dallas",Dallas 2012 S03E15
 http://iptv.magsat.tv:80/movie/MagSat/demissionchadly/1018.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Premier League HD [Backup]
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="",UK: Sky Sports Premier League HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="",UK: Sky Sports Mix HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Event HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Main Event HD [Backup]
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="",UK: Sky Sports Football HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Arena HD [Backup]
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="",UK: Sky Sports Arena HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="",UK: Sky Sports Action HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="",UK: BT Sport 2 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="",UK: BT Sport 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="",PT: SPORT TV 5 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="",PT: SPORT TV 4 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="",PT: SPORT TV 3 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="",PT: SPORT TV 2 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="",PT: SPORT TV 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 24 HD" tvg-logo="" group-title="",IT: Sky Sport 24 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 2 HD" tvg-logo="" group-title="",IT: Sky Sport 2 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 1 HD" tvg-logo="" group-title="",IT: Sky Sport 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 3 HD" tvg-logo="" group-title="",FR: Beinsport 3 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 2 HD" tvg-logo="" group-title="",FR: Beinsport 2 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 1 HD" tvg-logo="" group-title="",FR: Beinsport 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M Futboll HD" tvg-logo="" group-title="",ES: M Futboll HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BEIN SPORT ES" tvg-logo="" group-title="",ES: BEIN SPORT ES
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BEIN LALIGA HD" tvg-logo="" group-title="",ES: BEIN LALIGA HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="",DE: Sky Sport 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="",DE: Sky Bundesliga 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 11HD" tvg-logo="" group-title="",Beinsport 11HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 9HD" tvg-logo="" group-title="",BeIN Sport 9HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 8HD" tvg-logo="" group-title="",BeIN Sport 8HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 7HD" tvg-logo="" group-title="",BeIN Sport 7HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 6HD" tvg-logo="" group-title="",BeIN Sport 6HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 5HD" tvg-logo="" group-title="",BeIN Sport 5HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 3HD" tvg-logo="" group-title="",BeIN Sport 3HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 2 HD" tvg-logo="" group-title="",BeIN Sport 2 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 1 HD" tvg-logo="" group-title="",BeIN Sport 1 HD
+http://163.172.36.103:8000/live/TQGrCDGcFY/www.iptvgold.com/1547.ts
