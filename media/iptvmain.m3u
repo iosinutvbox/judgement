@@ -2314,27 +2314,3 @@ http://94.46.245.190:8002/play/a003
 http://94.46.245.190:8002/play/a00e
 #EXTINF:-1,Premier Sports
 http://94.46.245.190:8002/play/a00c
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS HD" tvg-logo="" group-title="NOTICIAS",BBC WORLD NEWS HD
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/755.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="" group-title="SPORTS",BT SPORT 1
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/756.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2" tvg-logo="" group-title="SPORTS",BT SPORT 2
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/757.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="VARIEDADES",AMC
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/764.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
-http://it.tvefilmesf.com:8000/live/kJDUvQL7OM/Oza7iDmEHx/768.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS HD" tvg-logo="" group-title="NOTICIAS",BBC WORLD NEWS HD
-http://50.7.65.34:8000/live/kJDUvQL7OM/Oza7iDmEHx/755.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1" tvg-logo="" group-title="ESPORTES",BT SPORT 1
-http://50.7.65.34:8000/live/kJDUvQL7OM/Oza7iDmEHx/756.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 2" tvg-logo="" group-title="ESPORTES",BT SPORT 2
-http://50.7.65.34:8000/live/kJDUvQL7OM/Oza7iDmEHx/757.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://50.7.65.34:8000/live/kJDUvQL7OM/Oza7iDmEHx/764.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
-http://50.7.65.34:8000/live/kJDUvQL7OM/Oza7iDmEHx/768.ts
