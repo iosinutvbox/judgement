@@ -43,7 +43,7 @@
 	<news>Special Thanks To sClarke For LiveHub Addon Base! This Is A Fork Of LiveHub With Some Changes/Fixes! Credit To sClarke!</news>
   </extension>
 </addon>
-<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.7" provider-name="Judgement/Midraal">
+<addon id="plugin.video.judgementmedia" name="Judgement Media" version="1.8" provider-name="Judgement/Midraal">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -54,9 +54,12 @@
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
         <import addon="script.module.urlresolver" version="1.2.0" />
+		<import addon="plugin.video.judgementiptv" version="" />
+		<import addon="plugin.video.SportsDevil" version="" />
+		<import addon="plugin.video.f4mTester" version="" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
+        <provides>audio video</provides>
     </extension>
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
