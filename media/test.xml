@@ -1,39 +1,9 @@
 <plugin>
-  <title>[COLOR white]Big Cartoon List[/COLOR]</title>
-  <link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/cartoon</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Dubbed Anime[/COLOR]</name>
-<link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
-</plugin>
-
-<plugin>
-  <title>[COLOR white]Big Cartoon List 2[/COLOR]</title>
-  <link>plugin://script.module.streamhub2/?mode=51&url=http://www.toonget.net/cartoon</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Dubbed Anime 2[/COLOR]</name>
-<link>plugin://script.module.streamhub2/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Clear Cache[/COLOR]</name>
-<link>plugin://plugin.video.judgementmedia/?mode=clearCache</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Open Addon Settings[/COLOR]</name>
-<link>plugin://plugin.video.judgementmedia/?action=openSettings</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Real Debrid Login[/COLOR]</name>
-<link>plugin://plugin.video.judgementmedia/?mode=ResolverSettings</link>
-</plugin>
-
-<plugin>
-<name>[COLOR white]Nan Scraper Settings/Logins[/COLOR]</name>
-<link>plugin://plugin.video.judgementmedia/?mode=ScraperSettings</link>
+<title>[B][COLOR white]BT Sports 1[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://streamhunter.top/basketball/miami-heat-at-chicago-bulls-sht5753a74?l=1838572974</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live.livewidget.net/streamvideo10/manchester-united-vs-stoke-live-stream-live-stream-4563758.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipleague.is/football/539349/3/fluminense-vs-barcelona-sc-live-stream-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink>
+</link>
 </plugin>
