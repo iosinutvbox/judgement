@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white]1-Click Play! (720P,1080P)[/COLOR][/B]</title>
+<title>[B][COLOR white]1-Click Play! (720P,1080P,4K)[/COLOR][/B]</title>
 <link>http://</link>
 <thumbnail>https://images.vexels.com/media/users/17482/107186/preview2/92f704115ef396debb4f23dfdcf84ea8-free-vector-hd-icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/judgementwiz/judgement/master/images/wizard/fanart.jpg</fanart>
@@ -319,6 +319,54 @@
 </link>
 <thumbnail>https://image.tmdb.org/t/p/original/29veIwD38rVL2qY74emXQw4y25H.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cVkTGLthpromkyzyCFLvvLPZxFM.jpg</fanart>
+</item>
+
+<item>
+<title>Ghostbusters (1984)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0087332</imdb>
+<title>Ghostbusters</title>
+<year>1984</year>
+</meta>
+<link>
+<sublink>([COLOR white]Link 1: 720p[/COLOR])</sublink>
+<sublink>([COLOR white]Link 2: 1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qTDxirwaX5K35gZKucJ5K8ZQmyo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qmDy6Rdom8d8UFj9GeAAtVIjTRT.jpg</fanart>
+</item>
+
+<item>
+<title>Ghostbusters 2 (1989)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0097428</imdb>
+<title>Ghostbusters 2</title>
+<year>1989</year>
+</meta>
+<link>
+<sublink>([COLOR white]Link 1: 720p[/COLOR])</sublink>
+<sublink>([COLOR white]Link 2: 1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/cgPXID5KlesSy3ZgJgeTUXIcKKZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tDlsTDtC15kJd4vrkQkxqoW4Pse.jpg</fanart>
+</item>
+
+<item>
+<title>Ghostbusters (2016)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1289401</imdb>
+<title>Ghostbusters</title>
+<year>2016</year>
+</meta>
+<link>
+<sublink>([COLOR white]Link 1: 720p[/COLOR])</sublink>
+<sublink>([COLOR white]Link 2: 1080p[/COLOR])</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4qnJ1hsMADxzwnOmnwjZTNp0rKT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lbtG9MTb8i13KhXuyl3bmnqt7Lt.jpg</fanart>
 </item>
 
 <item>
