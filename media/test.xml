@@ -1,0 +1,29 @@
+<plugin>
+  <title>[COLOR white]The Big Cartoon List[/COLOR]</title>
+  <link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/cartoon</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Dubbed Anime[/COLOR]</name>
+<link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Clear Cache[/COLOR]</name>
+<link>plugin://plugin.video.judgementmedia/?mode=clearCache</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Open Addon Settings[/COLOR]</name>
+<link>plugin://plugin.video.judgementmedia/?action=openSettings</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Real Debrid Login[/COLOR]</name>
+<link>plugin://plugin.video.judgementmedia/?mode=ResolverSettings</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Nan Scraper Settings/Logins[/COLOR]</name>
+<link>plugin://plugin.video.judgementmedia/?mode=ScraperSettings</link>
+</plugin>
