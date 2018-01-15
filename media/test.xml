@@ -1,11 +1,21 @@
 <plugin>
-  <title>[COLOR white]The Big Cartoon List[/COLOR]</title>
+  <title>[COLOR white]Big Cartoon List[/COLOR]</title>
   <link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/cartoon</link>
 </plugin>
 
 <plugin>
 <name>[COLOR white]Dubbed Anime[/COLOR]</name>
 <link>plugin://plugin.video.judgementmedia/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
+</plugin>
+
+<plugin>
+  <title>[COLOR white]Big Cartoon List 2[/COLOR]</title>
+  <link>plugin://script.module.streamhub2/?mode=51&url=http://www.toonget.net/cartoon</link>
+</plugin>
+
+<plugin>
+<name>[COLOR white]Dubbed Anime 2[/COLOR]</name>
+<link>plugin://script.module.streamhub2/?mode=51&url=http://www.toonget.net/dubbed-anime</link>
 </plugin>
 
 <plugin>
