@@ -1,7 +1,10 @@
 <plugin>
-<title>[B][COLOR white]BT Sports 1[/COLOR][/B]</title>
+<title>[B][COLOR white]Test[/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://thesportek.com/p/bronba.php?id=A18262&match=Miami%20Heat%20vs%20Chicago%20Bulls</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://thesportek.com/p/pt.php?id=pt-sporttv1&match=Estoril%20vs%20FC%20Porto</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nhl-stream.com/live/los-angeles-kings-live-stream/channel-1/</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tennis-stream.net/live/atp-singles-live-stream-b/channel-1/</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nba-stream.com/live/wizards-live-stream/channel-1/</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://premierleague-lives.com/live/manchester-united-live-stream-8/channel-1/</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nhl-stream.com/live/colorado-avalanche-live-stream/channel-1/</sublink>
 </link>
 </plugin>
