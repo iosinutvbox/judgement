@@ -5,3 +5,17 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.fixalen.info/20180115/vv-1881555-hockey-5a5cb8e4409621.92414332.html</sublink>
 </link>
 </plugin>
+
+<plugin>
+<title>[B][COLOR white]Test 2[/COLOR][/B]</title>
+<link>
+plugin://plugin.video.SportsDevil/?item=url%3dlivesports%252Fsportlemon.cfg%26title%3dStopStream.com%26definedIn%3dC%253A%255CUsers%255CComputer%255CAppData%255CRoaming%255CKodi%255Cuserdata%255Caddon_data%255Cplugin.video.SportsDevil%255Cfavourites%255Cfavourites.cfg%26type%3drss%26icon%3dC%253A%255CUsers%255CComputer%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cstopstream.tv.png&amp;mode=1&quot;,return)
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Test 3[/COLOR][/B]</title>
+<link>
+plugin://plugin.video.SportsDevil/?item=url%3dlivesports%252Fsportlemon.cfg%26title%3dStopStream.com%26definedIn%3dC%253A%255CUsers%255CComputer%255CAppData%255CRoaming%255CKodi%255Cuserdata%255Caddon_data%255Cplugin.video.SportsDevil%255Cfavourites%255Cfavourites.cfg%26type%3drss%26icon%3dC%253A%255CUsers%255CComputer%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cstopstream.tv.png&amp;mode=1&quot;,return
+</link>
+</plugin>
