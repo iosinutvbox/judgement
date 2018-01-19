@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,***** Judgement IPTV! (Test List) *****
+#EXTINF:-1,***** Verdict IPTV! (Test List) *****
 http://
 
 #EXTINF:-1,***** Some Links May Need A Few Clicks! *****
@@ -537,10 +537,6 @@ http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/288.ts
 http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6280.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3867.png" group-title="Sports",Ultimate Events & Sports 4
 http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/6287.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3882.png" group-title="Information",Ultimate Events & Sports 5
-http://lol
-#EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3883.png" group-title="Sports",Ultimate Events & Sports 6
-http://lol
 #EXTINF:-1 tvg-id="" tvg-name="NBA 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3895.png" group-title="Sports",NBA 1
 http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/7793.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3894.png" group-title="Sports",NBA 2
@@ -613,40 +609,6 @@ http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/50.ts
 http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/109.png" group-title="For Adults",Sextreme
 http://p1.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="Adult 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/297.png" group-title="For Adults",Adult 1
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/445.png" group-title="For Adults",Adult 2
-http://178.33.126.213:1935/leved/passielivestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/447.png" group-title="For Adults",Adult 3
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/473.png" group-title="For Adults",Adult 4
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 5" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/475.png" group-title="For Adults",Adult 5
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 6" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/477.png" group-title="For Adults",Adult 6
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/479.png" group-title="For Adults",Adult 7
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 8" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/481.png" group-title="For Adults",Adult 8
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1 tvg-id="" tvg-name="Adult 9" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/483.png" group-title="For Adults",Adult 9
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 10" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/485.png" group-title="For Adults",Adult 10
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 11" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/487.png" group-title="For Adults",Adult 11
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 12" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/489.png" group-title="For Adults",Adult 12
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult 13" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/593.png" group-title="For Adults",Adult 13
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult HD 1" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/595.png" group-title="For Adults",Adult HD 1
-http://iptvnation.com/porn/video1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult HD 2" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/597.png" group-title="For Adults",Adult HD 2
-http://iptvnation.com/porn/video1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult HD 3" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1019.png" group-title="For Adults",Adult HD 3
-http://iptvnation.com/porn/video1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult HD 4" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1021.png" group-title="For Adults",Adult HD 4
-http://iptvnation.com/porn/video1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Murcia TV 7" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3656.png" group-title="Internationals",Murcia TV 7
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 3/24" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3655.png" group-title="Internationals",Canal 3/24
